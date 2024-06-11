@@ -1,0 +1,2501 @@
+Income,Living_Standards,Homeownership_Status,Location,Work_Experience,Type_of_Housing,Number_of_Dependents,Household_Size,Age,Employment_Status
+74948,Medium,Own,Urban,6,Townhouse,3,1,29,Full-time
+979482,High,Rent,Urban,50,Townhouse,5,5,21,Part-time
+3352170,High,Own,Suburban,9,Apartment,3,1,55,Self-employed
+66722,Low,Own,Urban,22,Single-family home,3,6,58,Self-employed
+74950,Medium,Own,Urban,36,Single-family home,3,5,49,Self-employed
+69526,Low,Own,Urban,9,Townhouse,0,1,29,Part-time
+7119340,High,Rent,Urban,16,Apartment,0,7,60,Self-employed
+68392,Low,Own,Urban,10,Single-family home,0,4,63,Full-time
+71308,Medium,Own,Urban,3,Apartment,2,4,27,Part-time
+65442,Low,Own,Urban,24,Single-family home,2,2,24,Self-employed
+518670,High,Own,Urban,4,Apartment,0,1,30,Part-time
+5230969,High,Rent,Urban,48,Single-family home,3,2,69,Full-time
+65474,Low,Rent,Urban,36,Single-family home,0,7,27,Part-time
+367991,High,Rent,Urban,19,Townhouse,3,4,49,Full-time
+66628,Low,Own,Urban,48,Apartment,2,4,33,Part-time
+90150,Medium,Own,Suburban,7,Apartment,2,5,50,Full-time
+72364,Medium,Rent,Suburban,11,Townhouse,0,6,70,Full-time
+5081235,High,Own,Urban,37,Townhouse,1,4,70,Part-time
+73824,Medium,Own,Rural,39,Apartment,4,4,65,Self-employed
+65090,Low,Rent,Suburban,45,Single-family home,3,4,56,Full-time
+65102,Low,Own,Urban,11,Single-family home,4,6,60,Full-time
+1630364,High,Own,Urban,24,Apartment,5,2,47,Part-time
+63583,Low,Own,Urban,27,Single-family home,4,5,62,Full-time
+1327764,High,Rent,Urban,29,Apartment,5,1,51,Part-time
+9167998,High,Rent,Rural,16,Townhouse,2,1,39,Full-time
+2971322,High,Rent,Suburban,6,Townhouse,0,4,21,Part-time
+71836,Medium,Own,Urban,29,Townhouse,4,2,37,Full-time
+206506,High,Rent,Urban,12,Single-family home,1,7,54,Part-time
+71324,Medium,Rent,Urban,13,Single-family home,3,1,56,Full-time
+68858,Low,Own,Urban,41,Apartment,0,1,50,Part-time
+1747095,High,Rent,Suburban,48,Apartment,1,7,48,Part-time
+5064162,High,Rent,Urban,15,Apartment,3,3,40,Full-time
+974747,High,Rent,Urban,37,Townhouse,3,6,58,Full-time
+72588,Medium,Own,Urban,14,Townhouse,1,5,66,Part-time
+251933,High,Rent,Urban,38,Apartment,5,2,51,Self-employed
+73430,Medium,Own,Suburban,21,Townhouse,0,7,22,Full-time
+73808,Medium,Rent,Urban,42,Apartment,4,6,36,Full-time
+72054,Medium,Rent,Urban,50,Single-family home,0,7,70,Full-time
+68602,Low,Own,Urban,28,Apartment,5,7,45,Part-time
+75158,Medium,Own,Urban,28,Apartment,3,6,34,Part-time
+184302,High,Rent,Urban,48,Single-family home,0,1,65,Part-time
+70608,Medium,Own,Rural,20,Single-family home,4,7,46,Full-time
+73332,Medium,Own,Urban,38,Apartment,4,1,30,Part-time
+65394,Low,Own,Urban,22,Single-family home,2,2,21,Full-time
+73856,Medium,Own,Urban,29,Apartment,1,5,38,Part-time
+1226890,High,Rent,Rural,30,Single-family home,4,1,23,Part-time
+71096,Medium,Own,Suburban,14,Apartment,0,6,67,Part-time
+5857775,High,Rent,Suburban,49,Single-family home,2,7,70,Part-time
+69856,Low,Own,Urban,6,Townhouse,0,4,49,Full-time
+3063006,High,Own,Urban,31,Apartment,4,3,68,Part-time
+511392,High,Rent,Suburban,46,Apartment,3,4,66,Full-time
+65826,Low,Own,Suburban,42,Apartment,3,1,37,Full-time
+71275,Medium,Rent,Urban,7,Townhouse,4,2,28,Full-time
+2304474,High,Own,Suburban,22,Apartment,5,6,48,Part-time
+89445,Medium,Rent,Suburban,10,Townhouse,5,7,48,Part-time
+116595,Medium,Rent,Urban,5,Townhouse,3,2,55,Part-time
+67742,Low,Rent,Urban,33,Single-family home,1,1,42,Self-employed
+67218,Low,Own,Suburban,47,Single-family home,0,5,22,Full-time
+1128761,High,Rent,Rural,21,Single-family home,4,2,27,Self-employed
+169594,High,Rent,Urban,41,Single-family home,3,7,42,Full-time
+69352,Low,Rent,Suburban,37,Apartment,4,3,60,Self-employed
+65090,Low,Own,Urban,25,Single-family home,0,1,19,Part-time
+4232941,High,Own,Urban,2,Apartment,3,5,45,Self-employed
+122041,Medium,Rent,Suburban,11,Townhouse,5,2,34,Part-time
+652296,High,Rent,Urban,13,Apartment,1,7,46,Part-time
+176625,High,Rent,Urban,13,Townhouse,4,1,56,Part-time
+74188,Medium,Own,Rural,34,Single-family home,1,5,20,Self-employed
+69420,Low,Rent,Urban,14,Single-family home,4,2,41,Part-time
+73200,Medium,Own,Rural,39,Apartment,2,2,25,Full-time
+72694,Medium,Own,Suburban,33,Single-family home,1,4,70,Self-employed
+68098,Low,Own,Urban,11,Townhouse,5,6,48,Self-employed
+189252,High,Own,Rural,44,Single-family home,5,6,33,Part-time
+65402,Low,Own,Urban,21,Single-family home,0,1,58,Full-time
+4008654,High,Own,Suburban,28,Single-family home,1,7,32,Part-time
+71466,Medium,Own,Urban,13,Apartment,0,4,58,Self-employed
+66164,Low,Rent,Urban,29,Apartment,2,4,43,Full-time
+126173,Medium,Own,Urban,22,Apartment,2,3,33,Full-time
+715669,High,Own,Urban,3,Apartment,4,3,26,Full-time
+71196,Medium,Own,Rural,19,Apartment,4,5,32,Part-time
+65486,Low,Own,Urban,47,Apartment,1,5,37,Part-time
+1078818,High,Own,Urban,17,Apartment,5,1,43,Full-time
+192666,High,Rent,Urban,30,Apartment,5,6,43,Full-time
+65462,Low,Own,Suburban,21,Single-family home,4,6,42,Full-time
+71532,Medium,Rent,Suburban,7,Single-family home,3,5,43,Part-time
+1768980,High,Rent,Urban,23,Single-family home,1,6,18,Full-time
+4562747,High,Own,Urban,19,Single-family home,4,2,46,Part-time
+73874,Medium,Own,Rural,24,Apartment,1,1,43,Self-employed
+66254,Low,Rent,Urban,9,Single-family home,5,6,24,Full-time
+1659982,High,Rent,Urban,43,Single-family home,3,6,20,Full-time
+50731,Low,Rent,Urban,9,Apartment,0,5,29,Full-time
+70366,Medium,Rent,Suburban,37,Townhouse,2,5,43,Part-time
+73588,Medium,Rent,Suburban,40,Townhouse,4,5,33,Full-time
+66950,Low,Own,Urban,50,Apartment,5,3,61,Part-time
+71230,Medium,Rent,Rural,1,Single-family home,0,2,59,Full-time
+803474,High,Own,Urban,13,Single-family home,5,7,26,Part-time
+79533,Medium,Rent,Urban,29,Single-family home,4,2,48,Part-time
+65696,Low,Own,Urban,29,Townhouse,4,7,55,Full-time
+68820,Low,Rent,Urban,11,Single-family home,2,7,62,Full-time
+276860,High,Rent,Urban,9,Apartment,4,7,25,Full-time
+74874,Medium,Own,Urban,50,Single-family home,2,7,66,Full-time
+74742,Medium,Own,Suburban,14,Single-family home,1,1,23,Part-time
+3564037,High,Own,Urban,4,Townhouse,1,5,38,Part-time
+67602,Low,Rent,Urban,25,Single-family home,1,1,41,Self-employed
+7189806,High,Rent,Urban,2,Single-family home,5,1,37,Self-employed
+9504771,High,Own,Urban,22,Apartment,3,6,28,Full-time
+74004,Medium,Own,Urban,47,Apartment,5,2,21,Full-time
+815891,High,Own,Urban,22,Single-family home,4,3,38,Self-employed
+75140,Medium,Own,Urban,30,Apartment,4,6,39,Full-time
+157715,High,Own,Urban,1,Apartment,3,6,63,Part-time
+71074,Medium,Rent,Urban,29,Townhouse,5,6,46,Full-time
+69562,Low,Own,Urban,15,Single-family home,3,1,47,Full-time
+73562,Medium,Own,Urban,15,Single-family home,1,2,43,Full-time
+71266,Medium,Rent,Suburban,44,Single-family home,2,4,64,Full-time
+70136,Medium,Own,Urban,3,Single-family home,2,3,62,Full-time
+65152,Low,Own,Suburban,6,Townhouse,5,4,27,Full-time
+286374,High,Rent,Urban,12,Townhouse,1,1,56,Part-time
+71806,Medium,Own,Urban,32,Single-family home,0,2,21,Full-time
+371642,High,Rent,Suburban,36,Single-family home,3,2,22,Full-time
+50625,Low,Own,Urban,45,Apartment,1,4,33,Self-employed
+31309,Low,Own,Urban,38,Apartment,3,5,21,Self-employed
+2772770,High,Rent,Urban,37,Single-family home,4,2,50,Part-time
+110585,Medium,Rent,Suburban,36,Apartment,5,5,24,Full-time
+65682,Low,Rent,Urban,15,Apartment,2,7,37,Full-time
+447850,High,Own,Urban,1,Single-family home,4,1,48,Self-employed
+3381177,High,Own,Urban,7,Single-family home,3,7,40,Full-time
+65378,Low,Own,Urban,24,Apartment,2,7,41,Full-time
+75100,Medium,Rent,Urban,8,Apartment,1,7,40,Part-time
+274618,High,Rent,Urban,28,Apartment,2,5,43,Full-time
+5029815,High,Rent,Urban,28,Single-family home,3,1,23,Full-time
+72240,Medium,Own,Suburban,33,Single-family home,3,4,62,Full-time
+76449,Medium,Rent,Urban,19,Apartment,5,3,28,Full-time
+9531509,High,Own,Suburban,27,Townhouse,5,7,34,Part-time
+68470,Low,Own,Suburban,50,Apartment,4,3,20,Self-employed
+266162,High,Rent,Urban,23,Apartment,4,2,55,Self-employed
+39291,Low,Rent,Urban,45,Apartment,5,5,45,Part-time
+5468201,High,Rent,Urban,49,Single-family home,0,3,45,Full-time
+70994,Medium,Rent,Urban,46,Single-family home,5,7,64,Full-time
+65868,Low,Rent,Urban,26,Apartment,4,6,19,Full-time
+73200,Medium,Own,Urban,28,Single-family home,5,6,33,Part-time
+70650,Medium,Own,Urban,20,Apartment,1,6,26,Self-employed
+292320,High,Own,Urban,28,Single-family home,0,1,39,Self-employed
+70316,Medium,Rent,Urban,43,Single-family home,4,2,30,Part-time
+3117233,High,Own,Urban,45,Apartment,5,4,35,Part-time
+72824,Medium,Own,Urban,39,Apartment,0,5,51,Full-time
+90266,Medium,Rent,Urban,4,Single-family home,1,1,55,Part-time
+41166,Low,Rent,Rural,18,Single-family home,3,5,61,Full-time
+71888,Medium,Own,Urban,30,Apartment,5,6,26,Self-employed
+70214,Medium,Rent,Urban,3,Townhouse,3,7,35,Part-time
+2892944,High,Rent,Urban,29,Single-family home,2,7,68,Full-time
+72780,Medium,Own,Urban,35,Single-family home,2,1,38,Full-time
+73748,Medium,Rent,Suburban,2,Townhouse,0,1,63,Part-time
+301868,High,Rent,Urban,30,Single-family home,2,7,50,Part-time
+723533,High,Rent,Urban,37,Single-family home,5,4,18,Part-time
+68634,Low,Own,Urban,31,Single-family home,5,6,30,Full-time
+2362136,High,Own,Suburban,23,Apartment,2,1,38,Part-time
+68834,Low,Own,Urban,45,Apartment,3,4,28,Full-time
+3140438,High,Rent,Rural,28,Apartment,0,4,53,Part-time
+75416,Medium,Own,Urban,24,Single-family home,4,5,64,Part-time
+461267,High,Own,Urban,15,Single-family home,3,2,19,Part-time
+66402,Low,Own,Rural,3,Single-family home,4,3,19,Self-employed
+63809,Low,Own,Urban,25,Townhouse,2,6,69,Full-time
+302333,High,Own,Urban,7,Apartment,1,7,19,Part-time
+85950,Medium,Own,Urban,37,Single-family home,1,3,30,Part-time
+264728,High,Rent,Urban,13,Single-family home,4,2,18,Full-time
+63305,Low,Rent,Urban,10,Apartment,5,2,25,Self-employed
+72810,Medium,Rent,Urban,3,Apartment,4,7,38,Part-time
+70404,Medium,Own,Urban,16,Apartment,1,5,63,Self-employed
+73594,Medium,Rent,Suburban,43,Single-family home,3,7,44,Part-time
+69670,Low,Own,Rural,37,Townhouse,3,6,47,Full-time
+69886,Low,Own,Urban,48,Apartment,1,6,69,Self-employed
+48221,Low,Rent,Urban,20,Apartment,3,3,21,Self-employed
+67420,Low,Own,Suburban,5,Single-family home,0,2,32,Full-time
+64928,Low,Rent,Suburban,47,Townhouse,3,7,27,Full-time
+65428,Low,Own,Rural,18,Single-family home,3,1,27,Full-time
+483901,High,Rent,Urban,11,Single-family home,1,6,65,Full-time
+70668,Medium,Own,Urban,31,Single-family home,0,7,45,Full-time
+404359,High,Rent,Urban,40,Apartment,1,7,27,Full-time
+66434,Low,Rent,Rural,43,Single-family home,0,2,21,Full-time
+70110,Medium,Own,Urban,25,Apartment,3,1,50,Full-time
+68982,Low,Own,Suburban,21,Single-family home,3,6,61,Full-time
+1711577,High,Rent,Suburban,32,Apartment,0,3,61,Full-time
+69854,Low,Rent,Suburban,1,Apartment,5,6,67,Part-time
+70734,Medium,Own,Urban,44,Single-family home,4,6,23,Full-time
+75460,Medium,Own,Urban,48,Apartment,2,5,41,Full-time
+74754,Medium,Own,Urban,1,Townhouse,1,5,60,Full-time
+72742,Medium,Own,Suburban,20,Apartment,1,5,47,Full-time
+71670,Medium,Rent,Urban,32,Single-family home,1,4,35,Full-time
+5411144,High,Rent,Suburban,18,Single-family home,2,2,47,Self-employed
+2323652,High,Rent,Urban,39,Single-family home,1,6,56,Full-time
+65190,Low,Own,Urban,17,Single-family home,3,7,36,Self-employed
+72382,Medium,Own,Urban,48,Townhouse,3,6,43,Self-employed
+65144,Low,Own,Urban,22,Apartment,4,5,70,Part-time
+66344,Low,Own,Urban,45,Apartment,4,5,51,Part-time
+66296,Low,Own,Urban,12,Townhouse,1,6,54,Full-time
+3651411,High,Own,Urban,33,Apartment,5,4,59,Full-time
+859847,High,Rent,Urban,22,Apartment,0,6,25,Full-time
+70724,Medium,Rent,Urban,9,Single-family home,4,6,40,Full-time
+69846,Low,Own,Urban,21,Apartment,5,5,63,Full-time
+525320,High,Own,Urban,25,Apartment,5,3,18,Part-time
+68440,Low,Own,Urban,29,Townhouse,2,1,64,Full-time
+74698,Medium,Rent,Urban,38,Single-family home,5,3,62,Full-time
+118144,Medium,Rent,Urban,39,Single-family home,5,4,44,Part-time
+6313445,High,Rent,Urban,30,Apartment,0,7,57,Self-employed
+3064841,High,Rent,Suburban,38,Single-family home,3,4,44,Full-time
+1326637,High,Own,Suburban,6,Apartment,2,2,30,Full-time
+75006,Medium,Rent,Urban,0,Single-family home,0,3,65,Full-time
+75098,Medium,Own,Suburban,7,Townhouse,3,4,40,Full-time
+66520,Low,Rent,Urban,43,Apartment,2,1,43,Self-employed
+1693554,High,Own,Urban,5,Townhouse,2,4,18,Part-time
+68298,Low,Rent,Urban,19,Single-family home,4,6,64,Full-time
+70862,Medium,Rent,Rural,45,Single-family home,4,3,43,Full-time
+74762,Medium,Own,Urban,37,Apartment,3,5,70,Full-time
+74640,Medium,Rent,Urban,34,Townhouse,4,1,42,Part-time
+74612,Medium,Rent,Urban,30,Townhouse,3,5,48,Self-employed
+1037217,High,Rent,Rural,5,Single-family home,4,5,25,Full-time
+73048,Medium,Own,Urban,25,Apartment,4,3,46,Full-time
+71510,Medium,Own,Urban,8,Townhouse,0,1,63,Part-time
+66666,Low,Own,Urban,10,Townhouse,2,6,64,Full-time
+67182,Low,Own,Urban,17,Single-family home,0,2,23,Part-time
+1395543,High,Own,Urban,7,Single-family home,1,1,43,Part-time
+68400,Low,Rent,Urban,18,Apartment,4,4,66,Full-time
+36683,Low,Own,Suburban,19,Apartment,5,4,40,Part-time
+73160,Medium,Own,Suburban,4,Single-family home,0,4,55,Full-time
+72734,Medium,Own,Urban,21,Single-family home,3,7,35,Self-employed
+71982,Medium,Own,Suburban,41,Townhouse,4,4,42,Full-time
+74046,Medium,Rent,Suburban,12,Apartment,3,1,53,Full-time
+69088,Low,Own,Urban,45,Single-family home,5,6,21,Full-time
+196975,High,Rent,Urban,27,Apartment,2,2,39,Full-time
+388552,High,Rent,Urban,23,Apartment,0,1,42,Full-time
+73772,Medium,Own,Suburban,44,Townhouse,5,1,41,Part-time
+3200128,High,Own,Suburban,36,Single-family home,4,5,30,Part-time
+68864,Low,Rent,Suburban,49,Apartment,1,6,66,Full-time
+74470,Medium,Own,Urban,3,Townhouse,5,6,59,Full-time
+76818,Medium,Rent,Rural,28,Apartment,4,5,21,Self-employed
+147669,Medium,Rent,Suburban,35,Apartment,4,5,59,Full-time
+65502,Low,Own,Suburban,32,Single-family home,2,2,60,Self-employed
+5532664,High,Own,Urban,32,Apartment,2,3,19,Part-time
+71690,Medium,Own,Suburban,34,Apartment,1,7,29,Full-time
+74206,Medium,Rent,Urban,45,Townhouse,1,7,57,Full-time
+2176245,High,Rent,Suburban,28,Single-family home,0,7,68,Part-time
+33597,Low,Own,Suburban,14,Apartment,5,7,30,Full-time
+804205,High,Own,Urban,45,Single-family home,2,1,41,Self-employed
+71356,Medium,Own,Urban,45,Single-family home,4,7,25,Part-time
+65770,Low,Own,Urban,12,Apartment,4,5,63,Full-time
+71272,Medium,Own,Urban,49,Townhouse,4,5,40,Part-time
+74676,Medium,Own,Urban,17,Apartment,1,4,47,Self-employed
+66764,Low,Own,Urban,7,Apartment,2,4,53,Full-time
+613515,High,Own,Rural,18,Single-family home,4,7,43,Part-time
+2867390,High,Own,Suburban,11,Single-family home,5,3,45,Full-time
+74710,Medium,Own,Urban,24,Single-family home,4,5,40,Self-employed
+66376,Low,Own,Suburban,28,Apartment,3,4,52,Self-employed
+72224,Medium,Rent,Suburban,1,Townhouse,0,5,43,Part-time
+1811336,High,Own,Suburban,30,Single-family home,2,4,28,Part-time
+134245,Medium,Rent,Suburban,5,Single-family home,0,7,50,Full-time
+273561,High,Own,Urban,23,Apartment,3,4,35,Part-time
+72800,Medium,Own,Urban,39,Single-family home,2,2,61,Full-time
+1762154,High,Rent,Urban,24,Single-family home,5,3,46,Self-employed
+832287,High,Own,Suburban,12,Single-family home,3,5,54,Part-time
+5477453,High,Own,Urban,11,Townhouse,5,2,58,Full-time
+74934,Medium,Rent,Urban,21,Single-family home,0,6,24,Self-employed
+559295,High,Rent,Urban,26,Townhouse,1,5,60,Part-time
+65314,Low,Own,Urban,25,Townhouse,0,3,31,Full-time
+73092,Medium,Own,Suburban,1,Single-family home,2,1,25,Part-time
+347398,High,Own,Urban,36,Single-family home,0,7,32,Self-employed
+115024,Medium,Rent,Urban,9,Single-family home,2,3,51,Self-employed
+5730227,High,Own,Urban,3,Apartment,1,3,21,Full-time
+67388,Low,Own,Urban,8,Apartment,1,6,31,Full-time
+69872,Low,Own,Urban,38,Apartment,5,6,67,Part-time
+1722392,High,Own,Rural,32,Apartment,4,3,39,Part-time
+71758,Medium,Own,Urban,12,Apartment,1,2,35,Full-time
+123353,Medium,Rent,Urban,3,Single-family home,1,2,39,Self-employed
+3668164,High,Rent,Urban,46,Apartment,3,1,39,Part-time
+9277180,High,Rent,Urban,1,Apartment,1,2,32,Full-time
+67898,Low,Own,Suburban,20,Single-family home,5,4,48,Part-time
+1532447,High,Own,Suburban,33,Apartment,5,2,41,Full-time
+88871,Medium,Rent,Urban,2,Single-family home,2,4,34,Self-employed
+204685,High,Rent,Urban,20,Apartment,1,2,25,Full-time
+71464,Medium,Own,Urban,4,Single-family home,1,6,49,Self-employed
+66392,Low,Own,Urban,33,Single-family home,4,5,45,Full-time
+446052,High,Own,Urban,48,Single-family home,1,2,61,Self-employed
+107670,Medium,Rent,Suburban,46,Apartment,0,3,50,Part-time
+65992,Low,Rent,Urban,6,Apartment,0,1,59,Part-time
+67218,Low,Own,Urban,35,Apartment,2,4,58,Part-time
+105360,Medium,Rent,Urban,9,Townhouse,5,4,18,Full-time
+68930,Low,Own,Urban,28,Single-family home,3,7,70,Self-employed
+67796,Low,Own,Urban,37,Single-family home,0,6,18,Self-employed
+66826,Low,Own,Urban,49,Apartment,3,4,48,Full-time
+468570,High,Rent,Suburban,10,Townhouse,3,3,50,Full-time
+73574,Medium,Own,Urban,36,Apartment,4,4,47,Full-time
+66298,Low,Own,Urban,24,Single-family home,1,3,20,Part-time
+8166012,High,Own,Urban,3,Townhouse,3,1,42,Part-time
+75298,Medium,Rent,Rural,43,Apartment,0,6,64,Full-time
+67200,Low,Own,Urban,41,Single-family home,3,2,29,Part-time
+75248,Medium,Own,Urban,45,Single-family home,5,2,48,Full-time
+639122,High,Own,Suburban,27,Townhouse,2,4,44,Self-employed
+71074,Medium,Own,Urban,6,Apartment,1,1,53,Full-time
+328368,High,Rent,Urban,24,Apartment,2,1,56,Self-employed
+66324,Low,Rent,Rural,38,Apartment,3,6,59,Part-time
+35967,Low,Rent,Urban,10,Single-family home,4,5,69,Full-time
+65438,Low,Own,Suburban,2,Single-family home,1,1,28,Part-time
+67894,Low,Own,Rural,24,Townhouse,3,1,28,Self-employed
+874283,High,Own,Suburban,30,Apartment,3,1,21,Full-time
+66218,Low,Own,Rural,41,Single-family home,3,2,25,Self-employed
+42534,Low,Own,Urban,27,Townhouse,0,5,23,Full-time
+67334,Low,Own,Urban,23,Townhouse,3,1,37,Part-time
+4671851,High,Own,Suburban,35,Single-family home,3,4,60,Part-time
+73686,Medium,Own,Rural,38,Townhouse,3,2,28,Self-employed
+4482422,High,Own,Urban,10,Townhouse,4,3,36,Part-time
+5073599,High,Own,Rural,45,Single-family home,4,1,27,Full-time
+73616,Medium,Rent,Suburban,9,Apartment,4,2,46,Part-time
+69422,Low,Own,Suburban,33,Apartment,2,4,55,Self-employed
+39796,Low,Own,Urban,31,Apartment,2,7,63,Self-employed
+68604,Low,Rent,Urban,4,Apartment,0,2,56,Part-time
+74142,Medium,Rent,Urban,9,Apartment,5,3,21,Self-employed
+66898,Low,Own,Urban,40,Apartment,1,2,42,Full-time
+6578778,High,Rent,Suburban,17,Townhouse,4,5,60,Self-employed
+3664186,High,Rent,Urban,48,Single-family home,5,6,19,Full-time
+68592,Low,Rent,Rural,48,Townhouse,0,3,45,Full-time
+71924,Medium,Own,Suburban,21,Single-family home,2,7,40,Self-employed
+749476,High,Rent,Urban,21,Townhouse,3,4,21,Full-time
+66842,Low,Rent,Urban,4,Apartment,3,2,35,Full-time
+73202,Medium,Rent,Urban,0,Single-family home,4,6,68,Full-time
+400782,High,Rent,Urban,6,Single-family home,1,2,66,Full-time
+4793192,High,Own,Rural,43,Single-family home,3,3,53,Part-time
+68404,Low,Own,Suburban,9,Apartment,4,1,55,Full-time
+67340,Low,Own,Urban,29,Apartment,1,1,33,Part-time
+8108664,High,Rent,Urban,19,Single-family home,0,2,31,Full-time
+4687100,High,Rent,Urban,44,Single-family home,5,7,67,Part-time
+72498,Medium,Own,Urban,34,Townhouse,4,6,34,Part-time
+74060,Medium,Own,Urban,40,Single-family home,4,5,23,Full-time
+7096066,High,Rent,Urban,50,Townhouse,1,2,59,Part-time
+68664,Low,Rent,Urban,48,Apartment,1,5,32,Self-employed
+64952,Low,Own,Urban,27,Single-family home,1,2,59,Part-time
+71924,Medium,Rent,Suburban,2,Single-family home,3,3,42,Full-time
+5080192,High,Own,Urban,41,Townhouse,0,3,62,Part-time
+73720,Medium,Rent,Rural,42,Apartment,4,2,69,Full-time
+69330,Low,Rent,Suburban,2,Single-family home,2,6,40,Full-time
+70752,Medium,Own,Urban,9,Apartment,5,2,65,Full-time
+1234364,High,Own,Suburban,9,Single-family home,0,4,62,Part-time
+66886,Low,Own,Urban,33,Apartment,4,4,37,Full-time
+74620,Medium,Own,Suburban,14,Single-family home,3,1,54,Full-time
+74260,Medium,Own,Urban,20,Apartment,4,7,55,Full-time
+3119643,High,Own,Suburban,13,Single-family home,3,2,31,Full-time
+2076837,High,Own,Urban,9,Single-family home,4,6,44,Part-time
+69386,Low,Own,Rural,45,Single-family home,1,3,21,Full-time
+71262,Medium,Rent,Urban,8,Apartment,5,6,32,Part-time
+67884,Low,Own,Rural,36,Townhouse,4,5,45,Full-time
+73496,Medium,Own,Suburban,15,Apartment,2,6,42,Part-time
+72978,Medium,Own,Urban,28,Apartment,3,5,69,Self-employed
+37564,Low,Rent,Urban,26,Apartment,5,7,38,Full-time
+72534,Medium,Own,Urban,25,Single-family home,2,1,55,Full-time
+69152,Low,Own,Urban,9,Single-family home,4,2,69,Full-time
+5546603,High,Own,Urban,15,Apartment,2,3,34,Full-time
+1530234,High,Own,Urban,9,Apartment,4,7,49,Part-time
+71992,Medium,Own,Urban,11,Single-family home,3,4,32,Self-employed
+35844,Low,Own,Urban,26,Townhouse,1,3,64,Full-time
+64954,Low,Rent,Suburban,41,Apartment,2,4,43,Part-time
+328205,High,Own,Suburban,3,Single-family home,2,2,22,Full-time
+464320,High,Rent,Suburban,7,Single-family home,0,6,20,Self-employed
+3037489,High,Rent,Urban,25,Townhouse,5,6,66,Full-time
+68862,Low,Rent,Urban,6,Single-family home,3,3,70,Part-time
+69566,Low,Rent,Suburban,5,Single-family home,2,3,61,Part-time
+484044,High,Own,Suburban,4,Single-family home,3,3,53,Full-time
+399844,High,Rent,Urban,28,Townhouse,3,5,38,Part-time
+68304,Low,Rent,Suburban,39,Townhouse,5,3,55,Full-time
+70898,Medium,Own,Suburban,21,Single-family home,1,3,51,Part-time
+46386,Low,Own,Urban,5,Single-family home,5,7,36,Part-time
+190368,High,Own,Urban,27,Single-family home,3,1,69,Full-time
+75474,Medium,Own,Suburban,42,Single-family home,5,7,50,Full-time
+53407,Low,Rent,Urban,34,Apartment,1,7,68,Part-time
+70762,Medium,Own,Urban,21,Single-family home,5,5,19,Full-time
+66188,Low,Rent,Urban,29,Single-family home,0,6,32,Full-time
+70662,Medium,Own,Urban,5,Townhouse,0,2,26,Self-employed
+68860,Low,Own,Urban,15,Single-family home,0,6,65,Self-employed
+72274,Medium,Own,Suburban,36,Single-family home,4,1,56,Part-time
+736602,High,Rent,Urban,45,Single-family home,0,6,23,Part-time
+69216,Low,Rent,Urban,39,Townhouse,0,3,54,Full-time
+72690,Medium,Rent,Suburban,28,Townhouse,0,7,41,Full-time
+68136,Low,Own,Suburban,35,Single-family home,2,3,62,Full-time
+66908,Low,Rent,Urban,35,Apartment,4,2,22,Part-time
+2305149,High,Own,Urban,48,Single-family home,0,2,38,Full-time
+67324,Low,Own,Suburban,35,Apartment,0,2,58,Part-time
+74496,Medium,Own,Urban,44,Apartment,1,2,45,Part-time
+75464,Medium,Own,Suburban,22,Apartment,3,3,21,Self-employed
+341734,High,Own,Urban,17,Apartment,4,5,65,Full-time
+3655096,High,Rent,Suburban,33,Apartment,0,2,55,Full-time
+1123190,High,Own,Suburban,1,Apartment,5,4,70,Self-employed
+73428,Medium,Own,Urban,39,Townhouse,0,1,64,Full-time
+72644,Medium,Own,Urban,32,Apartment,1,6,25,Full-time
+68738,Low,Own,Suburban,43,Single-family home,3,2,40,Full-time
+1806605,High,Rent,Urban,45,Single-family home,1,3,19,Part-time
+5703590,High,Own,Urban,26,Apartment,5,6,42,Full-time
+84649,Medium,Rent,Suburban,9,Apartment,4,2,63,Full-time
+38856,Low,Own,Urban,50,Single-family home,3,3,66,Self-employed
+74978,Medium,Own,Urban,49,Apartment,2,7,67,Full-time
+73196,Medium,Own,Urban,20,Apartment,2,4,31,Self-employed
+68510,Low,Rent,Urban,33,Apartment,2,5,53,Part-time
+81916,Medium,Rent,Urban,16,Apartment,1,1,66,Part-time
+66314,Low,Own,Urban,18,Townhouse,5,5,23,Part-time
+74852,Medium,Own,Rural,25,Single-family home,1,5,28,Self-employed
+69408,Low,Own,Urban,24,Single-family home,5,1,61,Self-employed
+2736301,High,Own,Urban,5,Single-family home,2,6,64,Full-time
+71504,Medium,Own,Urban,25,Apartment,2,7,45,Full-time
+73406,Medium,Rent,Rural,6,Townhouse,1,1,25,Part-time
+65392,Low,Own,Suburban,38,Townhouse,0,3,57,Self-employed
+71456,Medium,Own,Urban,41,Apartment,1,1,25,Part-time
+72268,Medium,Own,Suburban,14,Apartment,4,6,36,Full-time
+65786,Low,Own,Urban,15,Apartment,1,2,57,Full-time
+71618,Medium,Own,Urban,15,Apartment,3,7,21,Full-time
+65258,Low,Rent,Urban,48,Single-family home,5,1,61,Full-time
+70966,Medium,Own,Suburban,23,Single-family home,3,6,23,Part-time
+650220,High,Rent,Rural,50,Apartment,0,3,60,Full-time
+67058,Low,Rent,Urban,0,Single-family home,5,4,23,Full-time
+74632,Medium,Own,Urban,29,Apartment,1,4,51,Self-employed
+74306,Medium,Rent,Rural,24,Townhouse,1,7,55,Full-time
+68648,Low,Rent,Suburban,6,Single-family home,1,4,36,Part-time
+66308,Low,Own,Urban,49,Single-family home,2,3,23,Self-employed
+72056,Medium,Rent,Urban,44,Single-family home,5,4,47,Full-time
+66794,Low,Own,Urban,17,Single-family home,0,3,28,Full-time
+1703881,High,Own,Urban,4,Apartment,1,6,70,Full-time
+66744,Low,Rent,Urban,4,Single-family home,3,5,29,Full-time
+69137,Low,Own,Urban,27,Single-family home,5,1,65,Self-employed
+57072,Low,Own,Suburban,36,Apartment,1,3,54,Part-time
+1047140,High,Own,Rural,7,Townhouse,1,5,60,Full-time
+65712,Low,Own,Urban,49,Apartment,1,3,51,Full-time
+756798,High,Rent,Rural,38,Apartment,4,6,57,Self-employed
+66058,Low,Rent,Urban,1,Single-family home,3,4,35,Full-time
+8024785,High,Own,Urban,30,Apartment,2,5,46,Part-time
+7294526,High,Rent,Urban,27,Single-family home,1,2,52,Full-time
+464328,High,Rent,Rural,39,Single-family home,0,7,33,Part-time
+704183,High,Rent,Suburban,45,Single-family home,5,4,24,Part-time
+60046,Low,Rent,Urban,39,Single-family home,5,3,26,Full-time
+72525,Medium,Rent,Rural,37,Apartment,3,3,46,Full-time
+73433,Medium,Own,Urban,41,Townhouse,2,1,62,Full-time
+8654309,High,Own,Urban,10,Single-family home,1,4,44,Part-time
+89930,Medium,Own,Urban,16,Apartment,3,5,46,Part-time
+68490,Low,Own,Urban,26,Apartment,3,4,34,Full-time
+71192,Medium,Own,Urban,16,Single-family home,3,7,51,Full-time
+72042,Medium,Own,Urban,10,Townhouse,0,3,47,Full-time
+68690,Low,Own,Suburban,22,Townhouse,1,6,70,Self-employed
+70552,Medium,Rent,Urban,7,Townhouse,4,4,47,Full-time
+65536,Low,Rent,Urban,44,Townhouse,1,4,49,Full-time
+69408,Low,Own,Urban,24,Townhouse,5,5,21,Full-time
+74322,Medium,Own,Urban,20,Apartment,4,5,25,Self-employed
+74650,Medium,Own,Rural,13,Townhouse,0,4,65,Full-time
+41398,Low,Rent,Urban,41,Apartment,0,1,38,Part-time
+64978,Low,Own,Urban,23,Apartment,0,6,33,Full-time
+68738,Low,Own,Urban,9,Townhouse,3,3,35,Part-time
+70804,Medium,Rent,Urban,1,Apartment,4,6,20,Full-time
+67164,Low,Own,Urban,23,Apartment,0,3,68,Self-employed
+65554,Low,Own,Urban,4,Single-family home,2,1,30,Full-time
+124645,Medium,Rent,Urban,2,Townhouse,0,6,35,Full-time
+73552,Medium,Own,Urban,32,Single-family home,3,6,52,Part-time
+70082,Medium,Own,Urban,43,Apartment,4,7,46,Full-time
+266122,High,Own,Suburban,12,Apartment,5,1,32,Part-time
+63902,Low,Rent,Urban,2,Townhouse,1,3,51,Full-time
+2850156,High,Own,Suburban,2,Townhouse,5,2,29,Part-time
+72062,Medium,Own,Urban,29,Single-family home,5,6,36,Part-time
+36151,Low,Rent,Rural,12,Apartment,3,7,46,Full-time
+67520,Low,Own,Suburban,37,Apartment,4,3,19,Self-employed
+71760,Medium,Rent,Urban,12,Apartment,4,3,18,Part-time
+68428,Low,Own,Urban,18,Apartment,0,5,46,Full-time
+1483581,High,Own,Urban,12,Single-family home,5,3,41,Part-time
+73434,Medium,Own,Suburban,47,Apartment,2,6,36,Self-employed
+1189645,High,Own,Suburban,3,Single-family home,1,1,27,Full-time
+74634,Medium,Rent,Urban,33,Townhouse,3,2,23,Full-time
+68698,Low,Own,Urban,16,Single-family home,3,2,66,Full-time
+284420,High,Own,Urban,5,Apartment,5,6,28,Self-employed
+1119071,High,Rent,Urban,6,Apartment,3,3,39,Full-time
+75412,Medium,Own,Urban,28,Apartment,2,7,42,Self-employed
+66584,Low,Own,Suburban,45,Apartment,3,1,59,Part-time
+1140841,High,Rent,Urban,8,Townhouse,0,7,31,Full-time
+66792,Low,Own,Urban,29,Single-family home,1,2,46,Part-time
+68494,Low,Own,Urban,0,Single-family home,1,5,60,Full-time
+68958,Low,Own,Urban,21,Apartment,4,2,56,Part-time
+1317332,High,Rent,Rural,2,Single-family home,5,7,38,Full-time
+72390,Medium,Rent,Rural,50,Townhouse,1,3,65,Part-time
+65372,Low,Own,Urban,36,Apartment,4,2,55,Full-time
+69892,Low,Own,Urban,48,Single-family home,2,7,38,Self-employed
+74222,Medium,Own,Urban,29,Single-family home,4,5,49,Full-time
+73212,Medium,Rent,Suburban,17,Townhouse,2,5,27,Self-employed
+772239,High,Rent,Urban,24,Single-family home,5,3,47,Full-time
+9392668,High,Own,Urban,44,Townhouse,2,3,58,Self-employed
+4545798,High,Own,Urban,6,Apartment,4,4,65,Full-time
+70022,Medium,Own,Urban,22,Apartment,3,1,18,Full-time
+91943,Medium,Rent,Urban,32,Apartment,4,1,23,Full-time
+3584362,High,Rent,Rural,20,Single-family home,3,4,38,Full-time
+32132,Low,Rent,Urban,39,Apartment,4,7,34,Full-time
+73012,Medium,Rent,Urban,13,Apartment,0,5,49,Full-time
+66530,Low,Own,Suburban,36,Apartment,4,5,47,Part-time
+68654,Low,Own,Suburban,21,Apartment,2,4,40,Full-time
+68380,Low,Own,Urban,49,Apartment,0,2,57,Full-time
+70176,Medium,Own,Urban,43,Townhouse,2,6,68,Full-time
+4411782,High,Own,Urban,11,Single-family home,3,2,29,Part-time
+53519,Low,Own,Urban,32,Apartment,0,6,34,Self-employed
+75428,Medium,Rent,Urban,25,Apartment,3,7,52,Full-time
+279496,High,Rent,Rural,12,Apartment,2,6,37,Self-employed
+49864,Low,Own,Urban,18,Apartment,5,2,20,Part-time
+578970,High,Rent,Suburban,22,Single-family home,1,6,45,Full-time
+72760,Medium,Rent,Suburban,39,Single-family home,3,7,66,Full-time
+72618,Medium,Own,Urban,18,Townhouse,4,6,69,Self-employed
+67626,Low,Rent,Urban,15,Single-family home,0,7,56,Self-employed
+417271,High,Rent,Urban,15,Single-family home,5,2,39,Self-employed
+69050,Low,Own,Urban,45,Apartment,0,5,40,Full-time
+3677189,High,Own,Rural,44,Single-family home,5,7,52,Part-time
+339329,High,Own,Urban,24,Townhouse,0,1,57,Full-time
+68930,Low,Own,Urban,0,Apartment,4,2,35,Full-time
+66398,Low,Own,Urban,15,Apartment,3,3,20,Full-time
+75208,Medium,Own,Urban,4,Townhouse,1,3,28,Self-employed
+66061,Low,Rent,Urban,2,Townhouse,1,7,45,Part-time
+65892,Low,Own,Urban,8,Single-family home,5,2,19,Part-time
+1482244,High,Own,Rural,24,Apartment,0,5,41,Self-employed
+69958,Low,Own,Suburban,23,Single-family home,5,2,45,Full-time
+3172180,High,Rent,Urban,40,Single-family home,0,3,21,Full-time
+4333422,High,Rent,Rural,20,Single-family home,5,3,20,Self-employed
+68352,Low,Own,Urban,43,Single-family home,5,4,59,Full-time
+4271221,High,Own,Urban,36,Apartment,1,7,43,Full-time
+73752,Medium,Own,Urban,23,Apartment,4,1,62,Self-employed
+66812,Low,Rent,Urban,47,Apartment,0,2,50,Full-time
+488866,High,Own,Urban,1,Apartment,2,6,59,Full-time
+65756,Low,Own,Urban,15,Single-family home,3,5,50,Part-time
+70490,Medium,Own,Urban,41,Apartment,5,3,40,Full-time
+480196,High,Rent,Urban,23,Apartment,0,7,19,Self-employed
+1852932,High,Own,Urban,12,Single-family home,5,5,62,Part-time
+617758,High,Rent,Urban,8,Townhouse,4,4,38,Full-time
+65939,Low,Own,Rural,31,Apartment,2,1,22,Part-time
+180920,High,Rent,Suburban,25,Single-family home,5,5,33,Part-time
+75442,Medium,Own,Urban,25,Single-family home,2,7,24,Full-time
+306052,High,Rent,Suburban,33,Single-family home,1,3,70,Part-time
+69096,Low,Rent,Urban,25,Apartment,4,5,34,Full-time
+6418245,High,Rent,Urban,13,Apartment,5,2,29,Full-time
+65480,Low,Own,Urban,16,Townhouse,5,5,35,Full-time
+55106,Low,Own,Rural,25,Townhouse,2,2,33,Self-employed
+71404,Medium,Own,Suburban,27,Single-family home,0,2,26,Part-time
+66600,Low,Own,Urban,25,Single-family home,2,5,33,Full-time
+195669,High,Rent,Suburban,6,Apartment,1,7,50,Part-time
+67428,Low,Own,Suburban,15,Apartment,3,4,32,Full-time
+1213897,High,Rent,Urban,48,Apartment,5,1,43,Full-time
+75074,Medium,Own,Urban,15,Single-family home,5,1,52,Full-time
+328727,High,Own,Suburban,7,Apartment,0,4,26,Part-time
+63969,Low,Rent,Urban,23,Apartment,0,3,62,Full-time
+73802,Medium,Own,Urban,16,Single-family home,1,7,38,Full-time
+66838,Low,Own,Urban,29,Single-family home,4,7,59,Part-time
+71056,Medium,Own,Urban,33,Single-family home,4,2,20,Full-time
+144681,Medium,Rent,Suburban,16,Apartment,1,4,36,Full-time
+1395972,High,Rent,Urban,21,Single-family home,5,2,38,Self-employed
+8695764,High,Rent,Rural,7,Townhouse,0,7,25,Self-employed
+70572,Medium,Own,Urban,44,Apartment,2,3,46,Self-employed
+73482,Medium,Own,Urban,22,Townhouse,4,2,62,Part-time
+70374,Medium,Own,Urban,23,Apartment,0,7,51,Part-time
+71972,Medium,Own,Urban,42,Single-family home,3,1,33,Full-time
+71088,Medium,Own,Urban,41,Townhouse,3,6,54,Self-employed
+69160,Low,Rent,Urban,17,Townhouse,4,6,40,Self-employed
+65914,Low,Own,Urban,26,Single-family home,0,5,62,Full-time
+69434,Low,Own,Urban,3,Apartment,2,6,46,Full-time
+67822,Low,Own,Suburban,10,Townhouse,3,7,29,Part-time
+101043,Medium,Own,Urban,44,Townhouse,3,3,38,Part-time
+70022,Medium,Own,Urban,24,Apartment,1,7,33,Full-time
+67918,Low,Own,Urban,2,Single-family home,0,4,58,Full-time
+74012,Medium,Own,Urban,36,Apartment,0,1,23,Full-time
+69426,Low,Own,Urban,41,Apartment,5,1,64,Self-employed
+74500,Medium,Rent,Urban,35,Single-family home,2,2,54,Part-time
+78337,Medium,Own,Urban,1,Townhouse,0,1,37,Part-time
+72912,Medium,Own,Suburban,18,Single-family home,4,6,66,Part-time
+9987395,High,Rent,Urban,31,Townhouse,3,1,33,Full-time
+7688701,High,Rent,Urban,43,Apartment,5,6,27,Part-time
+54579,Low,Rent,Suburban,24,Apartment,0,1,40,Part-time
+67368,Low,Own,Urban,10,Single-family home,3,4,59,Self-employed
+3323217,High,Own,Urban,23,Apartment,3,7,26,Part-time
+75008,Medium,Rent,Suburban,47,Single-family home,2,2,27,Full-time
+67094,Low,Rent,Suburban,18,Townhouse,2,5,29,Self-employed
+36117,Low,Rent,Urban,29,Apartment,3,5,60,Full-time
+445385,High,Rent,Urban,40,Townhouse,5,7,62,Full-time
+536311,High,Own,Suburban,2,Single-family home,3,2,47,Full-time
+68206,Low,Own,Urban,37,Single-family home,0,2,25,Part-time
+72774,Medium,Own,Urban,37,Single-family home,4,3,62,Full-time
+74906,Medium,Rent,Urban,38,Townhouse,1,3,35,Full-time
+382816,High,Own,Suburban,17,Apartment,3,5,23,Part-time
+68456,Low,Own,Suburban,43,Townhouse,0,2,34,Full-time
+68424,Low,Rent,Urban,36,Townhouse,5,2,25,Full-time
+38700,Low,Own,Urban,1,Single-family home,4,6,47,Part-time
+74060,Medium,Own,Urban,11,Single-family home,5,5,29,Full-time
+1984216,High,Rent,Urban,19,Apartment,0,3,62,Self-employed
+72068,Medium,Rent,Urban,0,Single-family home,1,3,67,Self-employed
+74378,Medium,Own,Urban,42,Single-family home,0,3,53,Full-time
+8474271,High,Rent,Urban,16,Apartment,3,5,27,Full-time
+65900,Low,Own,Urban,31,Single-family home,4,3,54,Full-time
+362963,High,Rent,Rural,27,Apartment,3,1,30,Full-time
+613441,High,Own,Rural,28,Apartment,1,1,19,Full-time
+150017,High,Rent,Suburban,5,Single-family home,4,4,69,Full-time
+71182,Medium,Own,Urban,42,Single-family home,0,1,28,Part-time
+37367,Low,Own,Rural,5,Apartment,3,3,18,Part-time
+5113948,High,Rent,Suburban,30,Single-family home,0,3,34,Full-time
+2076285,High,Rent,Rural,18,Townhouse,5,6,52,Self-employed
+64994,Low,Own,Rural,41,Single-family home,2,6,32,Full-time
+35349,Low,Own,Suburban,5,Apartment,2,4,70,Part-time
+5950969,High,Own,Rural,13,Single-family home,1,7,28,Full-time
+68544,Low,Own,Urban,36,Townhouse,1,2,37,Part-time
+9504728,High,Own,Rural,16,Single-family home,4,4,23,Part-time
+75380,Medium,Own,Urban,21,Apartment,2,6,62,Full-time
+73096,Medium,Own,Urban,4,Single-family home,1,1,44,Full-time
+881400,High,Rent,Urban,33,Single-family home,2,1,19,Full-time
+67298,Low,Rent,Urban,49,Single-family home,1,5,19,Part-time
+1342436,High,Rent,Rural,45,Single-family home,2,3,29,Full-time
+69298,Low,Own,Urban,33,Single-family home,5,6,38,Part-time
+70712,Medium,Rent,Urban,4,Apartment,4,5,33,Part-time
+69958,Low,Own,Urban,44,Single-family home,4,3,23,Full-time
+67900,Low,Own,Urban,3,Apartment,5,2,18,Full-time
+72274,Medium,Own,Urban,22,Apartment,1,3,29,Full-time
+71844,Medium,Own,Urban,14,Apartment,2,4,39,Full-time
+69438,Low,Own,Urban,1,Apartment,4,6,43,Self-employed
+71260,Medium,Own,Suburban,1,Townhouse,3,5,26,Part-time
+66280,Low,Own,Urban,24,Single-family home,2,5,24,Full-time
+71176,Medium,Own,Suburban,28,Townhouse,2,4,56,Full-time
+74634,Medium,Own,Urban,9,Single-family home,2,2,28,Full-time
+3460663,High,Own,Rural,43,Apartment,3,3,60,Self-employed
+69334,Low,Rent,Suburban,46,Apartment,1,3,52,Self-employed
+68732,Low,Own,Suburban,42,Apartment,3,7,51,Self-employed
+108024,Medium,Rent,Urban,1,Townhouse,4,2,36,Full-time
+74758,Medium,Rent,Urban,26,Apartment,1,2,38,Self-employed
+66282,Low,Own,Urban,42,Apartment,3,5,52,Self-employed
+162963,High,Rent,Urban,21,Single-family home,0,1,54,Part-time
+875247,High,Rent,Urban,50,Single-family home,3,2,52,Full-time
+71036,Medium,Own,Urban,37,Single-family home,2,4,19,Part-time
+75242,Medium,Own,Rural,27,Single-family home,4,6,57,Full-time
+54398,Low,Own,Urban,2,Single-family home,3,1,61,Part-time
+75062,Medium,Own,Urban,26,Apartment,3,2,41,Self-employed
+69144,Low,Own,Urban,27,Apartment,0,6,20,Self-employed
+69606,Low,Own,Urban,30,Apartment,1,1,52,Part-time
+71254,Medium,Own,Urban,8,Single-family home,0,5,44,Part-time
+2372166,High,Own,Rural,8,Townhouse,5,2,58,Full-time
+8108102,High,Rent,Urban,4,Townhouse,0,3,26,Full-time
+66832,Low,Own,Urban,3,Single-family home,3,7,58,Full-time
+75420,Medium,Rent,Urban,39,Townhouse,5,4,55,Full-time
+74458,Medium,Own,Suburban,12,Apartment,2,1,34,Full-time
+66758,Low,Own,Urban,21,Townhouse,2,7,59,Part-time
+78673,Medium,Own,Suburban,3,Apartment,0,7,59,Full-time
+855229,High,Rent,Urban,10,Townhouse,4,2,37,Full-time
+70908,Medium,Own,Urban,27,Single-family home,2,1,53,Self-employed
+5725116,High,Own,Suburban,9,Apartment,0,6,21,Self-employed
+71754,Medium,Own,Urban,1,Apartment,1,3,24,Part-time
+5176465,High,Rent,Suburban,48,Apartment,3,5,25,Self-employed
+904118,High,Rent,Suburban,18,Apartment,3,1,55,Self-employed
+70370,Medium,Own,Urban,14,Single-family home,1,7,30,Self-employed
+334179,High,Rent,Urban,8,Single-family home,2,2,57,Self-employed
+70482,Medium,Rent,Suburban,15,Apartment,0,1,42,Part-time
+3417888,High,Rent,Urban,1,Single-family home,0,6,46,Full-time
+50092,Low,Rent,Suburban,38,Apartment,3,7,22,Full-time
+70022,Medium,Own,Urban,5,Single-family home,1,4,21,Self-employed
+1064202,High,Own,Urban,14,Single-family home,5,1,31,Full-time
+70792,Medium,Own,Rural,43,Townhouse,1,3,45,Part-time
+68250,Low,Own,Urban,5,Townhouse,4,6,63,Full-time
+72652,Medium,Own,Urban,44,Single-family home,0,6,21,Part-time
+6161738,High,Own,Urban,20,Townhouse,5,7,23,Part-time
+72170,Medium,Own,Rural,26,Single-family home,4,6,45,Full-time
+93415,Medium,Rent,Urban,2,Single-family home,5,5,59,Part-time
+74110,Medium,Own,Urban,44,Apartment,5,2,30,Full-time
+563572,High,Rent,Urban,13,Apartment,0,4,50,Self-employed
+67070,Low,Own,Urban,41,Apartment,4,4,70,Self-employed
+54451,Low,Rent,Urban,29,Apartment,2,3,61,Full-time
+73528,Medium,Own,Urban,22,Single-family home,2,3,64,Part-time
+69146,Low,Rent,Urban,34,Single-family home,1,1,30,Full-time
+623983,High,Rent,Rural,35,Apartment,2,5,29,Full-time
+66802,Low,Own,Urban,43,Apartment,3,4,59,Part-time
+2887834,High,Own,Urban,32,Apartment,3,4,37,Part-time
+73026,Medium,Own,Suburban,43,Apartment,5,2,47,Self-employed
+71322,Medium,Own,Urban,23,Single-family home,5,5,42,Full-time
+74448,Medium,Own,Urban,4,Townhouse,2,4,56,Full-time
+75464,Medium,Own,Urban,28,Apartment,3,6,27,Full-time
+1179439,High,Rent,Urban,32,Townhouse,3,1,61,Part-time
+73738,Medium,Own,Urban,8,Single-family home,3,5,69,Part-time
+73018,Medium,Own,Suburban,25,Single-family home,0,2,36,Self-employed
+67800,Low,Own,Urban,2,Apartment,3,2,66,Self-employed
+3172481,High,Own,Urban,12,Apartment,1,7,20,Full-time
+954934,High,Own,Urban,46,Single-family home,0,7,69,Self-employed
+3221282,High,Rent,Urban,27,Apartment,1,2,50,Full-time
+3977966,High,Rent,Urban,30,Townhouse,5,1,28,Full-time
+69044,Low,Rent,Rural,7,Apartment,4,6,51,Full-time
+816152,High,Rent,Urban,30,Apartment,0,4,68,Full-time
+66030,Low,Rent,Suburban,21,Apartment,3,3,41,Part-time
+70392,Medium,Own,Urban,25,Single-family home,3,4,41,Full-time
+54181,Low,Rent,Rural,21,Single-family home,5,1,49,Full-time
+3275352,High,Own,Urban,10,Apartment,1,3,33,Part-time
+551738,High,Rent,Urban,10,Single-family home,5,2,25,Self-employed
+66224,Low,Rent,Urban,20,Apartment,2,1,63,Full-time
+33321,Low,Rent,Urban,39,Single-family home,2,7,70,Part-time
+65720,Low,Own,Rural,39,Apartment,0,7,54,Full-time
+66114,Low,Own,Urban,35,Single-family home,5,3,58,Part-time
+73712,Medium,Own,Urban,50,Single-family home,5,6,22,Self-employed
+5606461,High,Rent,Suburban,49,Apartment,4,2,25,Self-employed
+1906146,High,Rent,Suburban,8,Apartment,1,1,26,Part-time
+1316336,High,Own,Urban,5,Apartment,5,5,68,Full-time
+75831,Medium,Own,Urban,12,Apartment,5,3,53,Full-time
+73702,Medium,Own,Suburban,21,Apartment,1,3,48,Full-time
+3585476,High,Rent,Urban,48,Townhouse,1,4,47,Self-employed
+72594,Medium,Rent,Urban,1,Townhouse,1,5,26,Self-employed
+71518,Medium,Own,Urban,19,Apartment,5,6,51,Full-time
+48190,Low,Own,Urban,36,Apartment,1,6,56,Self-employed
+3404066,High,Own,Suburban,16,Apartment,1,5,69,Full-time
+66662,Low,Rent,Urban,15,Single-family home,4,1,45,Full-time
+255219,High,Own,Urban,1,Apartment,5,4,62,Full-time
+71596,Medium,Own,Urban,38,Townhouse,4,6,57,Part-time
+71366,Medium,Own,Urban,30,Single-family home,5,1,34,Part-time
+3486007,High,Rent,Urban,21,Single-family home,1,4,42,Full-time
+71352,Medium,Own,Urban,16,Townhouse,4,1,34,Part-time
+67364,Low,Own,Urban,30,Single-family home,2,3,65,Full-time
+67412,Low,Own,Suburban,32,Townhouse,0,3,49,Full-time
+155878,High,Rent,Urban,29,Apartment,3,4,43,Full-time
+71048,Medium,Rent,Suburban,13,Apartment,4,6,30,Part-time
+72592,Medium,Own,Urban,25,Apartment,1,7,49,Full-time
+67052,Low,Own,Urban,19,Apartment,4,6,31,Full-time
+144325,Medium,Own,Urban,13,Single-family home,3,5,36,Self-employed
+2303322,High,Rent,Suburban,16,Apartment,5,6,49,Self-employed
+72406,Medium,Own,Urban,21,Single-family home,3,5,45,Part-time
+9450323,High,Own,Rural,1,Single-family home,3,1,52,Full-time
+74694,Medium,Own,Suburban,20,Townhouse,2,6,48,Full-time
+65970,Low,Own,Urban,10,Single-family home,0,2,22,Self-employed
+74568,Medium,Own,Urban,19,Single-family home,4,6,56,Self-employed
+72496,Medium,Own,Urban,36,Single-family home,5,7,32,Self-employed
+73932,Medium,Own,Urban,27,Single-family home,2,1,34,Part-time
+65896,Low,Own,Urban,34,Single-family home,3,1,44,Full-time
+71752,Medium,Rent,Urban,48,Apartment,2,4,53,Full-time
+72956,Medium,Own,Urban,13,Apartment,0,1,28,Full-time
+2218198,High,Own,Rural,37,Townhouse,4,4,61,Part-time
+1672481,High,Rent,Urban,45,Apartment,5,6,46,Part-time
+713409,High,Own,Urban,40,Townhouse,4,4,49,Full-time
+73400,Medium,Rent,Urban,39,Townhouse,0,2,30,Full-time
+3284521,High,Rent,Urban,20,Single-family home,0,1,45,Self-employed
+71462,Medium,Own,Urban,40,Single-family home,4,3,60,Self-employed
+83713,Medium,Own,Suburban,44,Townhouse,3,5,63,Full-time
+66680,Low,Own,Suburban,25,Apartment,1,1,51,Self-employed
+71212,Medium,Own,Suburban,35,Single-family home,4,4,29,Self-employed
+68488,Low,Own,Rural,23,Townhouse,0,1,26,Full-time
+973727,High,Rent,Urban,8,Single-family home,1,1,25,Self-employed
+7308582,High,Rent,Urban,24,Townhouse,3,4,43,Full-time
+66918,Low,Own,Urban,32,Townhouse,1,2,27,Full-time
+333366,High,Rent,Urban,2,Single-family home,0,6,67,Full-time
+69946,Low,Own,Urban,33,Single-family home,4,6,61,Full-time
+2890384,High,Own,Suburban,49,Apartment,4,4,65,Full-time
+37128,Low,Rent,Rural,39,Apartment,4,2,70,Full-time
+5604396,High,Own,Suburban,11,Apartment,1,3,56,Full-time
+1198802,High,Rent,Suburban,27,Single-family home,5,4,34,Part-time
+1383929,High,Rent,Urban,48,Single-family home,4,5,23,Full-time
+1287009,High,Own,Rural,17,Apartment,5,5,27,Full-time
+67172,Low,Rent,Urban,24,Single-family home,2,5,46,Self-employed
+67760,Low,Own,Urban,38,Single-family home,5,6,46,Full-time
+2191829,High,Own,Urban,4,Apartment,1,1,34,Full-time
+68976,Low,Rent,Suburban,12,Townhouse,1,2,37,Self-employed
+67034,Low,Rent,Urban,25,Apartment,2,6,18,Full-time
+74410,Medium,Own,Suburban,23,Single-family home,0,4,42,Part-time
+72398,Medium,Rent,Urban,11,Apartment,2,7,22,Part-time
+1053578,High,Rent,Urban,46,Apartment,2,5,22,Full-time
+198061,High,Rent,Urban,44,Apartment,1,6,53,Part-time
+71276,Medium,Rent,Urban,26,Apartment,2,3,47,Full-time
+2691300,High,Rent,Urban,47,Single-family home,2,5,60,Part-time
+8637423,High,Rent,Urban,39,Apartment,4,6,36,Self-employed
+73138,Medium,Own,Urban,13,Single-family home,4,7,68,Self-employed
+75198,Medium,Own,Urban,42,Single-family home,4,1,51,Part-time
+70558,Medium,Own,Urban,48,Apartment,4,6,20,Part-time
+140692,Medium,Rent,Urban,16,Apartment,0,4,35,Full-time
+71438,Medium,Own,Urban,4,Townhouse,0,1,19,Part-time
+275641,High,Own,Suburban,25,Single-family home,4,2,37,Part-time
+74224,Medium,Own,Urban,12,Townhouse,4,3,40,Full-time
+71214,Medium,Own,Urban,8,Townhouse,4,2,51,Full-time
+68604,Low,Own,Urban,35,Single-family home,5,7,41,Full-time
+65702,Low,Rent,Urban,6,Apartment,0,4,61,Full-time
+274237,High,Own,Urban,9,Apartment,2,5,23,Part-time
+2041981,High,Rent,Rural,16,Apartment,0,6,50,Full-time
+2772650,High,Own,Suburban,24,Apartment,5,1,24,Full-time
+5726383,High,Rent,Suburban,22,Apartment,4,4,25,Full-time
+65868,Low,Rent,Urban,19,Apartment,0,4,35,Part-time
+6626930,High,Rent,Urban,46,Single-family home,3,4,32,Full-time
+67942,Low,Own,Urban,3,Single-family home,5,1,55,Part-time
+65140,Low,Own,Urban,2,Single-family home,5,5,34,Part-time
+74594,Medium,Own,Suburban,45,Single-family home,0,7,53,Full-time
+270773,High,Rent,Urban,49,Apartment,3,1,27,Full-time
+115497,Medium,Rent,Urban,11,Single-family home,0,1,58,Full-time
+157279,High,Own,Urban,45,Apartment,2,1,29,Self-employed
+4802849,High,Own,Urban,24,Apartment,5,6,22,Full-time
+1109069,High,Rent,Urban,39,Apartment,5,1,29,Part-time
+70110,Medium,Own,Urban,16,Apartment,0,6,51,Full-time
+292267,High,Rent,Rural,22,Apartment,5,1,46,Full-time
+74306,Medium,Own,Urban,9,Single-family home,1,1,33,Full-time
+101202,Medium,Own,Urban,2,Apartment,1,2,22,Full-time
+73178,Medium,Own,Urban,4,Townhouse,2,5,45,Full-time
+287911,High,Rent,Urban,12,Townhouse,5,4,65,Full-time
+68766,Low,Rent,Urban,13,Apartment,2,2,53,Part-time
+107928,Medium,Own,Urban,26,Townhouse,3,6,37,Self-employed
+73910,Medium,Rent,Urban,24,Townhouse,0,4,43,Full-time
+67730,Low,Rent,Urban,14,Townhouse,0,1,53,Full-time
+135830,Medium,Rent,Urban,46,Apartment,3,7,22,Full-time
+70130,Medium,Own,Urban,35,Apartment,0,6,34,Full-time
+72892,Medium,Own,Suburban,28,Apartment,3,1,30,Full-time
+70368,Medium,Rent,Rural,25,Single-family home,0,1,66,Self-employed
+66558,Low,Own,Urban,26,Single-family home,5,7,20,Part-time
+67436,Low,Rent,Urban,33,Single-family home,2,7,31,Self-employed
+65874,Low,Own,Urban,16,Townhouse,2,3,51,Full-time
+71370,Medium,Own,Urban,6,Single-family home,4,1,59,Part-time
+2843928,High,Rent,Suburban,28,Apartment,4,5,65,Part-time
+65090,Low,Own,Urban,41,Apartment,3,2,23,Full-time
+71366,Medium,Own,Rural,5,Single-family home,3,5,67,Full-time
+68376,Low,Own,Suburban,45,Apartment,4,5,51,Part-time
+71310,Medium,Own,Suburban,32,Apartment,0,4,32,Full-time
+403035,High,Own,Rural,24,Single-family home,4,2,43,Full-time
+7127375,High,Own,Urban,31,Townhouse,0,7,67,Full-time
+431836,High,Rent,Urban,16,Single-family home,5,5,58,Full-time
+72484,Medium,Rent,Urban,29,Townhouse,5,4,57,Part-time
+65896,Low,Rent,Rural,42,Apartment,0,6,59,Full-time
+855645,High,Own,Urban,21,Apartment,5,7,22,Full-time
+65526,Low,Rent,Urban,20,Townhouse,3,4,21,Part-time
+65226,Low,Rent,Urban,40,Townhouse,0,7,49,Full-time
+73538,Medium,Own,Urban,18,Townhouse,2,3,28,Full-time
+155007,High,Rent,Urban,2,Single-family home,4,4,67,Self-employed
+71712,Medium,Own,Urban,5,Single-family home,0,7,36,Full-time
+61068,Low,Own,Urban,37,Townhouse,2,1,29,Full-time
+4515342,High,Rent,Suburban,1,Single-family home,5,4,43,Full-time
+73562,Medium,Own,Suburban,40,Apartment,0,5,53,Full-time
+215244,High,Rent,Urban,36,Apartment,2,4,51,Full-time
+1903882,High,Rent,Urban,37,Single-family home,1,1,38,Full-time
+382099,High,Own,Urban,11,Townhouse,0,4,44,Self-employed
+102818,Medium,Own,Suburban,12,Apartment,4,3,56,Full-time
+68314,Low,Own,Urban,43,Apartment,5,5,51,Self-employed
+602178,High,Own,Rural,12,Single-family home,2,3,25,Part-time
+1476972,High,Own,Urban,30,Townhouse,1,3,49,Self-employed
+188350,High,Own,Urban,6,Apartment,0,3,68,Part-time
+161568,High,Own,Urban,24,Single-family home,0,5,48,Full-time
+67936,Low,Own,Urban,23,Single-family home,5,6,41,Full-time
+72492,Medium,Own,Urban,41,Single-family home,1,5,22,Full-time
+70742,Medium,Own,Suburban,37,Single-family home,0,5,64,Part-time
+66866,Low,Own,Urban,10,Single-family home,4,2,68,Full-time
+69738,Low,Own,Urban,0,Apartment,4,6,19,Self-employed
+74706,Medium,Own,Urban,17,Apartment,4,7,48,Self-employed
+67970,Low,Own,Urban,33,Single-family home,2,4,43,Full-time
+79105,Medium,Rent,Suburban,10,Apartment,5,7,20,Full-time
+69462,Low,Own,Urban,26,Single-family home,3,2,26,Part-time
+66054,Low,Own,Suburban,49,Single-family home,1,6,62,Full-time
+85745,Medium,Rent,Urban,21,Single-family home,4,7,66,Self-employed
+74582,Medium,Rent,Urban,29,Single-family home,3,4,32,Self-employed
+71628,Medium,Own,Urban,42,Single-family home,5,6,68,Full-time
+71790,Medium,Rent,Urban,17,Apartment,2,3,56,Part-time
+72366,Medium,Own,Urban,37,Apartment,4,7,63,Part-time
+70092,Medium,Rent,Suburban,48,Apartment,5,1,61,Full-time
+8995054,High,Rent,Urban,20,Apartment,1,3,24,Self-employed
+70664,Medium,Rent,Rural,5,Single-family home,4,1,52,Self-employed
+64932,Low,Rent,Urban,1,Single-family home,5,5,29,Full-time
+66654,Low,Own,Suburban,11,Apartment,2,7,29,Self-employed
+71718,Medium,Rent,Rural,41,Townhouse,3,4,20,Part-time
+69508,Low,Rent,Urban,39,Townhouse,3,6,33,Full-time
+42906,Low,Own,Urban,49,Single-family home,5,6,27,Full-time
+66994,Low,Own,Suburban,22,Apartment,0,4,58,Full-time
+7864005,High,Rent,Suburban,45,Single-family home,3,3,44,Full-time
+37005,Low,Rent,Urban,31,Apartment,5,7,35,Full-time
+70178,Medium,Own,Urban,49,Apartment,5,4,37,Full-time
+174297,High,Own,Urban,44,Single-family home,1,2,51,Part-time
+347909,High,Rent,Urban,29,Single-family home,4,3,58,Full-time
+5590250,High,Rent,Urban,29,Single-family home,5,5,32,Self-employed
+72476,Medium,Own,Urban,25,Single-family home,3,6,18,Full-time
+70212,Medium,Rent,Urban,6,Single-family home,1,7,39,Full-time
+67648,Low,Rent,Urban,32,Single-family home,1,1,62,Full-time
+66248,Low,Rent,Urban,14,Apartment,3,6,39,Part-time
+4830841,High,Own,Urban,40,Apartment,5,4,56,Part-time
+1384436,High,Own,Urban,8,Single-family home,5,1,53,Full-time
+70192,Medium,Rent,Urban,22,Single-family home,2,6,48,Full-time
+65080,Low,Own,Urban,39,Single-family home,3,1,25,Self-employed
+66928,Low,Own,Urban,25,Single-family home,5,5,23,Full-time
+72412,Medium,Own,Suburban,28,Apartment,4,3,39,Full-time
+648092,High,Rent,Urban,44,Apartment,2,1,41,Full-time
+73572,Medium,Own,Rural,12,Apartment,4,4,47,Full-time
+65900,Low,Own,Urban,40,Townhouse,4,6,41,Part-time
+71500,Medium,Own,Urban,40,Apartment,0,3,19,Part-time
+2050800,High,Rent,Urban,39,Townhouse,2,2,59,Full-time
+1171403,High,Rent,Suburban,48,Apartment,0,3,20,Full-time
+3330387,High,Rent,Suburban,35,Single-family home,4,5,25,Self-employed
+71512,Medium,Own,Urban,9,Townhouse,4,4,29,Full-time
+65958,Low,Own,Urban,37,Apartment,3,7,33,Full-time
+79176,Medium,Rent,Urban,38,Apartment,2,5,45,Part-time
+7231774,High,Own,Urban,5,Single-family home,1,6,60,Part-time
+73398,Medium,Own,Rural,25,Single-family home,2,1,36,Full-time
+74812,Medium,Own,Urban,27,Townhouse,3,3,57,Full-time
+72652,Medium,Own,Suburban,30,Townhouse,2,1,53,Part-time
+659475,High,Own,Rural,2,Single-family home,2,2,45,Part-time
+66304,Low,Rent,Rural,16,Single-family home,4,3,67,Full-time
+66764,Low,Own,Urban,20,Apartment,4,4,61,Full-time
+72834,Medium,Own,Urban,7,Single-family home,2,6,47,Part-time
+74014,Medium,Own,Urban,46,Apartment,3,5,67,Full-time
+33732,Low,Own,Urban,4,Single-family home,5,5,56,Full-time
+71956,Medium,Rent,Suburban,20,Townhouse,4,2,18,Part-time
+5039179,High,Rent,Urban,28,Apartment,3,6,57,Part-time
+74972,Medium,Rent,Urban,50,Townhouse,0,1,67,Part-time
+66448,Low,Rent,Urban,27,Single-family home,3,4,24,Full-time
+71902,Medium,Own,Suburban,26,Apartment,2,3,56,Self-employed
+74638,Medium,Own,Urban,45,Single-family home,4,4,41,Part-time
+413554,High,Rent,Rural,8,Single-family home,0,1,38,Full-time
+66242,Low,Own,Urban,11,Apartment,3,3,42,Full-time
+6216985,High,Own,Urban,16,Apartment,4,7,34,Full-time
+66458,Low,Rent,Urban,37,Single-family home,1,4,60,Full-time
+68708,Low,Own,Urban,36,Townhouse,0,7,68,Full-time
+75446,Medium,Own,Suburban,21,Apartment,5,3,32,Full-time
+74104,Medium,Own,Urban,19,Single-family home,5,2,49,Full-time
+1115645,High,Own,Suburban,16,Apartment,0,3,45,Full-time
+64924,Low,Own,Urban,19,Townhouse,3,2,25,Full-time
+65728,Low,Rent,Urban,33,Apartment,2,4,53,Part-time
+65372,Low,Own,Suburban,48,Apartment,0,2,45,Full-time
+36817,Low,Own,Urban,1,Townhouse,4,2,20,Full-time
+67588,Low,Own,Urban,9,Townhouse,4,4,22,Self-employed
+70888,Medium,Own,Urban,14,Single-family home,4,2,50,Self-employed
+49949,Low,Own,Urban,19,Townhouse,2,6,22,Part-time
+65802,Low,Own,Urban,35,Townhouse,3,1,22,Full-time
+70988,Medium,Rent,Suburban,33,Apartment,5,2,62,Full-time
+72518,Medium,Own,Urban,44,Single-family home,5,6,66,Full-time
+71494,Medium,Rent,Urban,30,Single-family home,5,2,39,Part-time
+66432,Low,Own,Urban,14,Single-family home,0,5,39,Part-time
+198355,High,Own,Suburban,13,Apartment,2,3,18,Part-time
+197392,High,Rent,Urban,16,Single-family home,1,1,70,Full-time
+66082,Low,Own,Urban,48,Single-family home,5,3,53,Full-time
+118878,Medium,Own,Urban,41,Townhouse,4,4,37,Full-time
+592112,High,Rent,Urban,30,Single-family home,3,4,47,Part-time
+64966,Low,Own,Urban,26,Townhouse,4,7,35,Part-time
+833592,High,Own,Urban,29,Apartment,5,4,53,Part-time
+71926,Medium,Own,Urban,22,Townhouse,5,1,43,Full-time
+72664,Medium,Own,Urban,12,Apartment,0,5,38,Self-employed
+67616,Low,Own,Rural,9,Single-family home,0,3,69,Part-time
+87425,Medium,Own,Suburban,21,Single-family home,5,2,46,Part-time
+70710,Medium,Own,Urban,28,Apartment,4,3,49,Full-time
+73344,Medium,Own,Rural,41,Townhouse,5,3,31,Self-employed
+67224,Low,Rent,Urban,14,Single-family home,5,4,42,Part-time
+2503571,High,Rent,Urban,23,Apartment,1,7,39,Self-employed
+1845016,High,Rent,Urban,36,Single-family home,5,1,49,Self-employed
+212582,High,Own,Suburban,33,Single-family home,5,2,32,Self-employed
+942008,High,Own,Suburban,15,Apartment,4,6,45,Full-time
+72890,Medium,Own,Suburban,21,Single-family home,4,2,68,Self-employed
+72686,Medium,Own,Urban,17,Apartment,3,3,52,Self-employed
+702887,High,Own,Urban,13,Apartment,5,5,66,Full-time
+69274,Low,Rent,Suburban,28,Single-family home,3,6,45,Full-time
+66156,Low,Own,Rural,46,Single-family home,2,7,22,Self-employed
+2118269,High,Own,Urban,5,Single-family home,2,1,36,Self-employed
+65226,Low,Own,Urban,48,Single-family home,5,2,60,Full-time
+65570,Low,Rent,Urban,32,Apartment,5,4,32,Self-employed
+70362,Medium,Own,Urban,22,Apartment,1,7,19,Full-time
+69096,Low,Own,Urban,19,Single-family home,0,7,37,Full-time
+67236,Low,Rent,Urban,32,Single-family home,0,6,47,Full-time
+75234,Medium,Rent,Urban,30,Apartment,0,7,54,Self-employed
+67622,Low,Own,Suburban,42,Single-family home,5,1,58,Part-time
+239997,High,Rent,Urban,42,Apartment,5,4,38,Full-time
+70250,Medium,Own,Suburban,21,Single-family home,3,7,26,Full-time
+67372,Low,Own,Urban,30,Townhouse,4,3,65,Part-time
+72106,Medium,Own,Urban,2,Apartment,3,7,41,Self-employed
+74766,Medium,Rent,Urban,9,Single-family home,2,1,26,Part-time
+2708993,High,Rent,Urban,25,Townhouse,5,3,67,Self-employed
+36414,Low,Rent,Urban,9,Single-family home,0,2,27,Part-time
+75176,Medium,Own,Urban,21,Apartment,0,3,70,Self-employed
+94514,Medium,Rent,Suburban,48,Apartment,5,2,44,Full-time
+74676,Medium,Rent,Urban,39,Single-family home,0,7,58,Full-time
+2268248,High,Own,Rural,8,Townhouse,0,1,52,Full-time
+67514,Low,Own,Urban,41,Apartment,4,2,45,Full-time
+74716,Medium,Own,Suburban,46,Apartment,4,1,35,Full-time
+74708,Medium,Own,Urban,10,Apartment,5,4,36,Self-employed
+70492,Medium,Own,Suburban,28,Apartment,1,1,64,Part-time
+131424,Medium,Rent,Suburban,4,Single-family home,4,2,47,Part-time
+65982,Low,Rent,Urban,21,Apartment,5,4,38,Full-time
+66374,Low,Own,Rural,0,Single-family home,2,6,25,Part-time
+72508,Medium,Rent,Suburban,45,Townhouse,4,6,44,Self-employed
+67022,Low,Rent,Urban,0,Single-family home,2,7,50,Full-time
+73430,Medium,Own,Urban,19,Townhouse,2,1,33,Self-employed
+43025,Low,Own,Suburban,25,Townhouse,3,2,64,Self-employed
+65646,Low,Rent,Suburban,32,Single-family home,0,2,52,Full-time
+93226,Medium,Rent,Suburban,2,Townhouse,5,1,35,Full-time
+2620342,High,Own,Suburban,42,Apartment,3,7,39,Full-time
+74090,Medium,Rent,Suburban,0,Apartment,5,7,55,Full-time
+676939,High,Rent,Urban,7,Single-family home,5,3,56,Full-time
+3960902,High,Rent,Suburban,19,Single-family home,1,1,40,Part-time
+49179,Low,Rent,Urban,3,Single-family home,4,7,67,Full-time
+70436,Medium,Rent,Suburban,5,Single-family home,3,4,55,Full-time
+54195,Low,Rent,Urban,41,Apartment,3,2,67,Full-time
+68974,Low,Own,Urban,20,Single-family home,2,1,42,Full-time
+2451673,High,Own,Suburban,32,Apartment,4,6,36,Full-time
+67326,Low,Own,Urban,42,Townhouse,2,2,29,Full-time
+71746,Medium,Rent,Suburban,49,Townhouse,3,4,33,Full-time
+99090,Medium,Rent,Urban,27,Apartment,3,6,64,Full-time
+69146,Low,Rent,Urban,9,Single-family home,5,5,20,Part-time
+68608,Low,Own,Urban,22,Single-family home,1,7,30,Self-employed
+1107706,High,Own,Urban,39,Single-family home,0,2,41,Full-time
+72656,Medium,Own,Urban,3,Single-family home,0,1,34,Self-employed
+67304,Low,Own,Urban,27,Single-family home,5,6,22,Full-time
+72998,Medium,Rent,Suburban,6,Single-family home,0,5,62,Self-employed
+33064,Low,Own,Urban,48,Townhouse,2,6,29,Full-time
+75016,Medium,Own,Urban,37,Single-family home,5,7,42,Self-employed
+65436,Low,Own,Suburban,0,Apartment,2,7,45,Part-time
+74280,Medium,Own,Urban,27,Single-family home,2,6,68,Full-time
+82521,Medium,Own,Urban,29,Single-family home,0,6,59,Self-employed
+3330183,High,Own,Urban,41,Townhouse,4,4,54,Self-employed
+65430,Low,Own,Urban,39,Single-family home,4,6,28,Self-employed
+74598,Medium,Own,Suburban,5,Townhouse,5,4,67,Full-time
+60110,Low,Own,Urban,33,Single-family home,2,1,67,Full-time
+72168,Medium,Rent,Urban,4,Apartment,3,1,39,Self-employed
+71194,Medium,Rent,Urban,12,Single-family home,0,6,18,Self-employed
+74604,Medium,Own,Urban,27,Townhouse,1,5,37,Part-time
+73752,Medium,Rent,Suburban,39,Single-family home,5,3,38,Self-employed
+73046,Medium,Own,Urban,5,Townhouse,0,3,52,Full-time
+70176,Medium,Own,Urban,19,Apartment,4,1,48,Full-time
+9085348,High,Own,Suburban,40,Apartment,4,4,59,Full-time
+2714554,High,Rent,Urban,16,Apartment,3,6,45,Part-time
+66350,Low,Own,Urban,9,Apartment,3,5,51,Full-time
+596489,High,Rent,Urban,4,Apartment,4,3,70,Self-employed
+67164,Low,Own,Urban,3,Apartment,2,1,33,Full-time
+65802,Low,Own,Urban,13,Townhouse,3,5,57,Full-time
+68396,Low,Own,Urban,24,Single-family home,2,1,35,Full-time
+66110,Low,Rent,Urban,33,Townhouse,5,3,62,Self-employed
+70788,Medium,Rent,Urban,2,Single-family home,1,1,43,Self-employed
+3126876,High,Own,Rural,36,Single-family home,0,1,22,Part-time
+73990,Medium,Own,Urban,18,Apartment,3,1,50,Full-time
+70194,Medium,Own,Urban,28,Apartment,4,2,20,Full-time
+71452,Medium,Own,Suburban,49,Apartment,4,6,37,Self-employed
+1137393,High,Own,Urban,2,Apartment,0,6,60,Full-time
+68124,Low,Rent,Urban,30,Townhouse,0,7,28,Part-time
+74338,Medium,Own,Urban,22,Apartment,4,6,30,Full-time
+70776,Medium,Rent,Urban,16,Apartment,1,1,23,Full-time
+74184,Medium,Own,Urban,39,Apartment,2,6,70,Full-time
+67562,Low,Rent,Urban,49,Apartment,0,2,39,Full-time
+73226,Medium,Own,Urban,40,Townhouse,3,6,61,Full-time
+70754,Medium,Own,Rural,11,Townhouse,1,1,69,Full-time
+70900,Medium,Own,Urban,3,Apartment,3,3,31,Full-time
+60459,Low,Rent,Rural,19,Single-family home,2,6,67,Part-time
+72278,Medium,Own,Urban,44,Single-family home,3,6,61,Full-time
+74646,Medium,Own,Urban,4,Apartment,3,7,29,Self-employed
+4646350,High,Rent,Urban,33,Townhouse,0,1,39,Part-time
+73710,Medium,Own,Urban,49,Single-family home,5,3,31,Part-time
+1402780,High,Own,Suburban,22,Townhouse,1,2,70,Full-time
+1611947,High,Rent,Urban,40,Townhouse,5,3,41,Part-time
+73104,Medium,Own,Suburban,47,Single-family home,2,3,31,Full-time
+70010,Medium,Own,Urban,29,Apartment,0,5,53,Self-employed
+8924221,High,Own,Urban,15,Apartment,0,7,61,Full-time
+75206,Medium,Own,Urban,26,Townhouse,0,3,30,Full-time
+64799,Low,Own,Urban,1,Single-family home,2,6,40,Full-time
+1836126,High,Rent,Rural,36,Single-family home,1,6,43,Full-time
+71976,Medium,Own,Urban,50,Apartment,5,2,42,Part-time
+75006,Medium,Rent,Suburban,41,Single-family home,1,4,24,Part-time
+65072,Low,Own,Urban,8,Townhouse,2,5,48,Part-time
+71298,Medium,Own,Urban,31,Townhouse,0,6,22,Self-employed
+70642,Medium,Rent,Urban,28,Single-family home,2,6,64,Part-time
+66964,Low,Own,Rural,27,Single-family home,5,7,33,Self-employed
+74228,Medium,Own,Urban,23,Apartment,3,3,32,Full-time
+7260346,High,Own,Urban,6,Apartment,3,1,42,Full-time
+67822,Low,Rent,Urban,39,Apartment,2,1,29,Full-time
+72468,Medium,Own,Urban,3,Apartment,4,6,64,Full-time
+1477721,High,Rent,Rural,9,Townhouse,1,7,43,Full-time
+70208,Medium,Rent,Urban,18,Apartment,5,6,59,Part-time
+68726,Low,Own,Suburban,29,Apartment,0,5,28,Full-time
+73562,Medium,Own,Urban,3,Single-family home,1,3,23,Full-time
+792603,High,Rent,Urban,2,Apartment,5,5,41,Full-time
+70054,Medium,Own,Urban,6,Single-family home,1,5,59,Self-employed
+69594,Low,Rent,Urban,49,Single-family home,3,2,29,Full-time
+1551659,High,Own,Rural,41,Apartment,5,3,51,Full-time
+2009020,High,Own,Suburban,37,Townhouse,1,3,66,Self-employed
+70958,Medium,Own,Urban,35,Apartment,3,2,52,Full-time
+4171988,High,Own,Urban,14,Single-family home,0,3,68,Part-time
+62980,Low,Own,Urban,37,Single-family home,0,6,20,Full-time
+73438,Medium,Own,Urban,48,Apartment,4,3,39,Part-time
+5299752,High,Rent,Urban,28,Apartment,2,6,38,Self-employed
+3336727,High,Rent,Urban,16,Apartment,3,5,31,Full-time
+36649,Low,Own,Urban,33,Single-family home,1,5,52,Full-time
+66152,Low,Own,Urban,25,Apartment,2,3,39,Part-time
+70302,Medium,Own,Urban,17,Single-family home,5,2,29,Self-employed
+474781,High,Own,Urban,49,Single-family home,1,4,51,Self-employed
+65692,Low,Own,Urban,2,Single-family home,4,2,46,Part-time
+55492,Low,Rent,Urban,40,Apartment,3,5,26,Full-time
+71792,Medium,Rent,Urban,45,Apartment,5,7,18,Full-time
+236906,High,Rent,Urban,12,Single-family home,4,4,49,Full-time
+66434,Low,Rent,Urban,45,Apartment,5,3,40,Full-time
+67404,Low,Own,Urban,5,Single-family home,0,3,51,Full-time
+405231,High,Rent,Urban,48,Apartment,2,6,53,Self-employed
+70298,Medium,Own,Urban,26,Apartment,0,6,68,Part-time
+73562,Medium,Own,Urban,19,Townhouse,1,2,32,Self-employed
+265213,High,Rent,Rural,20,Single-family home,0,4,43,Full-time
+70046,Medium,Rent,Urban,30,Apartment,0,3,69,Part-time
+69514,Low,Own,Urban,35,Single-family home,2,7,60,Full-time
+6074713,High,Own,Rural,20,Single-family home,4,3,29,Self-employed
+95750,Medium,Rent,Urban,21,Single-family home,5,4,42,Full-time
+206352,High,Rent,Urban,4,Townhouse,0,6,68,Part-time
+1816550,High,Rent,Rural,36,Single-family home,3,2,40,Full-time
+55238,Low,Rent,Suburban,3,Single-family home,1,1,32,Part-time
+151773,High,Own,Urban,45,Single-family home,3,2,29,Full-time
+4634689,High,Rent,Urban,29,Single-family home,2,2,50,Self-employed
+74728,Medium,Own,Suburban,34,Apartment,2,1,69,Full-time
+351401,High,Own,Urban,3,Single-family home,4,2,44,Part-time
+51020,Low,Rent,Urban,27,Apartment,3,4,67,Part-time
+68790,Low,Own,Suburban,42,Townhouse,5,4,57,Part-time
+72344,Medium,Own,Urban,44,Apartment,5,5,18,Part-time
+73576,Medium,Rent,Urban,6,Townhouse,1,1,24,Part-time
+65456,Low,Rent,Urban,9,Townhouse,1,3,38,Full-time
+74552,Medium,Own,Urban,45,Apartment,0,6,24,Full-time
+74126,Medium,Own,Suburban,25,Single-family home,2,5,60,Full-time
+65232,Low,Rent,Urban,41,Single-family home,2,2,43,Part-time
+73444,Medium,Own,Urban,1,Apartment,0,1,52,Self-employed
+66190,Low,Own,Urban,42,Townhouse,2,6,37,Full-time
+66016,Low,Own,Urban,15,Apartment,0,3,42,Full-time
+68170,Low,Rent,Urban,19,Single-family home,5,3,30,Full-time
+67512,Low,Own,Urban,30,Single-family home,2,1,56,Part-time
+54646,Low,Rent,Urban,10,Apartment,1,7,27,Full-time
+94189,Medium,Rent,Urban,8,Single-family home,4,1,28,Self-employed
+5906733,High,Rent,Urban,4,Apartment,2,1,41,Full-time
+70848,Medium,Own,Urban,37,Apartment,0,4,57,Self-employed
+73016,Medium,Rent,Urban,0,Townhouse,0,6,70,Self-employed
+74786,Medium,Own,Suburban,29,Townhouse,5,6,58,Full-time
+728247,High,Rent,Suburban,19,Single-family home,2,7,45,Full-time
+1875206,High,Rent,Urban,31,Single-family home,5,2,54,Full-time
+58468,Low,Rent,Suburban,32,Apartment,4,2,23,Full-time
+66848,Low,Own,Urban,15,Townhouse,2,1,46,Part-time
+68310,Low,Own,Urban,3,Single-family home,5,5,54,Part-time
+90384,Medium,Own,Rural,21,Apartment,1,5,31,Full-time
+67144,Low,Own,Urban,12,Apartment,0,5,28,Part-time
+84927,Medium,Rent,Urban,3,Apartment,5,4,39,Full-time
+73666,Medium,Rent,Urban,32,Apartment,2,7,23,Full-time
+71422,Medium,Own,Urban,49,Apartment,4,5,24,Self-employed
+843626,High,Rent,Urban,28,Single-family home,4,3,27,Self-employed
+105979,Medium,Rent,Urban,15,Apartment,2,3,70,Full-time
+69964,Low,Own,Urban,1,Townhouse,5,1,65,Self-employed
+66124,Low,Own,Rural,9,Apartment,0,3,44,Full-time
+73638,Medium,Own,Urban,5,Single-family home,0,6,57,Full-time
+197016,High,Rent,Urban,20,Apartment,1,2,41,Full-time
+119969,Medium,Rent,Urban,5,Apartment,5,6,55,Full-time
+2157973,High,Rent,Urban,24,Single-family home,0,7,36,Full-time
+74386,Medium,Own,Urban,35,Single-family home,3,7,68,Full-time
+1943437,High,Rent,Urban,10,Single-family home,0,4,35,Full-time
+71440,Medium,Own,Urban,43,Single-family home,5,4,28,Full-time
+73840,Medium,Own,Suburban,25,Apartment,5,5,29,Part-time
+69208,Low,Own,Urban,22,Apartment,2,5,44,Part-time
+2875690,High,Own,Rural,20,Single-family home,1,4,34,Self-employed
+430045,High,Own,Rural,46,Townhouse,2,4,27,Part-time
+5253902,High,Own,Urban,7,Apartment,5,7,24,Full-time
+403544,High,Rent,Urban,39,Single-family home,4,3,33,Full-time
+76244,Medium,Rent,Urban,2,Single-family home,5,2,57,Full-time
+67528,Low,Own,Urban,27,Apartment,4,2,29,Self-employed
+129826,Medium,Rent,Suburban,5,Apartment,3,1,20,Self-employed
+73314,Medium,Own,Urban,25,Apartment,0,5,32,Part-time
+67482,Low,Rent,Suburban,26,Apartment,2,7,55,Full-time
+44670,Low,Own,Suburban,50,Single-family home,5,2,32,Self-employed
+4401981,High,Rent,Rural,25,Townhouse,0,5,39,Full-time
+7848650,High,Own,Suburban,23,Single-family home,4,1,35,Full-time
+74306,Medium,Own,Urban,21,Single-family home,0,6,46,Full-time
+66630,Low,Own,Urban,27,Single-family home,1,7,56,Full-time
+68748,Low,Own,Urban,14,Single-family home,5,7,49,Full-time
+8811041,High,Rent,Urban,50,Single-family home,3,3,54,Full-time
+66996,Low,Own,Rural,2,Single-family home,3,2,37,Part-time
+65864,Low,Own,Urban,18,Single-family home,4,6,29,Full-time
+67344,Low,Rent,Urban,25,Single-family home,2,5,56,Self-employed
+1761724,High,Own,Rural,44,Single-family home,4,4,51,Part-time
+307990,High,Own,Urban,16,Apartment,4,2,28,Full-time
+69366,Low,Own,Urban,16,Apartment,1,4,57,Full-time
+99759,Medium,Own,Suburban,1,Apartment,1,4,51,Full-time
+3005670,High,Rent,Urban,3,Townhouse,5,7,66,Self-employed
+73728,Medium,Own,Urban,37,Apartment,2,3,20,Full-time
+65264,Low,Own,Urban,26,Single-family home,2,7,44,Full-time
+71180,Medium,Own,Urban,29,Single-family home,5,6,19,Full-time
+74472,Medium,Own,Suburban,30,Townhouse,0,4,27,Full-time
+5190461,High,Rent,Urban,9,Single-family home,1,5,19,Full-time
+68490,Low,Own,Urban,25,Single-family home,5,7,41,Self-employed
+67764,Low,Own,Urban,30,Apartment,0,5,25,Full-time
+3838659,High,Own,Suburban,3,Single-family home,0,7,37,Self-employed
+71004,Medium,Own,Urban,16,Townhouse,2,1,28,Part-time
+707141,High,Rent,Urban,20,Townhouse,5,2,34,Part-time
+67516,Low,Own,Urban,43,Townhouse,1,5,61,Part-time
+72224,Medium,Rent,Urban,45,Single-family home,0,3,67,Full-time
+69198,Low,Own,Urban,38,Townhouse,4,1,52,Part-time
+37802,Low,Own,Urban,20,Townhouse,2,3,68,Self-employed
+73276,Medium,Own,Urban,38,Townhouse,0,2,22,Part-time
+71258,Medium,Own,Urban,34,Single-family home,2,2,29,Part-time
+67538,Low,Own,Urban,3,Single-family home,5,7,31,Full-time
+43467,Low,Rent,Urban,34,Apartment,5,6,18,Full-time
+71568,Medium,Own,Suburban,38,Apartment,3,4,66,Full-time
+70096,Medium,Own,Rural,26,Apartment,3,2,42,Self-employed
+6681548,High,Rent,Urban,1,Townhouse,5,1,48,Full-time
+2973574,High,Rent,Urban,25,Townhouse,2,4,34,Full-time
+104250,Medium,Own,Urban,35,Townhouse,3,5,56,Full-time
+58154,Low,Rent,Suburban,29,Apartment,3,2,57,Part-time
+69588,Low,Own,Urban,42,Single-family home,3,6,21,Part-time
+69200,Low,Own,Urban,37,Townhouse,5,7,38,Self-employed
+43265,Low,Rent,Urban,7,Single-family home,5,5,62,Self-employed
+1382157,High,Rent,Suburban,28,Apartment,1,1,59,Part-time
+69258,Low,Own,Suburban,25,Apartment,0,6,38,Full-time
+5513290,High,Own,Suburban,36,Apartment,3,3,70,Full-time
+66088,Low,Own,Suburban,42,Townhouse,2,6,21,Part-time
+70212,Medium,Rent,Urban,41,Single-family home,1,7,64,Self-employed
+67758,Low,Rent,Urban,36,Apartment,2,3,26,Self-employed
+70694,Medium,Rent,Urban,41,Townhouse,0,1,23,Full-time
+71274,Medium,Rent,Urban,42,Single-family home,4,1,21,Self-employed
+67572,Low,Own,Urban,23,Apartment,1,6,42,Part-time
+256012,High,Rent,Urban,42,Apartment,5,7,49,Full-time
+72676,Medium,Own,Suburban,2,Townhouse,0,6,36,Self-employed
+69012,Low,Own,Urban,35,Apartment,2,7,69,Self-employed
+72296,Medium,Own,Urban,8,Apartment,2,6,40,Self-employed
+1248886,High,Own,Urban,29,Apartment,4,4,21,Part-time
+1132979,High,Rent,Urban,15,Single-family home,0,4,70,Full-time
+73636,Medium,Own,Urban,12,Single-family home,4,4,18,Part-time
+73916,Medium,Own,Urban,15,Single-family home,4,6,54,Full-time
+72524,Medium,Rent,Rural,17,Apartment,3,2,36,Self-employed
+68110,Low,Own,Rural,20,Apartment,0,1,33,Self-employed
+6552817,High,Own,Rural,29,Single-family home,5,4,29,Self-employed
+65504,Low,Own,Suburban,49,Apartment,0,7,25,Part-time
+198672,High,Own,Urban,47,Single-family home,0,6,53,Self-employed
+65204,Low,Own,Suburban,27,Single-family home,4,4,47,Full-time
+67620,Low,Rent,Rural,39,Apartment,3,4,51,Part-time
+66828,Low,Own,Urban,22,Apartment,0,1,52,Self-employed
+31686,Low,Own,Urban,26,Single-family home,1,5,58,Part-time
+771537,High,Rent,Urban,1,Single-family home,3,6,50,Full-time
+70184,Medium,Own,Urban,38,Apartment,3,3,55,Self-employed
+7030357,High,Own,Urban,25,Townhouse,0,5,23,Self-employed
+2639926,High,Rent,Urban,46,Apartment,1,6,58,Part-time
+175474,High,Rent,Urban,1,Apartment,4,7,43,Full-time
+1594255,High,Own,Suburban,46,Apartment,5,4,32,Full-time
+74348,Medium,Own,Urban,33,Single-family home,3,3,42,Part-time
+66604,Low,Own,Urban,6,Apartment,1,2,50,Full-time
+74584,Medium,Rent,Urban,29,Townhouse,1,1,20,Full-time
+74856,Medium,Own,Urban,16,Apartment,1,5,51,Part-time
+70084,Medium,Rent,Suburban,2,Single-family home,3,4,25,Part-time
+71922,Medium,Rent,Suburban,0,Townhouse,3,7,69,Full-time
+67818,Low,Rent,Suburban,45,Townhouse,0,5,60,Full-time
+67542,Low,Own,Urban,40,Apartment,2,2,34,Self-employed
+251315,High,Rent,Urban,3,Single-family home,4,1,33,Part-time
+247236,High,Own,Rural,42,Apartment,3,7,66,Part-time
+65426,Low,Own,Suburban,0,Apartment,5,1,48,Self-employed
+68294,Low,Own,Urban,15,Apartment,3,7,69,Self-employed
+123629,Medium,Own,Urban,41,Apartment,5,7,47,Part-time
+65514,Low,Own,Suburban,0,Single-family home,1,4,24,Full-time
+273356,High,Own,Suburban,16,Apartment,2,1,49,Full-time
+66648,Low,Own,Suburban,5,Apartment,0,1,19,Full-time
+192980,High,Own,Urban,2,Single-family home,1,5,66,Part-time
+72762,Medium,Own,Suburban,4,Apartment,4,4,28,Self-employed
+915503,High,Rent,Urban,32,Apartment,2,6,45,Full-time
+700661,High,Own,Urban,28,Apartment,5,6,31,Part-time
+47033,Low,Rent,Suburban,16,Apartment,5,5,56,Full-time
+52744,Low,Rent,Suburban,5,Townhouse,1,1,44,Part-time
+1458701,High,Own,Urban,4,Single-family home,4,5,51,Part-time
+71448,Medium,Rent,Urban,8,Single-family home,4,5,61,Self-employed
+235321,High,Rent,Urban,42,Single-family home,5,2,32,Full-time
+6600545,High,Own,Suburban,5,Apartment,1,1,31,Self-employed
+68188,Low,Rent,Suburban,31,Single-family home,4,6,21,Full-time
+44199,Low,Own,Urban,26,Single-family home,1,1,53,Self-employed
+6411171,High,Own,Urban,14,Single-family home,5,2,61,Part-time
+68810,Low,Rent,Urban,27,Apartment,3,3,62,Full-time
+69842,Low,Rent,Urban,5,Townhouse,3,2,43,Part-time
+55457,Low,Own,Urban,1,Single-family home,4,4,59,Self-employed
+70328,Medium,Rent,Urban,26,Single-family home,5,7,63,Full-time
+73806,Medium,Own,Rural,39,Apartment,5,3,61,Self-employed
+68634,Low,Own,Urban,37,Townhouse,3,2,30,Part-time
+67784,Low,Own,Urban,18,Apartment,0,4,57,Full-time
+67298,Low,Rent,Urban,10,Apartment,0,2,20,Part-time
+68772,Low,Own,Urban,28,Single-family home,4,7,18,Self-employed
+65550,Low,Own,Urban,37,Townhouse,4,1,62,Full-time
+73414,Medium,Own,Urban,8,Single-family home,0,5,54,Full-time
+75406,Medium,Rent,Urban,49,Single-family home,0,4,19,Self-employed
+36122,Low,Own,Urban,38,Apartment,2,7,69,Full-time
+70050,Medium,Own,Urban,40,Apartment,2,5,19,Full-time
+410202,High,Own,Suburban,10,Apartment,0,3,34,Part-time
+35752,Low,Own,Urban,40,Townhouse,1,6,64,Full-time
+68346,Low,Own,Urban,25,Single-family home,3,6,38,Self-employed
+66482,Low,Own,Suburban,36,Apartment,3,5,60,Self-employed
+402736,High,Rent,Urban,47,Single-family home,2,4,29,Part-time
+67134,Low,Own,Urban,5,Single-family home,1,3,49,Self-employed
+75230,Medium,Rent,Urban,50,Townhouse,0,5,33,Full-time
+350529,High,Own,Rural,18,Apartment,1,2,54,Self-employed
+129720,Medium,Own,Urban,5,Apartment,5,3,58,Part-time
+66964,Low,Own,Rural,28,Townhouse,5,4,54,Self-employed
+69136,Low,Own,Suburban,17,Single-family home,2,2,30,Self-employed
+66296,Low,Own,Urban,12,Single-family home,1,3,28,Full-time
+73182,Medium,Rent,Suburban,47,Single-family home,1,3,45,Self-employed
+75316,Medium,Rent,Suburban,11,Apartment,2,7,44,Self-employed
+66472,Low,Own,Rural,35,Townhouse,0,1,66,Full-time
+74408,Medium,Rent,Urban,1,Single-family home,5,5,50,Part-time
+71180,Medium,Own,Urban,43,Townhouse,1,7,68,Self-employed
+1350422,High,Own,Urban,23,Apartment,4,1,30,Full-time
+76933,Medium,Rent,Urban,11,Single-family home,5,3,34,Part-time
+65928,Low,Own,Urban,19,Single-family home,4,7,57,Full-time
+1667638,High,Own,Rural,24,Townhouse,5,7,37,Full-time
+32011,Low,Rent,Suburban,19,Apartment,1,6,27,Part-time
+73296,Medium,Own,Urban,2,Single-family home,0,6,27,Self-employed
+905504,High,Rent,Suburban,31,Single-family home,4,1,37,Full-time
+59521,Low,Own,Urban,5,Apartment,5,7,63,Part-time
+74524,Medium,Own,Urban,46,Townhouse,1,6,62,Part-time
+6688433,High,Own,Urban,19,Apartment,1,5,28,Part-time
+1034032,High,Rent,Urban,27,Townhouse,4,2,44,Full-time
+8432517,High,Own,Rural,22,Townhouse,4,7,36,Full-time
+420199,High,Own,Urban,38,Townhouse,0,6,41,Full-time
+64888,Low,Own,Urban,8,Apartment,1,4,28,Full-time
+33920,Low,Own,Suburban,17,Single-family home,1,6,65,Self-employed
+67448,Low,Own,Urban,32,Single-family home,1,6,39,Part-time
+70244,Medium,Own,Suburban,49,Townhouse,0,5,63,Part-time
+72998,Medium,Rent,Urban,24,Single-family home,3,2,62,Full-time
+74550,Medium,Own,Rural,41,Single-family home,2,7,60,Self-employed
+471833,High,Rent,Urban,21,Townhouse,3,2,39,Full-time
+2515227,High,Rent,Urban,21,Apartment,3,3,37,Self-employed
+73496,Medium,Rent,Urban,6,Apartment,5,1,69,Full-time
+110831,Medium,Own,Suburban,47,Single-family home,0,1,23,Self-employed
+71620,Medium,Rent,Urban,0,Single-family home,4,5,59,Full-time
+74512,Medium,Rent,Suburban,41,Single-family home,4,7,38,Self-employed
+271029,High,Own,Urban,11,Apartment,2,4,57,Part-time
+67755,Low,Rent,Suburban,26,Single-family home,5,5,47,Full-time
+67702,Low,Own,Urban,38,Single-family home,0,5,47,Part-time
+38945,Low,Own,Urban,10,Single-family home,0,4,63,Full-time
+74884,Medium,Rent,Urban,19,Townhouse,1,4,33,Part-time
+71162,Medium,Rent,Urban,14,Single-family home,3,1,19,Part-time
+74538,Medium,Rent,Urban,1,Single-family home,3,4,18,Full-time
+165667,High,Own,Urban,8,Apartment,2,5,43,Full-time
+511259,High,Rent,Urban,29,Single-family home,2,2,24,Full-time
+407919,High,Rent,Urban,34,Single-family home,4,6,49,Self-employed
+5537564,High,Own,Urban,7,Apartment,4,4,34,Full-time
+682902,High,Rent,Urban,44,Townhouse,5,1,36,Part-time
+66370,Low,Rent,Suburban,1,Apartment,5,6,34,Part-time
+72026,Medium,Own,Urban,35,Townhouse,1,2,67,Part-time
+1142923,High,Own,Urban,5,Apartment,0,6,64,Part-time
+5276644,High,Rent,Urban,16,Townhouse,4,6,64,Full-time
+67256,Low,Own,Urban,28,Single-family home,3,3,33,Part-time
+934764,High,Rent,Urban,25,Single-family home,5,2,36,Full-time
+4872748,High,Rent,Urban,46,Single-family home,5,1,34,Self-employed
+68050,Low,Own,Suburban,0,Single-family home,1,3,46,Part-time
+711355,High,Rent,Urban,36,Single-family home,3,4,41,Part-time
+1731600,High,Rent,Suburban,48,Apartment,3,7,39,Full-time
+74492,Medium,Own,Urban,7,Apartment,2,1,42,Full-time
+4036517,High,Rent,Suburban,29,Single-family home,0,2,19,Part-time
+556346,High,Own,Urban,7,Apartment,5,1,38,Full-time
+1386356,High,Own,Urban,45,Single-family home,1,7,37,Full-time
+71070,Medium,Rent,Urban,20,Townhouse,2,4,19,Self-employed
+66522,Low,Own,Urban,2,Townhouse,2,6,48,Full-time
+74044,Medium,Rent,Urban,35,Single-family home,4,4,49,Part-time
+1250871,High,Own,Suburban,23,Single-family home,0,6,47,Full-time
+73276,Medium,Own,Urban,30,Apartment,4,2,57,Full-time
+69786,Low,Own,Urban,13,Townhouse,0,3,70,Full-time
+67494,Low,Rent,Urban,47,Single-family home,2,5,60,Self-employed
+65144,Low,Own,Rural,32,Townhouse,5,2,58,Self-employed
+67422,Low,Rent,Urban,36,Single-family home,0,4,28,Full-time
+68460,Low,Own,Urban,18,Apartment,0,1,33,Part-time
+73552,Medium,Own,Suburban,5,Single-family home,0,7,69,Full-time
+74608,Medium,Own,Urban,41,Apartment,1,3,43,Part-time
+70788,Medium,Rent,Rural,45,Townhouse,4,6,26,Full-time
+72250,Medium,Rent,Suburban,46,Townhouse,3,2,63,Self-employed
+74766,Medium,Rent,Suburban,32,Apartment,1,1,57,Full-time
+65968,Low,Rent,Rural,44,Apartment,3,1,29,Full-time
+286521,High,Own,Urban,3,Apartment,2,4,38,Part-time
+70732,Medium,Own,Urban,2,Apartment,0,4,41,Full-time
+69896,Low,Own,Rural,49,Apartment,2,5,39,Self-employed
+72422,Medium,Own,Urban,45,Single-family home,1,4,29,Part-time
+72196,Medium,Own,Urban,17,Townhouse,2,6,37,Full-time
+64968,Low,Own,Rural,40,Single-family home,2,4,32,Full-time
+8580771,High,Own,Rural,16,Single-family home,3,7,40,Full-time
+68528,Low,Own,Urban,28,Single-family home,3,5,33,Full-time
+8383577,High,Own,Suburban,2,Single-family home,3,1,64,Part-time
+60714,Low,Own,Suburban,12,Apartment,3,1,39,Full-time
+1490145,High,Rent,Rural,34,Single-family home,1,6,55,Full-time
+815510,High,Rent,Urban,7,Single-family home,5,7,35,Full-time
+126324,Medium,Rent,Urban,31,Apartment,1,2,27,Full-time
+73528,Medium,Rent,Rural,41,Townhouse,5,5,54,Full-time
+68794,Low,Own,Urban,27,Single-family home,2,6,56,Part-time
+74140,Medium,Rent,Urban,10,Apartment,5,2,32,Self-employed
+74898,Medium,Rent,Urban,43,Single-family home,2,1,37,Self-employed
+64932,Low,Own,Urban,19,Apartment,4,1,64,Self-employed
+85350,Medium,Own,Urban,4,Apartment,3,2,62,Full-time
+69166,Low,Own,Suburban,35,Single-family home,1,4,37,Full-time
+69954,Low,Rent,Rural,49,Single-family home,3,2,58,Full-time
+67088,Low,Own,Urban,41,Apartment,5,6,29,Full-time
+65334,Low,Own,Urban,0,Apartment,1,4,35,Part-time
+8398237,High,Own,Suburban,39,Apartment,2,4,55,Part-time
+65154,Low,Own,Urban,10,Apartment,2,3,63,Full-time
+200517,High,Own,Urban,32,Single-family home,4,4,34,Full-time
+71734,Medium,Own,Suburban,26,Apartment,1,1,38,Full-time
+65240,Low,Own,Urban,47,Single-family home,5,4,36,Full-time
+193147,High,Rent,Urban,44,Single-family home,3,6,34,Part-time
+510452,High,Own,Suburban,23,Apartment,3,4,51,Part-time
+70614,Medium,Own,Urban,36,Apartment,3,5,63,Full-time
+69164,Low,Own,Suburban,24,Apartment,5,3,40,Full-time
+74220,Medium,Own,Urban,18,Townhouse,5,7,56,Full-time
+71010,Medium,Own,Urban,21,Single-family home,5,3,27,Self-employed
+74758,Medium,Own,Urban,49,Townhouse,2,7,33,Full-time
+66742,Low,Own,Urban,9,Single-family home,1,7,34,Full-time
+6466675,High,Own,Urban,45,Townhouse,1,7,30,Full-time
+45745,Low,Rent,Urban,4,Apartment,2,6,56,Full-time
+70118,Medium,Own,Urban,36,Single-family home,5,7,56,Part-time
+1029648,High,Own,Rural,28,Single-family home,5,4,63,Self-employed
+248416,High,Rent,Urban,13,Single-family home,0,1,30,Part-time
+839010,High,Rent,Suburban,41,Single-family home,4,2,48,Self-employed
+2636349,High,Rent,Urban,42,Apartment,1,4,44,Self-employed
+2055159,High,Rent,Rural,7,Apartment,2,5,60,Full-time
+74306,Medium,Own,Rural,49,Single-family home,0,4,21,Part-time
+71148,Medium,Own,Urban,23,Single-family home,5,7,62,Self-employed
+69348,Low,Rent,Urban,36,Townhouse,1,2,49,Full-time
+72026,Medium,Rent,Urban,1,Apartment,5,2,34,Self-employed
+31566,Low,Rent,Suburban,41,Apartment,5,5,19,Part-time
+65982,Low,Rent,Rural,8,Single-family home,1,4,23,Part-time
+65184,Low,Own,Suburban,29,Townhouse,0,3,24,Full-time
+73880,Medium,Own,Urban,38,Single-family home,0,2,26,Part-time
+68904,Low,Own,Urban,50,Single-family home,5,1,45,Self-employed
+70050,Medium,Own,Urban,19,Apartment,0,1,56,Full-time
+72254,Medium,Own,Suburban,33,Townhouse,4,2,57,Full-time
+72276,Medium,Own,Rural,40,Townhouse,3,3,20,Self-employed
+67414,Low,Rent,Urban,21,Single-family home,0,5,36,Full-time
+72844,Medium,Rent,Rural,1,Townhouse,2,1,66,Part-time
+73214,Medium,Own,Suburban,29,Apartment,5,6,37,Full-time
+154041,High,Rent,Urban,8,Single-family home,1,5,23,Full-time
+68116,Low,Own,Urban,9,Apartment,1,3,64,Full-time
+3579359,High,Own,Urban,33,Townhouse,3,4,70,Self-employed
+7325673,High,Own,Urban,44,Apartment,3,6,65,Part-time
+68050,Low,Own,Rural,24,Townhouse,0,6,56,Part-time
+70044,Medium,Rent,Urban,34,Townhouse,0,1,67,Self-employed
+162928,High,Rent,Urban,31,Apartment,3,3,60,Self-employed
+71458,Medium,Rent,Urban,27,Townhouse,1,6,70,Full-time
+67524,Low,Rent,Urban,2,Single-family home,0,4,32,Self-employed
+48097,Low,Own,Suburban,1,Apartment,3,4,67,Full-time
+66760,Low,Own,Urban,25,Apartment,3,5,26,Full-time
+1984738,High,Own,Urban,3,Apartment,1,4,51,Self-employed
+71978,Medium,Own,Suburban,20,Single-family home,1,3,63,Part-time
+2436556,High,Rent,Urban,29,Single-family home,5,6,63,Full-time
+1640630,High,Rent,Urban,25,Single-family home,1,3,23,Part-time
+976109,High,Own,Suburban,14,Apartment,4,6,60,Part-time
+66698,Low,Own,Rural,41,Apartment,3,4,50,Full-time
+3949198,High,Rent,Urban,35,Townhouse,5,3,49,Part-time
+4960168,High,Rent,Urban,50,Single-family home,1,5,33,Full-time
+124822,Medium,Rent,Suburban,17,Single-family home,5,2,23,Full-time
+70418,Medium,Own,Urban,0,Single-family home,5,6,36,Full-time
+65482,Low,Own,Suburban,8,Single-family home,5,4,67,Full-time
+68558,Low,Rent,Urban,33,Single-family home,3,5,50,Part-time
+66684,Low,Own,Suburban,27,Apartment,4,2,56,Self-employed
+1779504,High,Rent,Urban,2,Apartment,4,3,43,Full-time
+71436,Medium,Rent,Urban,39,Townhouse,1,1,35,Self-employed
+2858188,High,Rent,Urban,50,Single-family home,3,7,57,Full-time
+67630,Low,Own,Urban,40,Townhouse,5,6,22,Full-time
+71612,Medium,Rent,Urban,46,Single-family home,5,4,67,Full-time
+1020036,High,Rent,Urban,1,Apartment,3,7,63,Full-time
+115244,Medium,Own,Suburban,31,Apartment,3,5,42,Part-time
+4432941,High,Own,Urban,32,Townhouse,0,4,69,Self-employed
+69388,Low,Rent,Urban,33,Townhouse,2,7,53,Part-time
+2262245,High,Own,Suburban,7,Apartment,5,2,36,Full-time
+68604,Low,Own,Suburban,38,Single-family home,4,4,61,Full-time
+72756,Medium,Rent,Urban,26,Apartment,4,6,68,Self-employed
+66788,Low,Own,Urban,5,Single-family home,1,1,33,Full-time
+74982,Medium,Rent,Urban,11,Apartment,5,7,46,Part-time
+73326,Medium,Own,Urban,43,Single-family home,4,3,30,Full-time
+69206,Low,Rent,Urban,1,Single-family home,0,7,56,Part-time
+1476634,High,Own,Urban,33,Single-family home,2,5,61,Self-employed
+68721,Low,Own,Urban,16,Townhouse,2,7,54,Full-time
+4000119,High,Own,Rural,40,Single-family home,2,5,68,Part-time
+74916,Medium,Rent,Urban,18,Single-family home,1,7,56,Self-employed
+70826,Medium,Rent,Urban,27,Single-family home,3,3,39,Part-time
+317203,High,Own,Urban,44,Apartment,0,4,19,Full-time
+69848,Low,Own,Urban,15,Apartment,4,5,54,Full-time
+69582,Low,Own,Suburban,42,Apartment,5,7,49,Full-time
+70386,Medium,Own,Urban,20,Townhouse,0,7,33,Part-time
+67892,Low,Own,Rural,14,Townhouse,0,2,68,Full-time
+836820,High,Own,Urban,1,Apartment,1,4,57,Full-time
+161969,High,Rent,Urban,50,Single-family home,1,3,40,Part-time
+1444277,High,Own,Urban,46,Single-family home,5,7,30,Self-employed
+71108,Medium,Own,Urban,28,Single-family home,2,6,48,Full-time
+74228,Medium,Own,Urban,38,Single-family home,4,1,38,Full-time
+73544,Medium,Own,Urban,43,Single-family home,0,2,59,Part-time
+87295,Medium,Own,Urban,4,Apartment,1,6,48,Full-time
+66086,Low,Own,Suburban,32,Single-family home,5,5,59,Full-time
+69132,Low,Own,Urban,16,Apartment,2,4,47,Full-time
+65442,Low,Own,Urban,11,Single-family home,0,3,47,Full-time
+70310,Medium,Own,Urban,22,Single-family home,2,6,39,Full-time
+67682,Low,Rent,Suburban,28,Apartment,3,4,28,Part-time
+107366,Medium,Own,Urban,50,Single-family home,1,2,33,Full-time
+74356,Medium,Rent,Rural,25,Apartment,3,5,55,Full-time
+67870,Low,Rent,Urban,22,Single-family home,3,3,56,Part-time
+74704,Medium,Own,Urban,31,Townhouse,4,3,28,Full-time
+72176,Medium,Rent,Rural,15,Single-family home,3,6,22,Part-time
+66010,Low,Rent,Urban,29,Townhouse,3,3,47,Part-time
+72140,Medium,Own,Suburban,5,Single-family home,2,3,26,Full-time
+67846,Low,Own,Urban,35,Apartment,5,5,63,Full-time
+402617,High,Rent,Urban,7,Single-family home,1,6,51,Part-time
+4612808,High,Own,Urban,30,Apartment,1,3,45,Part-time
+871591,High,Rent,Suburban,8,Single-family home,3,3,30,Self-employed
+535706,High,Rent,Urban,32,Townhouse,5,3,36,Part-time
+74870,Medium,Own,Suburban,20,Townhouse,2,5,29,Self-employed
+71658,Medium,Own,Urban,37,Townhouse,1,7,21,Full-time
+74856,Medium,Own,Urban,22,Apartment,1,6,59,Part-time
+143978,Medium,Rent,Rural,32,Apartment,3,6,51,Full-time
+1635819,High,Rent,Suburban,16,Single-family home,2,3,56,Full-time
+68144,Low,Own,Rural,47,Single-family home,5,7,63,Self-employed
+69416,Low,Own,Suburban,41,Single-family home,0,2,68,Full-time
+144118,Medium,Rent,Urban,44,Single-family home,0,2,26,Part-time
+68704,Low,Own,Urban,24,Single-family home,3,3,33,Full-time
+67612,Low,Own,Urban,29,Single-family home,5,4,38,Part-time
+67804,Low,Own,Suburban,33,Apartment,3,4,63,Self-employed
+70326,Medium,Own,Urban,19,Single-family home,0,3,46,Full-time
+76459,Medium,Rent,Rural,31,Single-family home,2,4,67,Full-time
+4701227,High,Rent,Urban,7,Single-family home,5,1,56,Part-time
+73978,Medium,Own,Suburban,48,Apartment,4,5,70,Self-employed
+332874,High,Rent,Urban,20,Single-family home,3,1,36,Full-time
+2670547,High,Rent,Urban,39,Apartment,1,3,52,Part-time
+1774358,High,Rent,Urban,13,Single-family home,4,3,42,Full-time
+75070,Medium,Rent,Urban,18,Apartment,3,1,43,Full-time
+74842,Medium,Own,Urban,13,Apartment,0,6,41,Full-time
+72136,Medium,Own,Urban,6,Apartment,3,2,65,Full-time
+65632,Low,Own,Urban,1,Apartment,1,7,51,Full-time
+71654,Medium,Own,Urban,44,Single-family home,5,6,49,Part-time
+4901426,High,Own,Rural,3,Single-family home,1,7,53,Self-employed
+68752,Low,Own,Urban,43,Single-family home,5,2,26,Full-time
+517880,High,Own,Rural,10,Apartment,3,7,40,Part-time
+2135071,High,Rent,Urban,6,Single-family home,1,2,65,Full-time
+732309,High,Rent,Suburban,13,Single-family home,2,6,45,Part-time
+75408,Medium,Rent,Urban,21,Single-family home,1,2,34,Self-employed
+67850,Low,Own,Suburban,35,Apartment,0,4,29,Full-time
+65638,Low,Own,Urban,0,Single-family home,2,3,36,Part-time
+66402,Low,Rent,Urban,11,Apartment,1,2,48,Part-time
+72080,Medium,Own,Urban,18,Townhouse,4,5,49,Part-time
+5132115,High,Own,Urban,15,Single-family home,2,7,55,Part-time
+321391,High,Rent,Urban,24,Townhouse,2,1,57,Part-time
+3387236,High,Own,Urban,3,Single-family home,2,7,61,Part-time
+37890,Low,Own,Rural,6,Single-family home,2,5,59,Self-employed
+73752,Medium,Rent,Rural,33,Apartment,4,6,25,Full-time
+69912,Low,Own,Urban,26,Single-family home,0,6,54,Full-time
+94418,Medium,Rent,Urban,42,Apartment,4,7,31,Full-time
+49892,Low,Rent,Suburban,21,Single-family home,5,1,68,Full-time
+73900,Medium,Own,Rural,30,Single-family home,1,4,41,Self-employed
+7379816,High,Own,Urban,2,Townhouse,1,3,20,Full-time
+5564552,High,Rent,Rural,24,Townhouse,4,4,53,Full-time
+72898,Medium,Rent,Suburban,2,Apartment,0,3,35,Full-time
+71800,Medium,Rent,Rural,29,Single-family home,4,7,61,Full-time
+128166,Medium,Rent,Suburban,22,Townhouse,4,5,65,Full-time
+69104,Low,Rent,Urban,40,Townhouse,3,6,54,Full-time
+74716,Medium,Rent,Urban,17,Townhouse,5,7,55,Full-time
+127495,Medium,Own,Urban,29,Single-family home,2,5,41,Self-employed
+5922905,High,Own,Urban,33,Apartment,2,2,44,Part-time
+69412,Low,Own,Suburban,13,Single-family home,3,4,34,Self-employed
+68604,Low,Own,Urban,27,Townhouse,5,2,64,Full-time
+65582,Low,Own,Urban,24,Single-family home,3,4,55,Self-employed
+66122,Low,Own,Urban,37,Single-family home,3,3,37,Part-time
+67536,Low,Own,Urban,41,Single-family home,1,5,24,Full-time
+1513056,High,Rent,Rural,20,Townhouse,1,7,39,Full-time
+4612535,High,Own,Suburban,40,Single-family home,4,4,22,Part-time
+5203657,High,Own,Rural,19,Townhouse,2,1,54,Full-time
+4889826,High,Own,Rural,22,Apartment,1,3,68,Self-employed
+74178,Medium,Own,Suburban,38,Single-family home,0,5,33,Part-time
+67100,Low,Own,Urban,48,Apartment,4,6,43,Self-employed
+1011213,High,Rent,Urban,42,Apartment,2,7,41,Full-time
+409654,High,Own,Urban,3,Single-family home,1,6,42,Full-time
+65664,Low,Own,Urban,9,Single-family home,1,7,32,Part-time
+72792,Medium,Rent,Urban,31,Townhouse,0,2,52,Self-employed
+92353,Medium,Own,Rural,8,Apartment,3,2,40,Part-time
+65402,Low,Own,Rural,33,Single-family home,1,5,30,Full-time
+72950,Medium,Own,Suburban,25,Single-family home,4,1,47,Full-time
+1144219,High,Rent,Suburban,36,Single-family home,5,7,41,Full-time
+68866,Low,Own,Urban,26,Apartment,5,3,70,Self-employed
+74832,Medium,Own,Suburban,0,Apartment,5,3,18,Full-time
+69242,Low,Rent,Suburban,9,Apartment,0,7,19,Self-employed
+439796,High,Rent,Urban,38,Apartment,0,5,56,Part-time
+66336,Low,Rent,Urban,39,Single-family home,4,1,55,Full-time
+1575152,High,Rent,Urban,22,Single-family home,3,7,29,Full-time
+347682,High,Own,Rural,30,Townhouse,3,7,69,Part-time
+67018,Low,Own,Suburban,5,Single-family home,1,1,45,Self-employed
+7655169,High,Rent,Suburban,37,Single-family home,1,7,39,Full-time
+65484,Low,Own,Urban,49,Apartment,0,4,27,Part-time
+74606,Medium,Rent,Urban,49,Townhouse,3,4,50,Full-time
+68764,Low,Own,Urban,24,Single-family home,3,6,29,Part-time
+69262,Low,Rent,Urban,9,Single-family home,4,7,21,Part-time
+72184,Medium,Own,Suburban,3,Townhouse,4,4,54,Part-time
+480924,High,Rent,Suburban,35,Apartment,4,1,46,Full-time
+67496,Low,Own,Urban,42,Apartment,1,7,21,Part-time
+74934,Medium,Own,Urban,32,Single-family home,0,4,56,Part-time
+71000,Medium,Own,Rural,19,Single-family home,0,7,33,Full-time
+68206,Low,Own,Suburban,17,Single-family home,5,7,57,Full-time
+5343831,High,Rent,Rural,22,Single-family home,4,4,36,Full-time
+48146,Low,Own,Urban,19,Single-family home,3,2,21,Self-employed
+71450,Medium,Own,Urban,47,Single-family home,3,6,43,Self-employed
+146820,Medium,Own,Urban,2,Apartment,0,7,30,Part-time
+269763,High,Rent,Urban,8,Apartment,3,4,46,Full-time
+66618,Low,Rent,Suburban,44,Townhouse,1,7,43,Full-time
+67288,Low,Own,Suburban,19,Single-family home,4,6,22,Full-time
+64960,Low,Own,Suburban,48,Apartment,4,6,53,Full-time
+4503862,High,Own,Urban,27,Apartment,5,3,44,Part-time
+66800,Low,Own,Urban,17,Single-family home,3,3,18,Full-time
+537272,High,Rent,Suburban,28,Apartment,5,6,60,Part-time
+68212,Low,Rent,Urban,44,Apartment,0,4,19,Full-time
+6932100,High,Rent,Urban,21,Apartment,0,3,38,Full-time
+1692915,High,Rent,Urban,35,Apartment,3,6,21,Part-time
+70388,Medium,Own,Suburban,23,Apartment,0,5,42,Full-time
+67042,Low,Own,Rural,48,Apartment,3,5,36,Part-time
+67730,Low,Rent,Urban,44,Apartment,4,3,31,Part-time
+70728,Medium,Rent,Urban,31,Apartment,2,4,28,Part-time
+66356,Low,Own,Urban,34,Townhouse,5,1,61,Full-time
+216662,High,Own,Urban,40,Single-family home,3,4,47,Self-employed
+68642,Low,Rent,Urban,12,Single-family home,4,1,53,Full-time
+68654,Low,Own,Urban,0,Apartment,0,1,51,Full-time
+34698,Low,Own,Urban,24,Apartment,5,4,70,Self-employed
+65782,Low,Own,Urban,44,Townhouse,4,6,52,Part-time
+69766,Low,Rent,Urban,20,Single-family home,1,4,39,Part-time
+70918,Medium,Own,Urban,18,Single-family home,1,3,47,Part-time
+70992,Medium,Rent,Rural,2,Apartment,3,2,26,Full-time
+74542,Medium,Own,Urban,47,Single-family home,2,4,46,Part-time
+70712,Medium,Rent,Urban,14,Apartment,2,1,33,Full-time
+805774,High,Own,Urban,29,Apartment,5,6,38,Part-time
+75340,Medium,Own,Urban,32,Townhouse,3,1,26,Full-time
+66780,Low,Own,Urban,10,Single-family home,1,7,49,Full-time
+73020,Medium,Own,Urban,12,Townhouse,3,5,27,Full-time
+71414,Medium,Own,Urban,24,Single-family home,5,7,49,Full-time
+71848,Medium,Rent,Urban,50,Single-family home,1,7,70,Part-time
+65944,Low,Rent,Urban,9,Apartment,0,2,23,Full-time
+303583,High,Rent,Urban,32,Apartment,4,3,39,Full-time
+207468,High,Own,Urban,17,Apartment,2,1,38,Part-time
+71086,Medium,Rent,Rural,4,Single-family home,2,1,35,Part-time
+70000,Low,Own,Suburban,5,Single-family home,0,5,20,Self-employed
+75032,Medium,Own,Suburban,36,Apartment,1,1,33,Full-time
+8631170,High,Rent,Suburban,28,Apartment,4,6,51,Full-time
+70496,Medium,Own,Urban,40,Single-family home,5,3,70,Full-time
+68905,Low,Rent,Rural,1,Apartment,3,1,56,Self-employed
+68700,Low,Own,Rural,38,Apartment,1,4,57,Part-time
+71208,Medium,Own,Urban,0,Single-family home,1,6,70,Full-time
+1807604,High,Rent,Suburban,13,Single-family home,0,7,37,Part-time
+162383,High,Rent,Urban,32,Single-family home,4,4,66,Full-time
+73156,Medium,Own,Urban,19,Apartment,4,4,41,Part-time
+74598,Medium,Own,Urban,4,Townhouse,2,1,44,Full-time
+69636,Low,Own,Suburban,45,Apartment,4,2,36,Full-time
+65862,Low,Own,Urban,45,Townhouse,2,2,68,Self-employed
+216939,High,Own,Suburban,45,Townhouse,1,3,37,Part-time
+67070,Low,Own,Urban,35,Apartment,1,2,31,Full-time
+433770,High,Rent,Urban,32,Single-family home,1,6,30,Full-time
+65340,Low,Own,Urban,5,Single-family home,4,6,47,Full-time
+217756,High,Own,Suburban,20,Apartment,5,7,55,Full-time
+73142,Medium,Rent,Urban,10,Apartment,5,5,22,Self-employed
+74364,Medium,Own,Urban,41,Single-family home,3,4,56,Part-time
+66948,Low,Own,Suburban,19,Apartment,5,3,67,Self-employed
+72196,Medium,Own,Suburban,26,Apartment,0,7,25,Full-time
+69374,Low,Own,Suburban,35,Apartment,4,2,26,Part-time
+612391,High,Rent,Urban,45,Apartment,3,7,58,Full-time
+651268,High,Rent,Suburban,24,Apartment,0,5,26,Full-time
+69310,Low,Own,Urban,47,Single-family home,3,3,60,Part-time
+75066,Medium,Own,Urban,38,Townhouse,0,7,25,Part-time
+231416,High,Own,Urban,7,Apartment,1,2,29,Part-time
+1439955,High,Rent,Urban,14,Single-family home,3,4,21,Part-time
+65908,Low,Own,Rural,39,Townhouse,2,2,19,Part-time
+65660,Low,Own,Urban,43,Apartment,5,6,65,Full-time
+95705,Medium,Rent,Urban,35,Single-family home,3,7,68,Full-time
+74400,Medium,Own,Rural,43,Apartment,5,4,69,Self-employed
+1432577,High,Rent,Urban,34,Apartment,3,6,70,Self-employed
+117874,Medium,Rent,Urban,20,Apartment,0,2,64,Part-time
+34694,Low,Rent,Urban,17,Apartment,5,4,45,Full-time
+411813,High,Rent,Suburban,44,Apartment,4,6,61,Full-time
+67584,Low,Own,Urban,25,Townhouse,3,4,68,Full-time
+65436,Low,Own,Rural,34,Single-family home,1,7,27,Full-time
+70094,Medium,Own,Urban,18,Apartment,4,3,65,Part-time
+215911,High,Own,Urban,6,Apartment,3,7,52,Full-time
+67726,Low,Own,Urban,18,Townhouse,2,2,64,Full-time
+65464,Low,Own,Urban,11,Single-family home,3,7,38,Self-employed
+72248,Medium,Own,Urban,42,Apartment,2,4,68,Full-time
+67310,Low,Own,Suburban,48,Townhouse,5,5,64,Part-time
+58780,Low,Own,Urban,46,Apartment,1,7,66,Full-time
+123744,Medium,Rent,Urban,8,Apartment,3,5,22,Part-time
+73084,Medium,Own,Urban,38,Apartment,1,1,61,Part-time
+4180941,High,Own,Urban,1,Townhouse,4,7,44,Full-time
+66132,Low,Own,Suburban,1,Apartment,1,6,36,Full-time
+73920,Medium,Own,Rural,26,Single-family home,0,1,68,Part-time
+75436,Medium,Own,Urban,43,Single-family home,1,3,47,Full-time
+67310,Low,Rent,Suburban,47,Single-family home,3,5,46,Part-time
+72812,Medium,Own,Urban,27,Apartment,1,6,67,Self-employed
+1863886,High,Rent,Suburban,32,Single-family home,3,1,65,Full-time
+73146,Medium,Own,Urban,35,Single-family home,0,3,34,Self-employed
+72086,Medium,Own,Suburban,20,Single-family home,3,5,21,Full-time
+35595,Low,Rent,Rural,14,Townhouse,3,6,53,Part-time
+70380,Medium,Own,Urban,37,Single-family home,0,4,46,Part-time
+6992811,High,Own,Urban,18,Apartment,0,3,40,Part-time
+1736974,High,Own,Urban,14,Single-family home,5,3,70,Full-time
+74644,Medium,Rent,Urban,1,Single-family home,2,1,44,Part-time
+72346,Medium,Own,Urban,19,Apartment,1,4,49,Full-time
+803923,High,Own,Suburban,9,Apartment,2,7,51,Part-time
+676907,High,Own,Urban,9,Single-family home,4,5,70,Full-time
+838705,High,Rent,Urban,21,Apartment,3,1,54,Part-time
+65568,Low,Own,Urban,45,Townhouse,1,5,18,Self-employed
+1765806,High,Rent,Urban,47,Apartment,0,7,57,Part-time
+67470,Low,Own,Suburban,25,Townhouse,4,5,37,Part-time
+1559440,High,Rent,Urban,27,Apartment,2,7,50,Self-employed
+65000,Low,Own,Urban,48,Single-family home,3,1,22,Part-time
+65088,Low,Rent,Urban,19,Apartment,2,2,18,Part-time
+70328,Medium,Own,Suburban,44,Apartment,1,3,67,Full-time
+4644141,High,Own,Urban,5,Apartment,3,4,23,Full-time
+897952,High,Rent,Suburban,23,Apartment,4,1,19,Part-time
+66248,Low,Own,Urban,22,Townhouse,3,3,58,Part-time
+66612,Low,Own,Urban,8,Single-family home,1,6,23,Full-time
+65420,Low,Own,Rural,40,Single-family home,1,4,29,Part-time
+43769,Low,Rent,Urban,46,Apartment,1,2,32,Part-time
+66588,Low,Rent,Urban,49,Apartment,0,7,63,Full-time
+69600,Low,Own,Urban,0,Townhouse,5,3,63,Full-time
+71210,Medium,Own,Suburban,7,Single-family home,3,6,41,Self-employed
+73012,Medium,Own,Suburban,20,Townhouse,5,5,46,Self-employed
+69864,Low,Own,Urban,34,Townhouse,0,2,66,Part-time
+70700,Medium,Own,Urban,10,Single-family home,4,3,29,Part-time
+374753,High,Own,Rural,26,Apartment,4,7,26,Full-time
+68944,Low,Rent,Urban,50,Townhouse,4,5,28,Full-time
+72802,Medium,Rent,Urban,23,Apartment,4,4,32,Full-time
+69498,Low,Own,Urban,27,Single-family home,0,4,31,Full-time
+71198,Medium,Own,Suburban,19,Single-family home,1,2,63,Part-time
+2146056,High,Own,Urban,38,Single-family home,2,2,59,Full-time
+68928,Low,Own,Suburban,15,Single-family home,4,1,26,Full-time
+65672,Low,Own,Urban,23,Single-family home,5,3,31,Full-time
+62367,Low,Own,Urban,14,Townhouse,5,1,41,Full-time
+62050,Low,Rent,Suburban,11,Apartment,1,5,50,Full-time
+66296,Low,Own,Urban,34,Apartment,2,4,70,Full-time
+65250,Low,Own,Urban,22,Townhouse,2,7,41,Part-time
+69482,Low,Rent,Urban,49,Single-family home,1,5,51,Full-time
+74578,Medium,Rent,Urban,26,Single-family home,0,3,39,Self-employed
+69124,Low,Own,Urban,17,Single-family home,3,7,68,Full-time
+9639102,High,Rent,Urban,31,Single-family home,0,5,57,Full-time
+1108707,High,Own,Urban,6,Single-family home,3,1,68,Full-time
+68978,Low,Own,Urban,4,Apartment,0,5,42,Full-time
+2025740,High,Rent,Urban,34,Single-family home,3,3,30,Self-employed
+69168,Low,Own,Urban,17,Single-family home,0,1,46,Self-employed
+82053,Medium,Own,Rural,14,Apartment,1,7,25,Part-time
+67776,Low,Own,Urban,46,Apartment,5,7,38,Full-time
+74026,Medium,Own,Urban,25,Single-family home,4,3,19,Full-time
+34972,Low,Rent,Urban,3,Apartment,5,7,49,Full-time
+31146,Low,Rent,Suburban,3,Apartment,0,4,66,Self-employed
+99806,Medium,Rent,Urban,14,Single-family home,4,2,43,Full-time
+68002,Low,Own,Urban,27,Townhouse,2,6,52,Self-employed
+75096,Medium,Own,Urban,20,Townhouse,2,5,42,Part-time
+2204604,High,Own,Rural,16,Single-family home,1,7,66,Full-time
+70432,Medium,Own,Urban,50,Apartment,2,4,63,Full-time
+141058,Medium,Rent,Urban,33,Townhouse,4,7,18,Part-time
+73718,Medium,Own,Urban,50,Single-family home,4,3,31,Full-time
+75006,Medium,Rent,Urban,0,Apartment,4,6,21,Part-time
+671867,High,Rent,Suburban,14,Single-family home,0,6,24,Part-time
+70924,Medium,Own,Urban,48,Townhouse,3,1,67,Self-employed
+69614,Low,Own,Urban,3,Townhouse,4,3,38,Full-time
+68548,Low,Rent,Urban,11,Apartment,4,5,43,Full-time
+72096,Medium,Own,Urban,24,Townhouse,4,7,52,Full-time
+1696500,High,Own,Urban,5,Single-family home,3,6,61,Full-time
+66448,Low,Own,Urban,42,Single-family home,1,7,53,Full-time
+70458,Medium,Own,Suburban,45,Apartment,1,7,41,Full-time
+72118,Medium,Own,Urban,29,Single-family home,5,3,48,Full-time
+2318391,High,Own,Suburban,3,Townhouse,3,5,56,Part-time
+65198,Low,Own,Urban,34,Apartment,3,4,46,Full-time
+67828,Low,Own,Urban,41,Townhouse,3,4,40,Self-employed
+665274,High,Rent,Rural,1,Apartment,2,5,22,Full-time
+68244,Low,Own,Urban,13,Single-family home,0,3,43,Part-time
+58367,Low,Own,Urban,48,Apartment,1,7,25,Full-time
+39443,Low,Rent,Urban,18,Single-family home,4,3,34,Full-time
+99591,Medium,Own,Rural,10,Apartment,5,7,40,Full-time
+486894,High,Own,Urban,40,Apartment,0,1,24,Self-employed
+65588,Low,Own,Urban,2,Single-family home,5,2,46,Full-time
+67546,Low,Own,Urban,48,Single-family home,1,6,28,Full-time
+69278,Low,Rent,Urban,43,Apartment,0,1,48,Self-employed
+71924,Medium,Rent,Urban,37,Apartment,3,4,46,Part-time
+70834,Medium,Rent,Urban,36,Single-family home,4,5,45,Full-time
+7050210,High,Own,Suburban,40,Apartment,5,2,39,Full-time
+67672,Low,Own,Urban,26,Apartment,3,5,68,Part-time
+68530,Low,Own,Rural,1,Single-family home,1,6,31,Full-time
+67836,Low,Own,Urban,8,Apartment,2,4,69,Self-employed
+67464,Low,Own,Suburban,34,Single-family home,1,4,46,Full-time
+74046,Medium,Rent,Urban,1,Single-family home,5,2,59,Full-time
+73262,Medium,Own,Suburban,28,Single-family home,4,2,21,Self-employed
+72934,Medium,Own,Urban,45,Single-family home,5,4,35,Part-time
+68830,Low,Own,Suburban,14,Townhouse,5,2,41,Full-time
+5563982,High,Own,Urban,35,Apartment,5,3,57,Part-time
+233123,High,Own,Urban,8,Apartment,5,7,35,Full-time
+67070,Low,Own,Suburban,38,Single-family home,4,3,54,Full-time
+75448,Medium,Own,Urban,12,Apartment,5,3,62,Part-time
+68796,Low,Own,Urban,30,Apartment,1,5,36,Full-time
+66342,Low,Own,Suburban,39,Single-family home,5,2,65,Full-time
+70098,Medium,Rent,Suburban,5,Single-family home,3,5,21,Full-time
+68520,Low,Own,Urban,18,Single-family home,4,5,42,Self-employed
+178013,High,Rent,Suburban,48,Apartment,0,6,45,Part-time
+2280108,High,Rent,Urban,5,Single-family home,4,5,68,Part-time
+68774,Low,Own,Urban,3,Single-family home,1,7,62,Full-time
+278339,High,Rent,Urban,18,Apartment,4,5,59,Part-time
+74296,Medium,Own,Urban,28,Single-family home,0,5,66,Full-time
+516653,High,Own,Suburban,12,Apartment,5,1,46,Full-time
+71070,Medium,Rent,Urban,14,Single-family home,0,6,38,Part-time
+40801,Low,Own,Suburban,4,Single-family home,4,4,56,Part-time
+71224,Medium,Rent,Suburban,44,Apartment,1,4,31,Self-employed
+70826,Medium,Rent,Urban,30,Single-family home,5,3,48,Part-time
+428450,High,Own,Urban,7,Apartment,3,5,52,Full-time
+1895857,High,Own,Urban,3,Apartment,3,2,63,Full-time
+66598,Low,Own,Suburban,44,Single-family home,1,2,36,Full-time
+67410,Low,Rent,Rural,10,Apartment,1,7,38,Full-time
+64990,Low,Own,Urban,36,Townhouse,5,1,39,Full-time
+137940,Medium,Own,Rural,5,Townhouse,4,2,36,Full-time
+313450,High,Rent,Suburban,48,Apartment,2,3,47,Self-employed
+3166831,High,Rent,Urban,37,Townhouse,3,5,23,Full-time
+2295842,High,Own,Urban,29,Townhouse,4,7,33,Full-time
+65964,Low,Rent,Urban,6,Apartment,5,3,65,Full-time
+2567436,High,Own,Suburban,21,Apartment,0,4,69,Full-time
+70446,Medium,Own,Urban,23,Single-family home,3,5,28,Self-employed
+3406597,High,Rent,Suburban,35,Apartment,1,4,59,Full-time
+66600,Low,Own,Urban,9,Apartment,1,3,18,Full-time
+417544,High,Rent,Urban,34,Apartment,5,5,52,Full-time
+69298,Low,Own,Suburban,34,Apartment,1,4,39,Full-time
+534015,High,Rent,Urban,1,Single-family home,2,2,26,Part-time
+195659,High,Rent,Suburban,9,Townhouse,4,4,62,Self-employed
+46863,Low,Own,Urban,30,Single-family home,0,1,28,Full-time
+75156,Medium,Own,Urban,34,Single-family home,2,5,20,Full-time
+69554,Low,Rent,Urban,16,Single-family home,0,7,19,Self-employed
+75468,Medium,Rent,Rural,38,Single-family home,5,4,67,Self-employed
+483848,High,Own,Urban,4,Apartment,4,1,56,Part-time
+43020,Low,Rent,Urban,45,Single-family home,2,1,30,Part-time
+6814961,High,Own,Suburban,6,Townhouse,4,5,68,Full-time
+66088,Low,Own,Suburban,19,Apartment,3,5,61,Full-time
+74060,Medium,Rent,Urban,1,Single-family home,3,4,37,Part-time
+4701353,High,Own,Urban,17,Apartment,2,3,62,Part-time
+1031720,High,Own,Urban,6,Single-family home,4,7,51,Part-time
+67958,Low,Own,Rural,28,Apartment,5,2,54,Full-time
+68002,Low,Rent,Urban,11,Single-family home,1,7,50,Part-time
+1024564,High,Rent,Suburban,48,Townhouse,5,3,67,Full-time
+888934,High,Own,Rural,22,Townhouse,0,6,25,Part-time
+67192,Low,Rent,Suburban,24,Single-family home,2,4,27,Self-employed
+445390,High,Rent,Suburban,35,Single-family home,4,6,62,Part-time
+1243598,High,Own,Suburban,20,Apartment,0,5,20,Part-time
+66950,Low,Own,Urban,22,Townhouse,5,6,27,Self-employed
+67732,Low,Rent,Urban,27,Apartment,5,2,30,Self-employed
+71478,Medium,Own,Urban,50,Single-family home,0,1,46,Self-employed
+66498,Low,Own,Urban,22,Single-family home,5,2,27,Part-time
+73314,Medium,Own,Suburban,20,Apartment,1,5,56,Part-time
+71770,Medium,Own,Urban,48,Apartment,5,5,44,Full-time
+71622,Medium,Rent,Urban,34,Townhouse,2,7,44,Full-time
+66696,Low,Own,Urban,39,Single-family home,0,7,53,Self-employed
+69884,Low,Own,Urban,7,Single-family home,4,1,41,Full-time
+231308,High,Rent,Rural,7,Townhouse,0,2,54,Part-time
+66356,Low,Rent,Urban,25,Apartment,5,7,52,Full-time
+72396,Medium,Rent,Urban,49,Townhouse,0,3,37,Self-employed
+71366,Medium,Own,Urban,3,Single-family home,1,6,37,Part-time
+66226,Low,Own,Suburban,16,Apartment,1,5,58,Part-time
+65486,Low,Rent,Urban,24,Single-family home,0,1,49,Full-time
+66236,Low,Rent,Suburban,45,Single-family home,4,4,35,Full-time
+87542,Medium,Rent,Urban,24,Single-family home,1,3,45,Full-time
+70110,Medium,Own,Urban,2,Townhouse,2,1,59,Full-time
+74288,Medium,Own,Suburban,45,Apartment,2,1,35,Self-employed
+67738,Low,Own,Urban,20,Single-family home,2,5,58,Full-time
+74622,Medium,Rent,Rural,3,Single-family home,2,3,62,Part-time
+66388,Low,Own,Urban,37,Single-family home,5,7,62,Full-time
+74340,Medium,Own,Urban,4,Townhouse,5,3,67,Self-employed
+70344,Medium,Rent,Urban,3,Single-family home,4,2,36,Full-time
+562108,High,Rent,Urban,23,Townhouse,3,5,24,Part-time
+65944,Low,Own,Urban,44,Townhouse,5,2,51,Full-time
+69184,Low,Own,Suburban,45,Townhouse,1,1,35,Full-time
+71092,Medium,Own,Urban,37,Apartment,2,4,35,Full-time
+49613,Low,Rent,Urban,21,Single-family home,2,3,62,Part-time
+74982,Medium,Own,Suburban,4,Apartment,3,6,51,Full-time
+69604,Low,Own,Suburban,25,Single-family home,0,6,37,Self-employed
+65916,Low,Own,Urban,4,Single-family home,3,4,67,Full-time
+65964,Low,Own,Urban,30,Apartment,2,5,57,Full-time
+69348,Low,Own,Urban,44,Apartment,4,4,53,Full-time
+71726,Medium,Rent,Rural,13,Apartment,1,6,34,Part-time
+69144,Low,Own,Urban,6,Townhouse,3,7,33,Part-time
+74309,Medium,Rent,Urban,2,Apartment,5,2,55,Full-time
+70198,Medium,Own,Urban,45,Apartment,3,1,55,Full-time
+68596,Low,Own,Urban,47,Single-family home,1,6,54,Part-time
+233049,High,Rent,Urban,34,Apartment,2,6,19,Part-time
+71140,Medium,Own,Urban,31,Single-family home,5,3,33,Self-employed
+56429,Low,Rent,Urban,31,Townhouse,3,5,58,Full-time
+675642,High,Own,Suburban,15,Single-family home,3,1,43,Full-time
+1574123,High,Rent,Urban,12,Townhouse,3,5,26,Part-time
+53631,Low,Own,Urban,50,Single-family home,2,6,30,Full-time
+67032,Low,Own,Urban,49,Apartment,0,5,49,Self-employed
+68108,Low,Rent,Rural,13,Single-family home,1,2,37,Part-time
+67992,Low,Own,Urban,33,Single-family home,4,6,37,Full-time
+66480,Low,Own,Rural,0,Townhouse,3,1,46,Full-time
+69764,Low,Own,Urban,17,Townhouse,2,7,70,Part-time
+65394,Low,Own,Suburban,9,Apartment,0,2,51,Full-time
+70986,Medium,Own,Suburban,49,Apartment,0,1,33,Full-time
+2926451,High,Rent,Urban,38,Single-family home,2,7,67,Part-time
+948392,High,Rent,Urban,41,Single-family home,4,6,45,Full-time
+66943,Low,Rent,Urban,10,Single-family home,0,1,19,Full-time
+69830,Low,Own,Urban,43,Apartment,4,4,59,Full-time
+39512,Low,Rent,Suburban,39,Apartment,4,1,30,Part-time
+67690,Low,Own,Urban,13,Apartment,4,5,45,Self-employed
+71872,Medium,Rent,Urban,6,Apartment,5,1,25,Self-employed
+1698479,High,Own,Urban,17,Townhouse,3,5,68,Self-employed
+156861,High,Rent,Suburban,9,Single-family home,0,7,36,Self-employed
+65984,Low,Own,Urban,29,Townhouse,2,7,25,Self-employed
+89071,Medium,Rent,Suburban,45,Apartment,5,1,63,Part-time
+73634,Medium,Own,Suburban,46,Apartment,1,7,42,Part-time
+1584775,High,Rent,Rural,48,Townhouse,5,7,36,Full-time
+65200,Low,Own,Urban,37,Single-family home,4,4,26,Part-time
+70480,Medium,Own,Urban,31,Apartment,0,4,47,Full-time
+128293,Medium,Own,Urban,12,Single-family home,5,2,64,Part-time
+3041157,High,Rent,Urban,45,Apartment,5,1,32,Full-time
+73100,Medium,Rent,Rural,0,Single-family home,5,4,34,Self-employed
+1660360,High,Own,Urban,13,Apartment,1,1,38,Part-time
+70282,Medium,Own,Urban,0,Apartment,1,6,47,Part-time
+1319665,High,Rent,Urban,44,Single-family home,0,5,49,Full-time
+68998,Low,Own,Urban,42,Single-family home,4,2,47,Full-time
+65906,Low,Own,Urban,26,Apartment,5,1,52,Self-employed
+71170,Medium,Own,Urban,31,Townhouse,5,7,39,Full-time
+154390,High,Rent,Suburban,13,Apartment,1,3,55,Part-time
+73766,Medium,Own,Urban,26,Single-family home,2,2,29,Part-time
+70390,Medium,Own,Urban,28,Single-family home,4,7,52,Part-time
+803158,High,Rent,Urban,42,Townhouse,2,6,39,Part-time
+2836861,High,Own,Rural,17,Single-family home,2,1,63,Full-time
+74576,Medium,Rent,Urban,34,Apartment,1,1,38,Self-employed
+75008,Medium,Own,Urban,39,Apartment,1,5,39,Full-time
+1382522,High,Rent,Urban,2,Townhouse,2,4,56,Part-time
+70818,Medium,Own,Urban,42,Apartment,1,2,31,Part-time
+71160,Medium,Own,Rural,18,Townhouse,1,3,50,Self-employed
+66174,Low,Own,Urban,8,Apartment,0,1,69,Full-time
+68602,Low,Rent,Urban,29,Townhouse,5,6,20,Self-employed
+67668,Low,Rent,Urban,16,Single-family home,5,7,49,Full-time
+753292,High,Rent,Urban,31,Apartment,0,5,47,Full-time
+71468,Medium,Rent,Suburban,30,Apartment,1,6,54,Self-employed
+39006,Low,Own,Suburban,4,Apartment,0,5,28,Full-time
+1157812,High,Own,Urban,45,Single-family home,0,7,52,Full-time
+67330,Low,Own,Suburban,17,Apartment,5,6,67,Self-employed
+367841,High,Rent,Urban,9,Townhouse,5,6,26,Part-time
+65842,Low,Rent,Urban,7,Single-family home,2,4,46,Full-time
+1750926,High,Rent,Urban,29,Single-family home,1,1,43,Full-time
+70094,Medium,Own,Urban,29,Apartment,2,4,35,Full-time
+66558,Low,Rent,Urban,27,Single-family home,3,1,54,Self-employed
+306580,High,Rent,Suburban,6,Apartment,0,6,65,Part-time
+8836793,High,Rent,Rural,18,Apartment,3,2,21,Part-time
+228502,High,Rent,Urban,41,Apartment,3,3,58,Part-time
+2750008,High,Rent,Urban,50,Single-family home,1,3,64,Self-employed
+120993,Medium,Rent,Urban,41,Single-family home,0,2,68,Part-time
+66314,Low,Own,Urban,31,Single-family home,0,7,51,Full-time
+704549,High,Rent,Urban,37,Apartment,0,5,21,Self-employed
+71670,Medium,Rent,Suburban,5,Single-family home,0,7,19,Self-employed
+513348,High,Rent,Urban,27,Single-family home,0,6,33,Part-time
+70236,Medium,Own,Urban,36,Townhouse,1,5,36,Full-time
+73028,Medium,Own,Urban,21,Apartment,3,6,64,Full-time
+67860,Low,Own,Urban,18,Single-family home,1,5,66,Self-employed
+66984,Low,Own,Urban,9,Apartment,0,2,28,Full-time
+69334,Low,Own,Urban,43,Apartment,1,4,19,Full-time
+6052889,High,Rent,Urban,26,Apartment,5,5,34,Part-time
+4477499,High,Rent,Urban,47,Single-family home,4,1,21,Full-time
+135357,Medium,Rent,Urban,24,Townhouse,5,5,47,Part-time
+75474,Medium,Own,Urban,40,Single-family home,5,4,44,Part-time
+5296164,High,Rent,Suburban,38,Single-family home,2,5,45,Full-time
+9979438,High,Rent,Rural,48,Single-family home,3,4,66,Full-time
+518470,High,Rent,Urban,24,Townhouse,4,3,51,Full-time
+73250,Medium,Rent,Urban,32,Single-family home,2,3,23,Self-employed
+67326,Low,Own,Urban,9,Townhouse,1,5,57,Full-time
+72908,Medium,Rent,Suburban,15,Apartment,0,1,64,Part-time
+1930018,High,Own,Rural,46,Apartment,2,5,54,Full-time
+66420,Low,Own,Urban,39,Single-family home,3,2,40,Full-time
+79888,Medium,Own,Rural,29,Apartment,4,2,28,Full-time
+427162,High,Own,Urban,1,Single-family home,0,7,46,Full-time
+7208794,High,Own,Suburban,1,Single-family home,1,2,45,Full-time
+930758,High,Rent,Suburban,17,Single-family home,3,3,51,Full-time
+67270,Low,Own,Rural,36,Townhouse,4,5,37,Self-employed
+66186,Low,Own,Urban,38,Townhouse,3,2,23,Full-time
+72588,Medium,Own,Urban,25,Apartment,3,2,43,Full-time
+74838,Medium,Own,Rural,23,Townhouse,3,1,68,Full-time
+795379,High,Rent,Urban,50,Apartment,5,6,58,Full-time
+68934,Low,Own,Suburban,2,Townhouse,0,6,69,Self-employed
+70028,Medium,Own,Urban,29,Apartment,4,3,42,Full-time
+66010,Low,Own,Urban,24,Single-family home,1,3,29,Full-time
+118028,Medium,Rent,Suburban,8,Single-family home,1,2,50,Part-time
+72758,Medium,Rent,Urban,19,Apartment,0,7,35,Part-time
+74282,Medium,Rent,Urban,26,Townhouse,5,7,33,Self-employed
+138156,Medium,Own,Urban,33,Townhouse,1,2,52,Full-time
+143559,Medium,Own,Rural,15,Apartment,1,1,19,Full-time
+69240,Low,Rent,Urban,36,Apartment,5,6,18,Part-time
+67874,Low,Own,Urban,48,Townhouse,3,6,26,Self-employed
+68792,Low,Own,Urban,30,Apartment,4,6,20,Full-time
+74010,Medium,Own,Urban,42,Single-family home,5,2,36,Full-time
+70474,Medium,Rent,Urban,47,Townhouse,5,6,50,Self-employed
+70222,Medium,Rent,Urban,37,Apartment,3,1,27,Part-time
+984589,High,Own,Urban,1,Single-family home,1,1,25,Full-time
+1590059,High,Own,Urban,18,Townhouse,1,2,37,Self-employed
+45157,Low,Rent,Urban,36,Apartment,0,6,70,Part-time
+65172,Low,Own,Suburban,10,Single-family home,0,2,31,Part-time
+70128,Medium,Own,Urban,15,Townhouse,1,5,22,Full-time
+83029,Medium,Rent,Rural,30,Single-family home,0,2,64,Part-time
+4383111,High,Own,Rural,9,Single-family home,1,7,55,Part-time
+64894,Low,Own,Urban,18,Townhouse,1,2,25,Part-time
+73716,Medium,Own,Suburban,31,Townhouse,3,5,57,Full-time
+66896,Low,Own,Urban,24,Single-family home,4,5,65,Self-employed
+389807,High,Own,Urban,2,Apartment,2,1,45,Full-time
+65404,Low,Own,Urban,23,Single-family home,5,1,43,Full-time
+69550,Low,Own,Urban,35,Apartment,1,3,57,Part-time
+70852,Medium,Own,Suburban,40,Apartment,2,2,69,Full-time
+73578,Medium,Own,Urban,43,Single-family home,1,3,31,Part-time
+67272,Low,Rent,Suburban,49,Single-family home,2,2,42,Self-employed
+616340,High,Own,Rural,21,Apartment,1,7,70,Self-employed
+66198,Low,Own,Suburban,36,Apartment,0,7,31,Full-time
+73066,Medium,Own,Urban,46,Townhouse,0,2,70,Self-employed
+1827546,High,Rent,Urban,50,Single-family home,5,1,25,Part-time
+55290,Low,Own,Urban,49,Single-family home,2,5,51,Full-time
+154592,High,Own,Urban,39,Single-family home,1,2,57,Self-employed
+66428,Low,Rent,Urban,38,Single-family home,3,7,18,Self-employed
+2847531,High,Own,Rural,36,Apartment,2,7,52,Full-time
+72474,Medium,Rent,Urban,17,Townhouse,5,6,49,Self-employed
+67228,Low,Own,Urban,2,Apartment,0,6,25,Full-time
+70400,Medium,Own,Urban,23,Townhouse,3,1,61,Part-time
+67636,Low,Own,Rural,22,Single-family home,3,2,62,Self-employed
+71168,Medium,Rent,Urban,5,Apartment,2,4,66,Self-employed
+6070466,High,Rent,Urban,20,Single-family home,4,1,26,Self-employed
+225064,High,Own,Urban,26,Single-family home,0,1,28,Full-time
+742524,High,Own,Urban,18,Apartment,4,6,35,Full-time
+6713530,High,Rent,Urban,42,Single-family home,4,4,35,Full-time
+71270,Medium,Own,Urban,40,Single-family home,1,5,65,Part-time
+757817,High,Rent,Rural,21,Single-family home,1,6,45,Full-time
+72898,Medium,Rent,Suburban,24,Townhouse,1,7,40,Self-employed
+66012,Low,Own,Rural,13,Single-family home,5,2,67,Full-time
+70066,Medium,Own,Suburban,34,Townhouse,1,7,56,Part-time
+594770,High,Own,Urban,43,Townhouse,5,7,20,Full-time
+71320,Medium,Own,Urban,33,Apartment,1,2,70,Full-time
+130864,Medium,Rent,Urban,8,Single-family home,1,7,54,Part-time
+72676,Medium,Own,Urban,16,Single-family home,3,1,23,Full-time
+70476,Medium,Own,Urban,10,Apartment,1,2,21,Full-time
+991876,High,Rent,Urban,13,Single-family home,2,3,66,Self-employed
+4098854,High,Own,Urban,43,Single-family home,3,5,62,Self-employed
+71116,Medium,Own,Suburban,39,Apartment,4,4,22,Full-time
+67186,Low,Rent,Urban,28,Townhouse,0,6,40,Part-time
+444850,High,Rent,Urban,45,Townhouse,5,3,36,Part-time
+49663,Low,Rent,Urban,14,Apartment,1,1,18,Full-time
+2997003,High,Rent,Urban,23,Single-family home,0,3,44,Full-time
+6110524,High,Own,Suburban,47,Townhouse,3,4,19,Self-employed
+64974,Low,Rent,Urban,7,Apartment,0,5,70,Self-employed
+79456,Medium,Rent,Urban,29,Apartment,5,4,64,Full-time
+70714,Medium,Own,Urban,8,Townhouse,4,7,64,Full-time
+72298,Medium,Rent,Suburban,6,Single-family home,5,5,39,Part-time
+71922,Medium,Own,Urban,6,Single-family home,4,5,32,Part-time
+70144,Medium,Own,Urban,38,Single-family home,0,5,66,Part-time
+73638,Medium,Own,Urban,37,Apartment,4,6,52,Self-employed
+69518,Low,Own,Urban,23,Townhouse,5,6,20,Part-time
+2479312,High,Rent,Urban,16,Single-family home,4,2,31,Full-time
+1159998,High,Rent,Suburban,40,Townhouse,5,3,49,Part-time
+71756,Medium,Own,Urban,19,Apartment,2,5,55,Full-time
+74732,Medium,Own,Urban,18,Single-family home,2,5,34,Self-employed
+66084,Low,Rent,Urban,8,Townhouse,0,5,68,Full-time
+67324,Low,Own,Suburban,0,Single-family home,4,7,48,Full-time
+1027002,High,Rent,Urban,47,Single-family home,5,4,45,Full-time
+74306,Medium,Rent,Urban,8,Townhouse,4,5,41,Full-time
+1289608,High,Rent,Suburban,24,Single-family home,2,3,38,Full-time
+65078,Low,Own,Urban,15,Apartment,2,4,34,Self-employed
+2135185,High,Rent,Urban,45,Single-family home,2,5,46,Full-time
+73106,Medium,Own,Urban,7,Single-family home,5,3,55,Full-time
+73964,Medium,Rent,Suburban,32,Single-family home,0,3,53,Full-time
+70256,Medium,Rent,Urban,37,Townhouse,4,6,33,Self-employed
+68366,Low,Own,Urban,21,Apartment,2,6,61,Full-time
+241777,High,Own,Urban,21,Apartment,3,4,53,Part-time
+66852,Low,Own,Urban,15,Single-family home,5,7,46,Full-time
+72180,Medium,Own,Urban,28,Apartment,4,2,60,Full-time
+72048,Medium,Rent,Urban,6,Apartment,5,3,21,Self-employed
+74314,Medium,Own,Urban,49,Apartment,4,1,65,Full-time
+66410,Low,Rent,Urban,34,Apartment,4,6,31,Self-employed
+362930,High,Rent,Urban,16,Single-family home,0,5,43,Full-time
+111348,Medium,Rent,Urban,50,Single-family home,4,7,68,Part-time
+72162,Medium,Own,Urban,24,Single-family home,2,5,24,Full-time
+995401,High,Rent,Suburban,25,Apartment,1,4,18,Part-time
+73002,Medium,Own,Urban,33,Apartment,5,5,46,Part-time
+591121,High,Rent,Urban,36,Apartment,5,1,52,Full-time
+70158,Medium,Rent,Suburban,0,Single-family home,4,4,58,Full-time
+2771347,High,Own,Urban,14,Apartment,0,3,35,Part-time
+242477,High,Rent,Urban,30,Apartment,2,5,53,Full-time
+66198,Low,Own,Urban,39,Apartment,3,2,30,Full-time
+70232,Medium,Own,Urban,32,Single-family home,4,2,32,Self-employed
+155884,High,Rent,Urban,15,Apartment,2,3,54,Full-time
+492382,High,Rent,Suburban,38,Apartment,4,3,35,Part-time
+72998,Medium,Rent,Urban,16,Single-family home,1,2,19,Self-employed
+72452,Medium,Rent,Urban,15,Apartment,2,5,63,Part-time
+1918519,High,Own,Suburban,47,Apartment,1,7,58,Part-time
+64690,Low,Rent,Urban,50,Apartment,4,2,59,Full-time
+139347,Medium,Own,Urban,25,Single-family home,1,3,64,Self-employed
+71698,Medium,Own,Urban,41,Townhouse,5,6,20,Full-time
+67538,Low,Own,Suburban,34,Single-family home,1,3,56,Part-time
+68586,Low,Rent,Urban,33,Single-family home,5,1,69,Part-time
+74532,Medium,Own,Urban,13,Single-family home,1,4,47,Full-time
+375705,High,Own,Urban,8,Apartment,5,2,40,Part-time
+1898623,High,Rent,Urban,10,Apartment,0,6,63,Part-time
+68222,Low,Rent,Suburban,10,Single-family home,5,6,47,Part-time
+69980,Low,Rent,Rural,8,Single-family home,1,2,70,Full-time
+74900,Medium,Rent,Urban,36,Single-family home,5,7,44,Self-employed
+66810,Low,Own,Urban,31,Single-family home,4,6,35,Part-time
+68490,Low,Own,Suburban,47,Single-family home,5,6,41,Self-employed
+67244,Low,Own,Urban,32,Apartment,2,5,19,Part-time
+71986,Medium,Rent,Urban,44,Single-family home,0,2,24,Full-time
+66858,Low,Own,Urban,23,Single-family home,0,3,26,Part-time
+5257109,High,Own,Suburban,26,Apartment,0,1,70,Full-time
+5117358,High,Rent,Urban,20,Apartment,0,5,63,Full-time
+54316,Low,Own,Urban,6,Apartment,5,3,26,Full-time
+2812115,High,Own,Urban,34,Single-family home,1,2,59,Full-time
+72872,Medium,Own,Urban,50,Apartment,3,5,37,Self-employed
+74116,Medium,Own,Urban,33,Apartment,4,5,27,Full-time
+107243,Medium,Rent,Rural,8,Apartment,0,4,24,Self-employed
+65176,Low,Own,Urban,34,Single-family home,0,7,20,Full-time
+71590,Medium,Rent,Urban,25,Single-family home,1,1,46,Full-time
+68144,Low,Own,Urban,7,Single-family home,1,3,30,Part-time
+3474757,High,Rent,Urban,13,Single-family home,2,1,31,Full-time
+70618,Medium,Own,Suburban,33,Townhouse,5,5,47,Full-time
+469323,High,Rent,Urban,8,Apartment,5,5,59,Part-time
+69114,Low,Own,Urban,26,Apartment,5,1,54,Full-time
+717209,High,Own,Urban,7,Apartment,0,6,34,Full-time
+3675408,High,Own,Urban,14,Apartment,5,5,34,Part-time
+71824,Medium,Own,Urban,42,Townhouse,0,2,25,Part-time
+2099456,High,Own,Urban,9,Apartment,0,6,21,Full-time
+65630,Low,Own,Urban,32,Single-family home,1,3,61,Part-time
+73386,Medium,Rent,Suburban,10,Single-family home,0,6,59,Full-time
+883710,High,Rent,Suburban,6,Single-family home,0,4,47,Self-employed
+232842,High,Rent,Urban,37,Single-family home,4,4,37,Part-time
+211749,High,Own,Urban,25,Townhouse,0,4,60,Full-time
+67164,Low,Own,Urban,0,Apartment,4,4,55,Self-employed
+520816,High,Own,Urban,6,Apartment,2,2,45,Self-employed
+2575420,High,Own,Rural,19,Apartment,2,4,43,Full-time
+69408,Low,Rent,Urban,29,Single-family home,2,4,56,Full-time
+71138,Medium,Own,Suburban,27,Apartment,1,4,37,Full-time
+3289868,High,Rent,Urban,31,Single-family home,1,2,48,Full-time
+83278,Medium,Own,Urban,18,Apartment,4,3,68,Part-time
+75252,Medium,Own,Suburban,32,Apartment,3,5,46,Self-employed
+70928,Medium,Own,Suburban,27,Single-family home,1,4,23,Self-employed
+127620,Medium,Own,Urban,10,Apartment,3,3,42,Full-time
+826149,High,Own,Urban,45,Apartment,3,3,64,Self-employed
+72618,Medium,Rent,Suburban,12,Single-family home,0,2,58,Part-time
+71024,Medium,Own,Suburban,17,Townhouse,5,4,30,Part-time
+74624,Medium,Own,Urban,40,Single-family home,5,5,54,Self-employed
+1525243,High,Own,Urban,31,Apartment,5,1,69,Part-time
+6901054,High,Rent,Suburban,23,Single-family home,0,1,60,Full-time
+68676,Low,Own,Urban,22,Single-family home,0,5,50,Self-employed
+73000,Medium,Rent,Suburban,0,Apartment,1,4,62,Part-time
+1680530,High,Own,Urban,32,Townhouse,0,3,27,Part-time
+69076,Low,Own,Urban,31,Apartment,1,1,27,Self-employed
+67586,Low,Own,Urban,41,Single-family home,2,6,43,Part-time
+386360,High,Own,Urban,49,Townhouse,2,1,49,Part-time
+72378,Medium,Own,Rural,1,Apartment,0,6,69,Part-time
+72788,Medium,Rent,Urban,7,Apartment,1,7,34,Full-time
+68114,Low,Rent,Urban,47,Townhouse,4,7,44,Self-employed
+68732,Low,Own,Urban,18,Apartment,2,1,61,Self-employed
+4285698,High,Own,Urban,6,Apartment,1,3,41,Part-time
+3292164,High,Own,Urban,4,Single-family home,4,1,34,Full-time
+2302264,High,Own,Rural,8,Apartment,4,6,50,Self-employed
+9800208,High,Own,Urban,20,Apartment,5,3,19,Part-time
+67886,Low,Own,Urban,42,Apartment,5,3,38,Full-time
+1940791,High,Own,Urban,22,Single-family home,2,1,34,Part-time
+55866,Low,Own,Urban,50,Single-family home,4,5,43,Full-time
+8856462,High,Own,Suburban,4,Apartment,5,7,18,Self-employed
+563823,High,Rent,Urban,24,Single-family home,2,3,58,Full-time
+160215,High,Own,Urban,47,Townhouse,5,6,48,Full-time
+67862,Low,Own,Suburban,35,Single-family home,3,5,25,Part-time
+71662,Medium,Own,Suburban,29,Apartment,3,7,48,Self-employed
+67952,Low,Own,Urban,48,Apartment,5,5,68,Full-time
+3951778,High,Rent,Urban,20,Single-family home,1,6,44,Part-time
+69738,Low,Rent,Urban,2,Apartment,4,3,50,Full-time
+68968,Low,Own,Urban,14,Single-family home,3,4,52,Self-employed
+1097543,High,Own,Urban,4,Single-family home,2,7,65,Part-time
+478752,High,Rent,Urban,22,Single-family home,3,4,69,Full-time
+3037290,High,Rent,Urban,40,Single-family home,4,6,46,Part-time
+33827,Low,Own,Urban,40,Apartment,3,6,23,Full-time
+71610,Medium,Rent,Urban,32,Single-family home,5,7,46,Full-time
+67464,Low,Rent,Urban,0,Townhouse,4,1,68,Self-employed
+1308106,High,Own,Urban,17,Apartment,4,2,30,Part-time
+73702,Medium,Own,Urban,13,Single-family home,4,1,44,Full-time
+239392,High,Rent,Urban,47,Single-family home,3,7,62,Full-time
+864227,High,Rent,Urban,7,Apartment,4,4,30,Full-time
+668710,High,Rent,Suburban,11,Single-family home,0,6,47,Full-time
+70544,Medium,Own,Urban,3,Townhouse,4,2,66,Full-time
+69520,Low,Own,Urban,48,Apartment,3,2,67,Part-time
+5758380,High,Own,Urban,17,Apartment,5,2,65,Part-time
+74028,Medium,Own,Suburban,20,Townhouse,5,4,65,Part-time
+504237,High,Rent,Rural,34,Single-family home,1,1,50,Part-time
+67986,Low,Rent,Urban,44,Townhouse,5,1,37,Part-time
+74000,Medium,Rent,Urban,21,Single-family home,2,6,54,Self-employed
+4541650,High,Own,Urban,10,Apartment,4,3,61,Full-time
+74570,Medium,Own,Suburban,33,Apartment,5,2,23,Full-time
+65716,Low,Own,Urban,43,Apartment,0,6,26,Full-time
+350592,High,Rent,Urban,33,Apartment,3,6,29,Part-time
+72810,Medium,Own,Urban,47,Single-family home,4,3,66,Self-employed
+66030,Low,Own,Suburban,47,Townhouse,4,7,22,Part-time
+67022,Low,Own,Suburban,27,Apartment,0,3,29,Full-time
+3145523,High,Rent,Urban,35,Single-family home,0,1,27,Part-time
+72032,Medium,Rent,Urban,45,Apartment,3,2,68,Full-time
+67142,Low,Own,Urban,41,Apartment,0,6,18,Self-employed
+70306,Medium,Own,Suburban,3,Apartment,0,7,48,Self-employed
+70948,Medium,Own,Urban,18,Townhouse,4,5,57,Part-time
+1530941,High,Rent,Suburban,14,Single-family home,3,7,68,Self-employed
+67578,Low,Own,Urban,17,Single-family home,5,1,65,Self-employed
+72410,Medium,Rent,Urban,23,Townhouse,2,7,18,Full-time
+66824,Low,Own,Urban,24,Apartment,1,3,54,Full-time
+380264,High,Own,Urban,39,Apartment,4,2,42,Full-time
+5939649,High,Own,Urban,48,Apartment,4,4,61,Part-time
+69308,Low,Own,Suburban,38,Single-family home,0,6,30,Full-time
+66196,Low,Own,Rural,34,Apartment,1,3,50,Self-employed
+1444896,High,Own,Urban,48,Single-family home,3,6,25,Full-time
+1392089,High,Own,Rural,29,Apartment,1,7,18,Part-time
+70020,Medium,Own,Urban,22,Apartment,5,4,39,Self-employed
+72612,Medium,Rent,Suburban,36,Townhouse,2,7,19,Full-time
+441940,High,Rent,Urban,40,Apartment,1,1,49,Part-time
+66732,Low,Own,Urban,42,Townhouse,0,7,69,Self-employed
+65978,Low,Own,Urban,50,Townhouse,1,7,47,Part-time
+725858,High,Own,Rural,6,Apartment,5,4,41,Self-employed
+74176,Medium,Own,Urban,21,Single-family home,5,7,51,Part-time
+3761337,High,Rent,Urban,3,Single-family home,4,1,22,Full-time
+73074,Medium,Own,Urban,49,Townhouse,2,7,35,Self-employed
+72382,Medium,Own,Urban,31,Apartment,5,5,56,Full-time
+251136,High,Rent,Urban,11,Apartment,0,1,63,Full-time
+65818,Low,Own,Urban,20,Single-family home,0,6,32,Part-time
+74966,Medium,Own,Urban,36,Single-family home,2,1,33,Full-time
+559344,High,Rent,Urban,23,Apartment,0,4,65,Full-time
+66834,Low,Own,Suburban,21,Townhouse,5,7,20,Full-time
+66568,Low,Own,Urban,15,Townhouse,0,3,51,Full-time
+67958,Low,Own,Urban,10,Single-family home,0,7,67,Self-employed
+7741514,High,Own,Urban,15,Single-family home,0,6,58,Part-time
+66604,Low,Rent,Urban,29,Townhouse,5,7,45,Self-employed
+8032384,High,Rent,Urban,47,Townhouse,4,3,53,Part-time
+261373,High,Own,Urban,43,Single-family home,0,7,33,Full-time
+589615,High,Rent,Urban,17,Townhouse,2,7,44,Full-time
+5076701,High,Rent,Urban,24,Single-family home,3,3,43,Self-employed
+68656,Low,Own,Urban,13,Single-family home,3,2,53,Full-time
+68174,Low,Rent,Suburban,45,Single-family home,0,1,28,Full-time
+53057,Low,Own,Rural,6,Apartment,0,7,59,Part-time
+1374653,High,Rent,Rural,20,Apartment,0,5,30,Part-time
+70804,Medium,Own,Urban,33,Townhouse,2,5,30,Part-time
+73102,Medium,Own,Urban,27,Apartment,1,4,20,Full-time
+73198,Medium,Own,Suburban,36,Apartment,2,4,40,Self-employed
+67594,Low,Own,Urban,22,Apartment,5,4,53,Full-time
+69554,Low,Own,Urban,36,Single-family home,2,7,67,Full-time
+73066,Medium,Own,Urban,31,Single-family home,4,1,43,Part-time
+67612,Low,Rent,Urban,29,Single-family home,0,7,62,Full-time
+69200,Low,Own,Urban,49,Apartment,0,2,27,Part-time
+5188124,High,Own,Urban,21,Apartment,4,6,40,Full-time
+72510,Medium,Own,Urban,21,Apartment,5,7,56,Full-time
+760919,High,Rent,Urban,18,Single-family home,2,3,60,Self-employed
+5931345,High,Rent,Rural,36,Townhouse,4,3,58,Full-time
+74034,Medium,Own,Urban,13,Apartment,1,7,61,Part-time
+6335682,High,Rent,Urban,17,Single-family home,1,4,19,Self-employed
+127968,Medium,Own,Urban,27,Townhouse,4,3,63,Full-time
+65444,Low,Rent,Urban,22,Single-family home,2,7,51,Part-time
+1008393,High,Rent,Urban,35,Apartment,3,5,41,Full-time
+69678,Low,Own,Urban,42,Townhouse,5,6,58,Part-time
+72760,Medium,Rent,Suburban,24,Single-family home,3,2,67,Full-time
+68984,Low,Rent,Urban,21,Single-family home,3,6,45,Self-employed
+67468,Low,Own,Urban,12,Apartment,0,2,44,Full-time
+65162,Low,Own,Urban,6,Single-family home,0,1,49,Full-time
+643250,High,Rent,Urban,45,Apartment,3,5,41,Full-time
+69872,Low,Own,Urban,21,Single-family home,1,6,19,Part-time
+69024,Low,Own,Urban,46,Apartment,1,4,43,Full-time
+8934233,High,Own,Suburban,23,Single-family home,3,1,52,Part-time
+71674,Medium,Own,Urban,17,Single-family home,0,1,18,Full-time
+57311,Low,Rent,Urban,27,Single-family home,4,5,21,Part-time
+69780,Low,Rent,Urban,43,Single-family home,0,1,19,Full-time
+544437,High,Own,Urban,36,Single-family home,1,4,20,Full-time
+66720,Low,Own,Urban,36,Apartment,4,7,36,Full-time
+69194,Low,Own,Urban,31,Townhouse,5,6,66,Part-time
+74108,Medium,Own,Urban,35,Apartment,1,1,55,Part-time
+313482,High,Own,Urban,30,Townhouse,1,7,38,Full-time
+65628,Low,Rent,Urban,34,Townhouse,2,5,49,Self-employed
+67564,Low,Own,Urban,16,Single-family home,2,7,61,Self-employed
+52840,Low,Rent,Suburban,4,Apartment,4,4,66,Full-time
+107075,Medium,Own,Urban,41,Townhouse,0,4,68,Full-time
+72674,Medium,Own,Suburban,48,Townhouse,1,3,69,Part-time
+68822,Low,Rent,Urban,19,Apartment,2,2,51,Full-time
+67738,Low,Rent,Urban,9,Single-family home,4,4,19,Part-time
+260049,High,Rent,Urban,14,Townhouse,1,5,20,Full-time
+145706,Medium,Rent,Urban,46,Single-family home,4,5,54,Full-time
+687690,High,Rent,Urban,18,Single-family home,2,2,66,Full-time
+68258,Low,Rent,Urban,13,Apartment,3,2,24,Self-employed
+3157913,High,Own,Urban,37,Apartment,5,5,49,Part-time
+70008,Medium,Rent,Urban,9,Single-family home,2,6,57,Full-time
+6141893,High,Rent,Urban,19,Single-family home,3,1,24,Full-time
+148703,Medium,Rent,Urban,1,Single-family home,1,6,54,Part-time
+67314,Low,Own,Suburban,12,Apartment,1,6,34,Self-employed
+2276640,High,Own,Suburban,11,Apartment,2,5,55,Full-time
+65364,Low,Rent,Suburban,23,Apartment,3,1,24,Full-time
+66058,Low,Rent,Urban,1,Single-family home,0,2,61,Full-time
+71542,Medium,Own,Urban,1,Apartment,4,1,21,Full-time
+5869607,High,Own,Suburban,4,Apartment,4,2,45,Self-employed
+73468,Medium,Own,Urban,5,Apartment,1,5,52,Full-time
+71332,Medium,Own,Urban,21,Single-family home,2,7,58,Part-time
+65046,Low,Own,Suburban,34,Single-family home,5,6,37,Full-time
+68110,Low,Rent,Rural,0,Single-family home,4,6,36,Full-time
+33338,Low,Own,Urban,2,Apartment,4,4,45,Full-time
+72806,Medium,Own,Urban,14,Townhouse,3,4,23,Part-time
+54095,Low,Own,Urban,30,Townhouse,1,7,67,Full-time
+72136,Medium,Rent,Suburban,44,Single-family home,0,7,69,Part-time
+64404,Low,Rent,Urban,18,Apartment,2,1,38,Full-time
+88374,Medium,Own,Urban,4,Apartment,3,6,22,Full-time
+1020785,High,Rent,Suburban,37,Apartment,0,7,66,Part-time
+982200,High,Rent,Urban,29,Single-family home,2,3,59,Part-time
+9677553,High,Own,Urban,14,Single-family home,5,7,65,Full-time
+7201289,High,Own,Suburban,16,Townhouse,2,2,27,Part-time
+68464,Low,Own,Urban,47,Townhouse,1,2,57,Part-time
+163207,High,Rent,Urban,33,Single-family home,3,4,27,Part-time
+66450,Low,Own,Urban,38,Apartment,0,7,35,Full-time
+103034,Medium,Own,Urban,49,Townhouse,2,6,31,Full-time
+66532,Low,Own,Urban,36,Apartment,5,5,50,Full-time
+3457081,High,Rent,Urban,31,Townhouse,4,6,43,Full-time
+74648,Medium,Own,Urban,31,Townhouse,1,1,24,Part-time
+74738,Medium,Rent,Urban,46,Townhouse,2,2,40,Full-time
+559926,High,Rent,Urban,4,Townhouse,3,5,29,Self-employed
+143648,Medium,Rent,Urban,33,Apartment,5,2,53,Part-time
+285105,High,Own,Urban,50,Single-family home,4,2,68,Self-employed
+69190,Low,Rent,Urban,49,Single-family home,3,2,43,Self-employed
+71248,Medium,Rent,Urban,11,Apartment,1,4,55,Full-time
+74612,Medium,Rent,Urban,50,Townhouse,4,3,58,Self-employed
+316435,High,Rent,Urban,6,Single-family home,3,1,57,Part-time
+6137814,High,Rent,Urban,37,Single-family home,2,4,26,Full-time
+53084,Low,Rent,Urban,39,Single-family home,3,7,45,Part-time
+3958929,High,Own,Urban,19,Apartment,5,3,59,Full-time
+74290,Medium,Own,Urban,50,Single-family home,1,6,38,Full-time
+2184424,High,Rent,Urban,24,Single-family home,0,7,67,Part-time
+74616,Medium,Own,Urban,18,Townhouse,3,2,57,Part-time
+68778,Low,Rent,Rural,49,Apartment,3,7,39,Self-employed
+70936,Medium,Rent,Suburban,36,Apartment,4,4,20,Part-time
+73394,Medium,Rent,Rural,24,Apartment,1,7,42,Part-time
+67692,Low,Own,Urban,36,Townhouse,3,5,49,Part-time
+58613,Low,Own,Urban,9,Single-family home,0,2,66,Full-time
+562413,High,Rent,Urban,24,Single-family home,1,7,25,Full-time
+68456,Low,Own,Urban,0,Apartment,4,6,30,Self-employed
+65108,Low,Own,Urban,48,Single-family home,2,5,51,Part-time
+68662,Low,Own,Urban,45,Single-family home,4,3,55,Self-employed
+69488,Low,Rent,Urban,49,Single-family home,5,1,32,Self-employed
+65178,Low,Own,Urban,38,Single-family home,2,2,29,Full-time
+68386,Low,Own,Suburban,46,Single-family home,2,4,22,Self-employed
+180944,High,Own,Urban,31,Single-family home,4,4,33,Full-time
+2332922,High,Own,Urban,8,Apartment,1,6,43,Part-time
+75432,Medium,Own,Urban,18,Apartment,4,4,40,Full-time
+66784,Low,Own,Urban,4,Apartment,5,3,21,Full-time
+3016605,High,Rent,Urban,44,Apartment,5,7,64,Full-time
+67116,Low,Own,Urban,29,Single-family home,0,2,30,Part-time
+65180,Low,Own,Urban,46,Apartment,2,2,64,Full-time
+71960,Medium,Rent,Urban,27,Townhouse,2,4,60,Full-time
+71968,Medium,Own,Urban,24,Townhouse,5,6,51,Full-time
+2567702,High,Own,Rural,37,Single-family home,3,5,47,Full-time
+69972,Low,Rent,Urban,14,Townhouse,1,4,30,Part-time
+72612,Medium,Own,Suburban,45,Townhouse,1,2,42,Full-time
+3157218,High,Rent,Urban,17,Apartment,1,2,46,Full-time
+75134,Medium,Own,Urban,12,Apartment,0,3,66,Full-time
+72820,Medium,Own,Urban,50,Single-family home,5,6,47,Full-time
+72810,Medium,Rent,Suburban,43,Single-family home,2,4,61,Self-employed
+74826,Medium,Own,Urban,48,Apartment,4,2,41,Full-time
+3025201,High,Rent,Urban,23,Single-family home,3,3,39,Full-time
+72198,Medium,Own,Urban,46,Apartment,0,4,19,Part-time
+1455978,High,Rent,Suburban,40,Townhouse,3,3,60,Full-time
+4558614,High,Rent,Urban,17,Townhouse,1,6,66,Part-time
+310343,High,Rent,Urban,28,Apartment,4,2,57,Full-time
+68926,Low,Rent,Urban,12,Single-family home,1,2,69,Self-employed
+69790,Low,Own,Urban,16,Single-family home,1,6,59,Full-time
+3224673,High,Rent,Urban,26,Apartment,1,7,65,Full-time
+67126,Low,Rent,Urban,36,Apartment,5,1,42,Self-employed
+1195322,High,Own,Suburban,8,Apartment,4,5,70,Full-time
+67258,Low,Own,Urban,34,Apartment,2,7,35,Full-time
+92572,Medium,Rent,Suburban,24,Apartment,0,6,49,Full-time
+71528,Medium,Rent,Suburban,34,Single-family home,0,4,57,Self-employed
+66718,Low,Own,Urban,12,Townhouse,4,7,33,Part-time
+66744,Low,Own,Urban,41,Apartment,1,4,57,Full-time
+6625863,High,Rent,Suburban,22,Single-family home,5,7,36,Full-time
+73492,Medium,Own,Urban,44,Townhouse,4,1,30,Self-employed
+70104,Medium,Own,Urban,22,Single-family home,5,1,22,Full-time
+80776,Medium,Own,Urban,2,Townhouse,3,7,52,Full-time
+66132,Low,Own,Suburban,38,Single-family home,3,4,46,Part-time
+73726,Medium,Own,Urban,33,Apartment,1,4,51,Self-employed
+72530,Medium,Own,Urban,17,Single-family home,1,3,33,Full-time
+74428,Medium,Own,Urban,28,Apartment,0,2,43,Full-time
+515366,High,Rent,Rural,17,Apartment,2,4,45,Full-time
+65270,Low,Own,Urban,48,Single-family home,3,7,44,Part-time
+72370,Medium,Own,Urban,35,Apartment,1,3,21,Full-time
+74452,Medium,Own,Urban,13,Single-family home,2,3,20,Full-time
+96113,Medium,Own,Urban,49,Townhouse,3,5,63,Full-time
+132697,Medium,Rent,Urban,39,Apartment,1,7,21,Part-time
+70830,Medium,Own,Urban,12,Single-family home,2,7,28,Full-time
+3638478,High,Own,Suburban,10,Single-family home,5,3,33,Full-time
+68630,Low,Rent,Urban,40,Single-family home,1,7,40,Full-time
+63797,Low,Own,Urban,45,Single-family home,1,7,60,Full-time
+70806,Medium,Own,Urban,8,Single-family home,1,6,26,Full-time
+71240,Medium,Rent,Urban,29,Apartment,0,2,69,Self-employed
+74792,Medium,Rent,Rural,28,Apartment,0,4,19,Self-employed
+65114,Low,Own,Suburban,20,Single-family home,4,7,46,Self-employed
+69074,Low,Own,Urban,30,Apartment,1,5,22,Part-time
+70924,Medium,Own,Suburban,48,Single-family home,0,7,59,Part-time
+73536,Medium,Own,Urban,16,Single-family home,2,4,30,Full-time
+66162,Low,Own,Urban,17,Apartment,4,3,40,Self-employed
+5983575,High,Own,Suburban,4,Single-family home,3,1,58,Self-employed
+74132,Medium,Own,Rural,5,Apartment,1,4,37,Full-time
+66730,Low,Rent,Suburban,15,Townhouse,3,1,54,Full-time
+67924,Low,Rent,Urban,46,Townhouse,0,2,34,Full-time
+65780,Low,Own,Suburban,30,Single-family home,4,5,21,Part-time
+5094071,High,Own,Urban,10,Apartment,3,5,31,Full-time
+209478,High,Rent,Urban,22,Apartment,3,5,41,Full-time
+2684820,High,Own,Urban,50,Single-family home,3,4,41,Full-time
+83021,Medium,Rent,Urban,21,Apartment,5,2,56,Full-time
+65412,Low,Own,Urban,3,Apartment,3,3,20,Self-employed
+92291,Medium,Own,Urban,1,Apartment,3,3,32,Full-time
+123644,Medium,Own,Urban,13,Single-family home,3,2,29,Self-employed
+116322,Medium,Rent,Suburban,5,Single-family home,2,7,51,Full-time
+70060,Medium,Own,Suburban,35,Apartment,5,7,18,Full-time
+72912,Medium,Own,Urban,46,Apartment,3,7,23,Part-time
+1612918,High,Rent,Urban,47,Apartment,5,1,37,Self-employed
+100785,Medium,Rent,Rural,17,Townhouse,2,5,49,Full-time
+9121109,High,Own,Urban,26,Apartment,1,3,31,Part-time
+73596,Medium,Own,Urban,29,Townhouse,4,7,45,Full-time
+69650,Low,Rent,Suburban,47,Townhouse,3,7,64,Full-time
+68874,Low,Rent,Urban,36,Single-family home,5,2,43,Part-time
+68631,Low,Rent,Rural,19,Apartment,1,3,39,Full-time
+523245,High,Rent,Urban,36,Apartment,2,4,53,Full-time
+107067,Medium,Own,Urban,43,Townhouse,0,2,55,Part-time
+1075729,High,Rent,Suburban,30,Apartment,3,5,60,Full-time
+374466,High,Own,Urban,10,Single-family home,4,7,42,Part-time
+68258,Low,Own,Suburban,49,Single-family home,0,1,33,Part-time
+65464,Low,Own,Suburban,32,Apartment,2,3,52,Part-time
+484959,High,Rent,Urban,42,Single-family home,1,7,59,Part-time
+268483,High,Rent,Urban,11,Townhouse,1,2,26,Part-time
+74558,Medium,Own,Urban,30,Townhouse,2,6,19,Self-employed
+65758,Low,Own,Urban,20,Apartment,0,2,40,Full-time
+118467,Medium,Rent,Rural,18,Townhouse,3,5,49,Part-time
+74922,Medium,Own,Suburban,36,Apartment,3,2,24,Part-time
+72526,Medium,Own,Suburban,36,Apartment,1,7,59,Full-time
+71966,Medium,Rent,Urban,23,Apartment,3,2,70,Part-time
+5138152,High,Own,Urban,11,Apartment,1,3,24,Full-time
+4111958,High,Own,Rural,2,Townhouse,5,2,44,Part-time
+74576,Medium,Rent,Urban,24,Townhouse,0,6,67,Self-employed
+4178540,High,Rent,Suburban,26,Townhouse,0,6,63,Full-time
+177226,High,Rent,Urban,35,Apartment,0,1,27,Part-time
+257497,High,Own,Urban,44,Apartment,5,4,39,Self-employed
+304159,High,Rent,Urban,40,Single-family home,2,2,39,Full-time
+73678,Medium,Own,Suburban,48,Townhouse,2,6,29,Self-employed
+72724,Medium,Own,Urban,40,Single-family home,3,7,49,Full-time
+7742295,High,Own,Suburban,13,Apartment,0,4,64,Full-time
+72678,Medium,Rent,Urban,6,Townhouse,0,5,46,Full-time
+74568,Medium,Own,Urban,35,Townhouse,3,5,28,Part-time
+65580,Low,Own,Rural,26,Single-family home,4,7,49,Full-time
+74424,Medium,Own,Urban,13,Single-family home,3,7,46,Full-time
+74774,Medium,Rent,Urban,30,Apartment,5,7,66,Full-time
+69530,Low,Rent,Rural,41,Single-family home,2,5,43,Full-time
+9007895,High,Rent,Urban,31,Apartment,1,7,47,Self-employed
+253020,High,Rent,Urban,33,Apartment,1,4,56,Part-time
+1986793,High,Rent,Suburban,41,Townhouse,5,5,52,Full-time
+75392,Medium,Rent,Urban,28,Single-family home,2,1,69,Part-time
+70442,Medium,Rent,Urban,6,Apartment,0,3,29,Part-time
+68034,Low,Own,Urban,21,Single-family home,3,1,44,Full-time
+3235523,High,Rent,Urban,2,Apartment,3,1,46,Part-time
+39840,Low,Own,Urban,50,Apartment,1,7,22,Full-time
+67970,Low,Own,Urban,21,Single-family home,3,1,39,Self-employed
+4654904,High,Rent,Urban,50,Apartment,3,1,20,Self-employed
+227984,High,Rent,Urban,47,Apartment,3,4,19,Full-time
+39008,Low,Own,Urban,32,Apartment,2,6,44,Self-employed
+66148,Low,Rent,Urban,24,Apartment,3,3,45,Full-time
+4993567,High,Rent,Urban,28,Single-family home,3,7,33,Full-time
+65366,Low,Own,Urban,4,Single-family home,5,7,55,Self-employed
+71566,Medium,Own,Urban,50,Single-family home,5,4,44,Self-employed
+7602365,High,Rent,Rural,34,Single-family home,5,6,25,Part-time
+68802,Low,Own,Urban,44,Single-family home,4,3,33,Self-employed
+1269786,High,Rent,Suburban,47,Apartment,3,7,33,Part-time
+156573,High,Rent,Urban,27,Apartment,2,4,23,Full-time
+34300,Low,Own,Urban,41,Single-family home,5,6,55,Self-employed
+71156,Medium,Own,Urban,49,Apartment,5,6,57,Part-time
+65604,Low,Rent,Urban,35,Single-family home,5,3,30,Self-employed
+484630,High,Own,Urban,48,Single-family home,2,1,36,Self-employed
+66478,Low,Own,Urban,38,Single-family home,0,5,38,Full-time
+70098,Medium,Rent,Rural,0,Single-family home,5,1,39,Part-time
+204153,High,Rent,Urban,42,Apartment,4,1,25,Full-time
+970503,High,Own,Suburban,35,Single-family home,4,5,40,Part-time
+1156187,High,Rent,Urban,48,Apartment,1,1,36,Self-employed
+378184,High,Own,Rural,5,Apartment,0,6,32,Full-time
+67532,Low,Rent,Urban,30,Single-family home,3,4,25,Self-employed
+67846,Low,Own,Urban,25,Single-family home,0,7,23,Part-time
+72212,Medium,Own,Urban,25,Single-family home,3,6,60,Full-time
+2214892,High,Rent,Suburban,11,Apartment,3,7,47,Self-employed
+1892269,High,Rent,Suburban,6,Apartment,5,2,62,Part-time
+71334,Medium,Rent,Urban,32,Townhouse,2,4,38,Full-time
+36759,Low,Rent,Urban,45,Apartment,5,7,45,Part-time
+70102,Medium,Own,Suburban,20,Single-family home,1,1,43,Part-time
+1065813,High,Own,Urban,2,Single-family home,2,2,69,Part-time
+70198,Medium,Own,Suburban,44,Townhouse,2,6,24,Part-time
+2053628,High,Own,Urban,32,Apartment,5,2,67,Part-time
+67062,Low,Own,Urban,6,Single-family home,0,6,20,Full-time
+71078,Medium,Own,Urban,19,Single-family home,0,1,62,Part-time
+68304,Low,Rent,Suburban,32,Townhouse,3,6,69,Full-time
+8690413,High,Own,Suburban,18,Single-family home,4,1,23,Part-time
+69870,Low,Own,Urban,38,Single-family home,2,2,36,Full-time
+74700,Medium,Own,Urban,27,Apartment,5,2,48,Self-employed
+4870221,High,Own,Urban,11,Townhouse,4,1,66,Part-time
+2449031,High,Rent,Suburban,45,Apartment,2,6,50,Self-employed
+74840,Medium,Rent,Urban,14,Apartment,5,1,18,Part-time
+132425,Medium,Own,Rural,45,Apartment,5,3,55,Part-time
+72796,Medium,Own,Urban,25,Single-family home,1,4,57,Self-employed
+67830,Low,Own,Urban,31,Apartment,3,6,62,Self-employed
+68940,Low,Own,Urban,21,Apartment,3,6,70,Full-time
+36863,Low,Rent,Urban,3,Apartment,3,6,18,Part-time
+74860,Medium,Own,Urban,5,Townhouse,1,5,31,Part-time
+75028,Medium,Own,Urban,33,Single-family home,5,6,30,Part-time
+71580,Medium,Own,Suburban,33,Single-family home,2,3,30,Part-time
+4798515,High,Rent,Urban,35,Single-family home,1,7,35,Full-time
+137005,Medium,Rent,Urban,21,Single-family home,4,2,36,Part-time
+348056,High,Rent,Urban,30,Single-family home,2,7,64,Full-time
+223488,High,Rent,Rural,15,Townhouse,5,3,39,Full-time
+113686,Medium,Rent,Urban,29,Single-family home,4,5,70,Part-time
+1351762,High,Own,Urban,8,Apartment,1,3,20,Part-time
+72898,Medium,Own,Suburban,19,Single-family home,2,2,56,Full-time
+65612,Low,Own,Urban,35,Single-family home,5,5,29,Part-time
+71990,Medium,Own,Suburban,4,Apartment,5,5,63,Part-time
+4169705,High,Own,Urban,36,Townhouse,2,5,54,Full-time
+7272269,High,Own,Suburban,37,Single-family home,4,7,31,Part-time
+228075,High,Own,Urban,48,Single-family home,0,1,38,Full-time
+67614,Low,Own,Urban,39,Apartment,0,7,32,Full-time
+65268,Low,Own,Urban,37,Single-family home,0,5,20,Full-time
+68940,Low,Own,Suburban,32,Apartment,2,1,57,Full-time
+68590,Low,Rent,Rural,19,Townhouse,1,6,70,Self-employed
+66710,Low,Own,Urban,33,Apartment,0,1,21,Self-employed
+68522,Low,Own,Urban,30,Single-family home,2,2,37,Full-time
+732592,High,Rent,Urban,40,Single-family home,3,4,43,Part-time
+5895088,High,Own,Urban,8,Apartment,2,4,30,Full-time
+66452,Low,Own,Suburban,21,Apartment,0,1,28,Full-time
+71778,Medium,Own,Urban,23,Apartment,2,4,60,Part-time
+65100,Low,Rent,Urban,13,Single-family home,4,2,34,Full-time
+217908,High,Own,Urban,33,Townhouse,2,7,57,Full-time
+69356,Low,Own,Urban,6,Apartment,1,4,70,Full-time
+69144,Low,Rent,Suburban,41,Apartment,1,3,52,Self-employed
+1106374,High,Rent,Suburban,28,Apartment,2,6,52,Full-time
+65332,Low,Own,Urban,11,Townhouse,2,6,57,Full-time
+69394,Low,Rent,Urban,0,Single-family home,5,2,57,Full-time
+142762,Medium,Rent,Urban,38,Apartment,3,3,25,Part-time
+67356,Low,Own,Suburban,6,Townhouse,0,2,31,Full-time
+188005,High,Own,Urban,33,Single-family home,2,7,18,Self-employed
+8216769,High,Rent,Urban,14,Apartment,2,2,70,Full-time
+71674,Medium,Rent,Suburban,11,Townhouse,3,3,59,Self-employed
+67404,Low,Own,Urban,48,Townhouse,1,1,33,Full-time
+67180,Low,Own,Suburban,10,Apartment,0,4,61,Full-time
