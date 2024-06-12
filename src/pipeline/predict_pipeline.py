@@ -57,9 +57,9 @@ class PredictPipeline:
         except Exception as e:
             raise CustomException(e, sys)
 
-    def add_clusters(self):
+    def add_clusters(self, age, work_experience, household_size, living_standards):
         try:
-            predict = predict_cluster(self.age, self.work_experience, self.household_size, self.living_standards)
+            predict = predict_cluster(age, work_experience, household_size, living_standards)
             return predict
 
         except Exception as e:
@@ -104,9 +104,14 @@ class CustomData:
             }
 
             data_df = pd.DataFrame(custom_data_input_dict)
-            cluster_value = add_clusters(self.age, self.work_experience, self.household_size, self.living_standards)
+            predict_pipeline = PredictPipeline()
+            print("Before Cluster")
+            print(data_df)
+            cluster_value = predict_pipeline.add_clusters(self.age, self.work_experience, self.household_size, self.living_standards)
             data_df["Cluster"] = cluster_value
-            return (data_df)
+            print("After Cluster")
+            print(data_df)
+            return data_df
 
         except Exception as e:
             raise CustomException(e, sys)
