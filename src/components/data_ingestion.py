@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
 from src.components.data_transformation import DataTransformation, DataTransformationConfig
-# from src.components.model_trainer import ModelTrainerConfig, ModelTrainer
+from src.components.model_trainer import ModelTrainerConfig, ModelTrainer
 
 
 # Define a configuration class for data ingestion settings
@@ -31,7 +31,7 @@ class DataIngestion:
         
         try:
             # Read the dataset into a dataframe
-            df = pd.read_csv('EDA/data/data_cleaned.csv')
+            df = pd.read_csv('EDA/data/data_modified.csv')
             logging.info('Read the Dataset as Dataframe')
 
             # Create the directory for saving data if it doesn't exist
@@ -68,5 +68,5 @@ if __name__ == "__main__":
     data_transformation = DataTransformation()
     train_arr, test_arr, preprocessor_file_path = data_transformation.initiate_data_transformation(train_data, test_data)
 
-    #modeltrainer = ModelTrainer()
-    #print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
+    modeltrainer = ModelTrainer()
+    print(modeltrainer.initiate_model_trainer(train_arr, test_arr))

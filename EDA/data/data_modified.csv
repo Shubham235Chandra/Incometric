@@ -1,4 +1,4 @@
-Age,Education_Level,Occupation,Number_of_Dependents,Location,Work_Experience,Marital_Status,Employment_Status,Household_Size,Homeownership_Status,Type_of_Housing,Gender,Primary_Mode_of_Transportation,Income,Age_Group,Income_Category,Cluster
+Age,Education_Level,Occupation,Number_of_Dependents,Location,Work_Experience,Marital_Status,Employment_Status,Household_Size,Homeownership_Status,Type_of_Housing,Gender,Primary_Mode_of_Transportation,Income,Age_Group,Living_Standards,Cluster
 56,Master's,Technology,5,Urban,21,Married,Full-time,7,Own,Apartment,Male,Public transit,72510,46-60,Medium,2
 69,High School,Finance,0,Urban,4,Single,Full-time,7,Own,Apartment,Male,Biking,75462,61-75,Medium,2
 46,Bachelor's,Technology,1,Urban,1,Single,Full-time,7,Own,Single-family home,Female,Car,71748,46-60,Medium,2

@@ -28,11 +28,11 @@ class DataTransformation:
     # Function to create a preprocessing object
     def get_data_transformer_object(self):
         '''This function is Responsible for Data Transformation'''
-
+        
         try:
             # Define the categorical and numerical columns
-            categorical_columns = ["Living_Standards", "Homeownership_Status", "Location", "Type_of_Housing", "Employment_Status"]
-            numerical_columns = ["Work_Experience", "Number_of_Dependents", "Household_Size", "Age"]
+            categorical_columns = ["Primary_Mode_of_Transportation", "Education_Level", "Occupation", "Marital_Status", "Living_Standards", "Gender", "Homeownership_Status", "Location", "Type_of_Housing", "Employment_Status"]
+            numerical_columns = ["Work_Experience", "Number_of_Dependents", "Household_Size", "Age", "Cluster"]
 
             logging.info(f"Categorical columns: {categorical_columns}")
             logging.info(f"Numerical columns: {numerical_columns}")
