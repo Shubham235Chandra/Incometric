@@ -17,19 +17,14 @@ def save_object(file_path, obj):
     obj (object): The object to be saved.
     """
     try:
-        # Create the directory if it doesn't exist
         dir_path = os.path.dirname(file_path)
         os.makedirs(dir_path, exist_ok=True)
-
-        # Save the object to a file using pickle
         with open(file_path, "wb") as file_obj:
             pickle.dump(obj, file_obj)
     except Exception as e:
-        # Raise a custom exception if an error occurs
         raise CustomException(e, sys)
 
 def evaluate_models(X_train, y_train, X_test, y_test, models, param):
-
     """
     Evaluate multiple models using GridSearchCV and return their performance on the test set.
     
@@ -44,29 +39,17 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
     Returns:
     dict: A dictionary containing the evaluation metrics for each model.
     """
-
     try:
-
         report = {}
-
-        # Iterate over each model in the models dictionary
         for model_name, model in models.items():
-
             param_grid = param[model_name]
-
-            # Perform grid search with cross-validation to find the best parameters
-            gs = GridSearchCV(model, param_grid, cv=3)
+            gs = GridSearchCV(model, param_grid, cv=5)
             gs.fit(X_train, y_train)
-
-            # Get the best model from grid search
             best_model = gs.best_estimator_
             best_model.fit(X_train, y_train)
-
-            # Make predictions on training and testing data
             y_train_pred = best_model.predict(X_train)
             y_test_pred = best_model.predict(X_test)
 
-            # Calculate evaluation metrics for training data
             train_metrics = {
                 "R2 Score": r2_score(y_train, y_train_pred),
                 "Mean Absolute Error": mean_absolute_error(y_train, y_train_pred),
@@ -74,7 +57,6 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
                 "Root Mean Squared Error": np.sqrt(mean_squared_error(y_train, y_train_pred))
             }
 
-            # Calculate evaluation metrics for testing data
             test_metrics = {
                 "R2 Score": r2_score(y_test, y_test_pred),
                 "Mean Absolute Error": mean_absolute_error(y_test, y_test_pred),
@@ -82,7 +64,6 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
                 "Root Mean Squared Error": np.sqrt(mean_squared_error(y_test, y_test_pred))
             }
 
-            # If the problem is binary classification, calculate additional metrics
             if len(np.unique(y_train)) <= 2:
                 train_metrics.update({
                     "Accuracy": accuracy_score(y_train, y_train_pred),
@@ -98,7 +79,6 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
                     "F1 Score": f1_score(y_test, y_test_pred, zero_division=1)
                 })
 
-            # Store the evaluation metrics in the report dictionary
             report[model_name] = {
                 "Train Metrics": train_metrics,
                 "Test Metrics": test_metrics
@@ -107,7 +87,6 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, param):
         return report
     
     except Exception as e:
-        # Raise a custom exception if an error occurs
         raise CustomException(e, sys)
 
 def load_object(file_path):
@@ -120,11 +99,8 @@ def load_object(file_path):
     Returns:
     object: The loaded object.
     """
-    
     try:
-        # Load the object from the file using pickle
         with open(file_path, "rb") as file_obj:
             return pickle.load(file_obj)
     except Exception as e:
-        # Raise a custom exception if an error occurs
         raise CustomException(e, sys)

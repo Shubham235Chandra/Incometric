@@ -5,23 +5,20 @@ from src.utils import load_object
 import os
 import sys
 
-
 def load_model_and_scaler():
-    # Assuming you have saved your model and scaler using joblib
-    model_path = os.path.join('artifacts', 'kmeans_model.pkl')
-    scaler_path = os.path.join('artifacts', 'scaler.pkl')
-    model = load_object(file_path=model_path)
-    scaler = load_object(file_path=scaler_path)
-    
-    return model, scaler
+    try:
+        model_path = os.path.join('artifacts', 'kmeans_model.pkl')
+        scaler_path = os.path.join('artifacts', 'scaler.pkl')
+        model = load_object(file_path=model_path)
+        scaler = load_object(file_path=scaler_path)
+        return model, scaler
+    except Exception as e:
+        raise CustomException(e, sys)
 
 def predict_cluster(age, work_experience, household_size, living_standards):
-
     try:
-        # Load the model and scaler
         model, scaler = load_model_and_scaler()
         
-        # Create the DataFrame using a dictionary
         input_data = pd.DataFrame({
             'Age': [age], 
             'Work_Experience': [work_experience], 
@@ -29,22 +26,15 @@ def predict_cluster(age, work_experience, household_size, living_standards):
             'Income': [living_standards]
         })
 
-        # Define the mapping dictionary
         income_mapping = {"Low": 64207.0, "Medium": 77808.0, "High": 2485100.0}
-
-        # Apply the mapping
         input_data['Income'] = input_data['Income'].map(income_mapping)
 
-        # Standardize the features
         X_scaled = scaler.transform(input_data)
-        
-        # Predict the cluster
         predict = model.predict(X_scaled)
         
         return predict[0]
     
     except Exception as e:
-        # Raise a custom exception if an error occurs
         raise CustomException(e, sys)
 
 

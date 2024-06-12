@@ -12,7 +12,6 @@ from dataclasses import dataclass
 from src.components.data_transformation import DataTransformation, DataTransformationConfig
 from src.components.model_trainer import ModelTrainerConfig, ModelTrainer
 
-
 # Define a configuration class for data ingestion settings
 @dataclass
 class DataIngestionConfig:
@@ -43,7 +42,7 @@ class DataIngestion:
             logging.info("Train Test Split Initiated")
 
             # Split the dataset into training and testing sets
-            train_set, test_set = train_test_split(df, test_size=0.25, random_state=2024611)
+            train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
             train_set.to_csv(self.ingestion_config.train_data_path, index=False, header=True)
             test_set.to_csv(self.ingestion_config.test_data_path, index=False, header=True)
 
