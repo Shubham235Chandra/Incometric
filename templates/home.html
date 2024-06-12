@@ -1,111 +1,126 @@
 <html>
 <body>
     <div class="login">
-       <h1>Student Exam Performance Indicator</h1>
+       <h1>User Information Form</h1>
    
        <form action="{{ url_for('predict_datapoint')}}" method="post">
         <h1>
-            <legend>Student Exam Performance Prediction</legend>
+            <legend>User Information</legend>
         </h1>
         <div class="mb-3">
             <label class="form-label">Gender</label>
-            <select class="form-control" name="gender" placeholder="Enter you Gender" required>
+            <select class="form-control" name="gender" required>
                 <option class="placeholder" selected disabled value="">Select your Gender</option>
-                <option value="male">
-                    Male
-                </option>
-                <option value="female">
-                    Female
-                </option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Race or Ethnicity</label>
-            <select class="form-control" name="ethnicity" placeholder="Enter you ethnicity" required>
-                <option class="placeholder" selected disabled value="">Select Ethnicity</option>
-                <option value="group A">
-                    Group A
-                </option>
-                <option value="group B">
-                    Group B
-                </option>
-                <option value="group C">
-                    Group C
-                </option>
-                <option value="group D">
-                    Group D
-                </option>
-                <option value="group E">
-                    Group E
-                </option>
+            <label class="form-label">Primary Mode of Transportation</label>
+            <select class="form-control" name="primary_mode_of_transportation" required>
+                <option class="placeholder" selected disabled value="">Select your Mode of Transportation</option>
+                <option value="Public transit">Public transit</option>
+                <option value="Biking">Biking</option>
+                <option value="Car">Car</option>
+                <option value="Walking">Walking</option>
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Parental Level of Education</label>
-            <select class="form-control" name="parental_level_of_education"
-                placeholder="Enter you Parent Education" required>
-                <option class="placeholder" selected disabled value="">Select Parent Education</option>
-                <option value="associate's degree">
-                    associate's degree
-                </option>
-                <option value="bachelor's degree">
-                    bachelor's degree
-                </option>
-                <option value="high school">
-                    high school
-                </option>
-                <option value="master's degree">
-                    master's degree
-                </option>
-                <option value="some college">
-                    some college
-                </option>
-                <option value="some high school">
-                    some high school
-                </option>
+            <label class="form-label">Education Level</label>
+            <select class="form-control" name="education_level" required>
+                <option class="placeholder" selected disabled value="">Select your Education Level</option>
+                <option value="Master's">Master's</option>
+                <option value="Bachelor's">Bachelor's</option>
+                <option value="High School">High School</option>
+                <option value="Doctorate">Doctorate</option>
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Lunch Type</label>
-            <select class="form-control" name="lunch" placeholder="Enter you Lunch" required>
-                <option class="placeholder" selected disabled value="">Select Lunch Type</option>
-                <option value="free/reduced">
-                    free/reduced
-                </option>
-                <option value="standard">
-                    standard
-                </option>
+            <label class="form-label">Occupation</label>
+            <select class="form-control" name="occupation" required>
+                <option class="placeholder" selected disabled value="">Select your Occupation</option>
+                <option value="Technology">Technology</option>
+                <option value="Finance">Finance</option>
+                <option value="Education">Education</option>
+                <option value="Healthcare">Healthcare</option>
+                <option value="Others">Others</option>
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Test preparation Course</label>
-            <select class="form-control" name="test_preparation_course" placeholder="Enter you Course"
-                required>
-                <option class="placeholder" selected disabled value="">Select Test_course</option>
-                <option value="none">
-                    None
-                </option>
-                <option value="completed">
-                    Completed
-                </option>
+            <label class="form-label">Marital Status</label>
+            <select class="form-control" name="marital_status" required>
+                <option class="placeholder" selected disabled value="">Select your Marital Status</option>
+                <option value="Married">Married</option>
+                <option value="Single">Single</option>
+                <option value="Divorced">Divorced</option>
             </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Writing Score out of 100</label>
-            <input class="form-control" type="number" name="reading_score"
-                placeholder="Enter your Reading score" min='0' max='100' />
+            <label class="form-label">Living Standards</label>
+            <select class="form-control" name="living_standards" required>
+                <option class="placeholder" selected disabled value="">Select your Living Standards</option>
+                <option value="High">High</option>
+                <option value="Medium">Medium</option>
+                <option value="Low">Low</option>
+            </select>
         </div>
         <div class="mb-3">
-            <label class="form-label">Reading Score out of 100</label>
-            <input class="form-control" type="number" name="writing_score"
-                placeholder="Enter your Reading Score" min='0' max='100' />
+            <label class="form-label">Homeownership Status</label>
+            <select class="form-control" name="homeownership_status" required>
+                <option class="placeholder" selected disabled value="">Select your Homeownership Status</option>
+                <option value="Own">Own</option>
+                <option value="Rent">Rent</option>
+            </select>
         </div>
         <div class="mb-3">
-            <input class="btn btn-primary" type="submit" value="Predict your Maths Score" required />
+            <label class="form-label">Location</label>
+            <select class="form-control" name="location" required>
+                <option class="placeholder" selected disabled value="">Select your Location</option>
+                <option value="Urban">Urban</option>
+                <option value="Suburban">Suburban</option>
+                <option value="Rural">Rural</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Type of Housing</label>
+            <select class="form-control" name="type_of_housing" required>
+                <option class="placeholder" selected disabled value="">Select your Type of Housing</option>
+                <option value="Apartment">Apartment</option>
+                <option value="Single-family home">Single-family home</option>
+                <option value="Townhouse">Townhouse</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Employment Status</label>
+            <select class="form-control" name="employment_status" required>
+                <option class="placeholder" selected disabled value="">Select your Employment Status</option>
+                <option value="Full-time">Full-time</option>
+                <option value="Self-employed">Self-employed</option>
+                <option value="Part-time">Part-time</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Work Experience (in years)</label>
+            <input class="form-control" type="number" name="work_experience" min="0" required placeholder="Enter your Work Experience" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Number of Dependents</label>
+            <input class="form-control" type="number" name="number_of_dependents" min="0" required placeholder="Enter number of Dependents" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Household Size</label>
+            <input class="form-control" type="number" name="household_size" min="1" required placeholder="Enter your Household Size" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Age</label>
+            <input class="form-control" type="number" name="age" min="0" required placeholder="Enter your Age" />
+        </div>
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Submit" />
         </div>
     </form>
     <h2>
-       THE  prediction is {{results}}
+       The prediction is {{results}}
     </h2>
    <body>
 </html>
