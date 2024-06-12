@@ -120,6 +120,7 @@ def load_object(file_path):
     Returns:
     object: The loaded object.
     """
+    
     try:
         # Load the object from the file using pickle
         with open(file_path, "rb") as file_obj:
