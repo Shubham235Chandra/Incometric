@@ -28,6 +28,7 @@ Incometric is a data-driven application designed to predict potential income bas
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Required Packages
 To run the Incometric application, ensure the following Python packages are installed:
