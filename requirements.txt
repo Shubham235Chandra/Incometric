@@ -8,4 +8,6 @@ xgboost
 Flask
 dill
 streamlit
+python-dotenv
+google.generativeai
 -e .

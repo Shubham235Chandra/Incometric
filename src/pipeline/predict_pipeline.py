@@ -82,10 +82,16 @@ class CustomData:
 
             data_df = pd.DataFrame(custom_data_input_dict)
             predict_pipeline = PredictPipeline()
+            #print("Data Input")
+            #print(data_df)
             cluster_value = predict_pipeline.add_clusters(self.age, self.work_experience, self.household_size, self.living_standards)
             data_df["Cluster"] = float(cluster_value)
+            #print("After Cluster")
+            #print(data_df)
             data_df['Age_Group'] = pd.cut(data_df['Age'], bins=[15, 30, 45, 60, 75], labels=['15-30', '31-45', '46-60', '61-75'])
             data_df['Age_Group'] = data_df['Age_Group'].astype(object)
+            #print("After Age Group")
+            #print(data_df)
             return data_df
         except Exception as e:
             raise CustomException(e, sys)
