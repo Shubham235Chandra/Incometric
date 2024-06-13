@@ -23,25 +23,47 @@ Incometric is a data-driven application designed to predict potential income bas
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- `Python 3.7` or `higher`
 - Install required packages:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Required Packages
-To run the Incometric application, ensure the following Python packages are installed:
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- scikit-learn
-- Flask
-- dill
-- streamlit
-- python-dotenv
-- google.generativeai
+## Required Python Packages
+
+To effectively set up the environment for your "Incometric" project, here's a more detailed guide on the required Python packages and their roles:
+
+### 1. **`pandas`**
+   - Essential for data manipulation and analysis. Provides data structures and operations to manipulate numerical tables and time series.
+
+### 2. **`numpy`**
+   - Adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+### 3. **`seaborn`**
+   - An advanced visualization library based on `matplotlib`. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+### 4. **`matplotlib`**
+   - A plotting library for creating static, interactive, and animated visualizations in Python. It serves as the foundational graphical library for `seaborn`.
+
+### 5. **`scikit-learn`**
+   - Offers simple and efficient tools for predictive data analysis. It's integral for machine learning, providing methods for classification, regression, clustering, and model evaluation.
+
+### 6. **`Flask`**
+   - A micro web framework for Python. It's utilized to create a web server for your application, allowing for the deployment of your model as a web service.
+
+### 7. **`dill`**
+   - Extends Python's `pickle` module. It's particularly useful for serializing and deserializing Python objects, especially those that are not supported by `pickle`.
+
+### 8. **`streamlit`**
+   - Facilitates the creation of apps for machine machine learning and data science. It enables rapid development of data applications with minimal coding.
+
+### 9. **`python-dotboost`**
+   - Reads key-value pairs from a `.env` file and sets them as environment variables. This helps in managing application secrets and configurations without hard coding them.
+
+### 10. **`google.generativeai`**
+   - A package likely related to utilizing Google's Generative AI capabilities, such as those from the TensorFlow ecosystem or specific Google APIs focused on generative models.
+
 
 ## Usage
 
@@ -58,17 +80,39 @@ streamlit run app.py
 
 ## Project Structure
 
-### Files
-- `app.py`: Main Streamlit application file for the user interface and integrating the prediction pipeline.
-- `data_ingestion.py`: Manages data ingestion, including splitting into training and testing sets.
-- `data_transformation.py`: Contains data preprocessing and transformation functions.
-- `model_trainer.py`: Handles training and evaluating machine learning models.
-- `kmeans_clustering.py`: Manages loading and prediction using the K-means clustering model.
-- `predict_pipeline.py`: Includes the prediction pipeline class and data handling.
-- `logger.py`: Sets up logging configurations for the project.
-- `exception.py`: Manages custom exception handling for the project.
-- `utils.py`: Contains utility functions for object saving/loading and model evaluation.
-- `requirements.txt`: Lists all necessary project dependencies.
+### Project Files Overview
+
+The Incometric application is organized into several key files, each serving a specific function within the project architecture:
+
+### 1. **`app.py`**
+   - **Purpose:** Main Streamlit application file. Manages the user interface and integrates the entire prediction pipeline for user interactions.
+
+### 2. **`data_ingestion.py`**
+   - **Purpose:** Manages the ingestion of data sources. Responsible for loading, cleaning, and splitting the data into training and testing sets.
+
+### 3. **`data_transformation.py`**
+   - **Purpose:** Contains all data preprocessing and transformation functions. Essential for feature engineering and preparing data for modeling.
+
+### 4. **`model_trainer.py`**
+   - **Purpose:** Handles the training and evaluation of machine learning models. Includes functionality for parameter tuning and cross-validation.
+
+### 5. **`kmeans_clustering.py`**
+   - **Purpose:** Manages loading and prediction operations for the K-means clustering model. Useful for segmenting data or reducing dimensionality.
+
+### 6. **`predict_pipeline.py`**
+   - **Purpose:** Includes the definition of the prediction pipeline class. Manages the flow from data input through to model prediction output.
+
+### 7. **`logger.py`**
+   - **Purpose:** Sets up the logging configurations. Captures and logs runtime events and errors, aiding in debugging and monitoring.
+
+### 8. **`exception.py`**
+   - **Purpose:** Manages custom exception handling. Enhances error management and control flow within the application.
+
+### 9. **`utils.py`**
+   - **Purpose:** Contains utility functions for the application. Functions include object serialization/deserialization and additional model evaluation metrics.
+
+### 10. **`requirements.txt`**
+   - **Purpose:** Lists all the necessary dependencies and their correct versions for the project. Ensures consistent setup across different environments.
 
 ### Prediction Pipeline
 
@@ -84,56 +128,89 @@ Feature engineering played a critical role in improving the accuracy of the inco
 
 - **Living Standards**: This feature categorizes income into three levels: Low, Medium, and High. This categorization helps the model understand the user's financial situation relative to others.
 
-  - Low: Income below a certain threshold.
-  - Medium: Income within a middle range.
-  - High: Income above a certain threshold.
+  - `Low`: Income below a certain threshold.
+  - `Medium`: Income within a middle range.
+  - `High`: Income above a certain threshold.
 
 - **Age Group**: This feature groups individuals into different age ranges. Age groups provide insights into different stages of life, which can correlate with income levels.
 
-  - 15-30: Young adults, early career stage.
-  - 31-45: Mid-career professionals.
-  - 46-60: Late-career professionals.
-  - 61-75: Nearing or in retirement.
+  - `15-30`: Young adults, early career stage.
+  - `31-45`: Mid-career professionals.
+  - `46-60`: Late-career professionals.
+  - `61-75`: Nearing or in retirement.
 
 - **Cluster**: This feature is derived from K-means clustering, which groups individuals into clusters based on similar demographic and socio-economic characteristics. Clustering helps the model leverage patterns from similar groups to make more accurate predictions.
 
 ## Dataset Overview
 
-The original dataset used in this project is sourced from Kaggle: Regression Dataset for Household Income Analysis. The dataset provides various demographic, socio-economic, and lifestyle factors that can influence household income.
+The original dataset used in this project is sourced from Kaggle: [Regression Dataset for Household Income Analysis](https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis). The dataset provides various demographic, socio-economic, and lifestyle factors that can influence household income.
 
 ### Original Dataset (`data.csv`)
 
-The original dataset, `data.csv`, contains the following columns:
+The original dataset, `data.csv`, comprises various socio-economic and demographic attributes of individuals. This dataset includes the following columns:
 
-Columns:
-- Age
-- Number_of_Dependents
-- Work_Experience
-- Household_Size
-- Income
-- Education_Level
-- Occupation
-- Location
-- Marital_Status
-- Employment_Status
-- Homeownership_Status
-- Type_of_Housing
-- Gender
-- Primary_Mode_of_Transportation
+### Columns:
+- **`Age`**: The age of the individual in years (integer).
+- **`Education_Level`**: The highest level of education attained (categorical: e.g., 'Master's', 'High School', 'Bachelor's').
+- **`Occupation`**: The individual's occupation (categorical: e.g., 'Technology', 'Finance', 'Others').
+- **`Number_of_Dependents`**: The number of dependents that the individual has (integer).
+- **`Location`**: The type of area the individual resides in (categorical: e.g., 'Urban').
+- **`Work_Experience`**: The number of years of professional experience (integer).
+- **`Marital_Status`**: The marital status of the individual (categorical: e.g., 'Married', 'Single').
+- **`Employment_Status`**: The current employment status (categorical: e.g., 'Full-time', 'Self-employed').
+- **`Household_Size`**: The total number of people living in the household (integer).
+- **`Income`**: Annual income in USD (integer).
+- **`Homeownership_Status`**: Homeownership status (categorical: e.g., 'Own').
+- **`Type_of_Housing`**: Type of housing the individual resides in (categorical: e.g., 'Apartment', 'Single-family home', 'Townhouse').
+- **`Gender`**: The gender of the individual (categorical: e.g., 'Male', 'Female').
+- **`Primary_Mode_of_Transportation`**: The primary mode of transportation used by the individual (categorical: e.g., 'Public transit', 'Biking', 'Car', 'Walking').
 
-### Processed Dataset (`data_modified.csv`)
+The dataset is well-structured with a total of 10,000 entries, each representing an individual's profile. This comprehensive data collection is essential for understanding patterns and making predictions related to socio-economic trends.
 
-The original dataset was processed and transformed to create `data_modified.csv`, which was used in the project. The steps involved in transforming the dataset include:
+## Processed Dataset (`data_modified.csv`)
 
-- **Data Cleaning**: Removing any duplicate rows and handling missing values.
-- **Feature Engineering**: Creating new features such as Living_Standards, Age_Group, and Cluster.
-  - Living_Standards: Categorized income into three levels: Low, Medium, High.
-  - Age_Group: Grouped ages into ranges: 15-30, 31-45, 46-60, 61-75.
-  - Cluster: Used K-means clustering to group individuals based on similar characteristics.
-- **Data Transformation**: Scaling numerical features and encoding categorical features to prepare the data for machine learning models.
+The dataset `data_modified.csv` is the result of several data transformation steps applied to the original `data.csv`. These transformations enhance the dataset's utility for predictive modeling and analysis.
 
-The processed dataset, `data_modified.csv`, contains these additional features along with the original columns, enhancing the model's ability to make accurate predictions.
+### Data Transformation Steps:
 
+- **Data Cleaning**: Involved removing duplicate rows and handling any missing values to ensure data integrity.
+- **Feature Engineering**: Introduced new features that provide additional insights and segmentation:
+  - **Living_Standards**: Income categorized into three levels: Low, Medium, High, based on threshold values determined from the data distribution.
+  - **Age_Group**: Ages grouped into ranges (15-30, 31-45, 46-60, 61-75) to facilitate demographic-based analysis.
+  - **Cluster**: Application of K-means clustering to group individuals based on similar demographic and socio-economic characteristics.
+- **Data Transformation**: Numerical features were scaled to normalize data ranges, and categorical features were encoded to convert them into a format suitable for machine learning models.
+
+### Enhanced Dataset Features:
+
+The processed dataset includes these new columns along with the original features:
+
+- **`Age_Group`**: Demographic group based on age.
+- **`Living_Standards`**: Categorical income levels indicating economic status.
+- **`Cluster`**: Labels from K-means clustering representing similar characteristic groups.
+
+### Columns in `data_modified.csv`
+
+The `data_dev.csv` dataset contains a mix of original and newly engineered features that enrich the data for analysis and predictive modeling:
+
+- **`Age`**: The age of the individual in years.
+- **`Education_Level`**: The highest level of education attained by the individual. Examples include 'Master's', 'High School', 'Bachelor's'.
+- **`Occupation`**: The occupation of the individual. Examples include sectors like 'Technology', 'Finance', 'Others'.
+- **`Number_of_Dependents`**: The number of dependents relying on the individual's income.
+- **`Location`**: The residential setting of the individual, categorized as 'Urban' or other types.
+- **`Work_Experience`**: Total years of professional experience.
+- **`Marital_Status`**: Marital status of the individual, e.g., 'Married', 'Single'.
+- **`Employment_Status`**: Current employment condition, such as 'Full-time', 'Self-employed'.
+- **`Household_Size`**: Number of people living in the same household.
+- **`Income`**: Annual income of the individual in USD.
+- **`Homeownership_Status`**: Home ownership status, such as 'Own' or 'Rent'.
+- **`Type_of_Housing`**: Type of housing, including 'Apartment', 'Single-family home', 'Townhouse'.
+- **`Gender`**: Gender of the individual, e.g., 'Male', 'Female'.
+- **`Primary_Mode_of_Transportation`**: Main mode of transportation used by the individual, such as 'Public transit', 'Car', 'Walking'.
+- **`Age_Group`** (New): Age ranges grouped into categories like 15-30, 31-45, 46-60, 61-75, to aid in demographic segmentation.
+- **`Living_Standards`** (New): Economic status divided into 'Low', 'Medium', and 'High', based on income levels.
+- **`Cluster`** (New): Resultant groups from K-means clustering, which classifies individuals based on similar socio-economic and demographic characteristics.
+
+These enhancements make the dataset particularly valuable for in-depth analysis and machine learning applications aimed at predicting socio-economic behaviors. The processed dataset, data_modified.csv, contains these additional features along with the original columns, enhancing the model's ability to make accurate predictions. This structured approach not only enhances the data's descriptive power but also its predictive capabilities, making it highly useful for socio-economic trendanalysis and predictive modeling in the "Incometric" project.
 
 ### File Descriptions
 
@@ -198,44 +275,55 @@ Incometric aims to predict individuals' income based on various demographic, soc
 ### Steps
 
 #### Step 1: Understand the Dataset
-- Acquire the Data: The data has been provided as a CSV file.
-- Read the Documentation: Infer context from the data itself as no additional documentation is available.
-- Define Objectives: Clean the data, understand its structure and distribution, uncover patterns or insights.
+- **Acquire the Data**: The data has been provided as a CSV file named `data.csv` and its processed version `data_modified.csv`.
+- **Read the Documentation**: Infer context from the data itself as no additional documentation is available.
+- **Define Objectives**: Clean the data, understand its structure and distribution, and uncover patterns or insights.
 
 #### Step 2: Dataset Structure
-- Numerical Columns:
-  - Age
-  - Number_of_Dependents
-  - Work_Experience
-  - Household_Size
-  - Income
-- Categorical Columns:
-  - Education_Level
-  - Occupation
-  - Location
-  - Marital_Status
-  - Employment_Status
-  - Homeownership_Status
-  - Type_of_Housing
-  - Gender
-  - Primary_Mode_of_Transportation
+- **Numerical Columns**:
+  - `Age`: The age of the individual in years.
+  - `Number_of_Dependents`: The number of dependents relying on the individual's income.
+  - `Work_Experience`: Total years of professional experience.
+  - `Household_Size`: Number of people living in the same household.
+  - `Income`: Annual income of the individual in USD.
+- **Categorical Columns**:
+  - `Education_Level`: The highest level of education attained by the individual (e.g., 'Master's', 'High School', 'Bachelor's').
+  - `Occupation`: The occupation of the individual (e.g., 'Technology', 'Finance', 'Others').
+  - `Location`: The residential setting of the individual (e.g., 'Urban').
+  - `Marital_Status`: Marital status of the individual (e.g., 'Married', 'Single').
+  - `Employment_Status`: Current employment condition (e.g., 'Full-time', 'Self-employed').
+  - `Homeownership_Status`: Home ownership status (e.g., 'Own', 'Rent').
+  - `Type_of_Housing`: Type of housing (e.g., 'Apartment', 'Single-family home', 'Townhouse').
+  - `Gender`: Gender of the individual (e.g., 'Male', 'Female').
+  - `Primary_Mode_of_Transportation`: Main mode of transportation used by the individual (e.g., 'Public transit', 'Car', 'Walking').
 
-#### Step 3: Data Cleaning
-- The dataset appears free from missing values and duplicates based on initial examination.
-- Perform thorough checks to confirm.
-- Dataset contains no duplicate rows and no missing values, allowing direct progression to data profiling and exploratory visualization.
+### Step 3: Data Cleaning
+- **Remove Duplicates**: Ensure there are no duplicate rows that might skew the analysis.
+- **Handle Missing Values**: Address any missing values appropriately, either by imputation or removal.
 
-#### Step 4: Data Profiling
-- Objective: Summarize the data and confirm data types.
-- Tasks:
-  - Confirm data types of each column.
-  - Analyze the distribution of numerical and categorical variables.
+### Step 4: Feature Engineering
+- **Create New Features**: Enhance the dataset by creating new features such as:
+  - `Living_Standards`: Categorized income into three levels: Low, Medium, High.
+  - `Age_Group`: Grouped ages into ranges: 15-30, 31-45, 46-60, 61-75.
+  - `Cluster`: Used K-means clustering to group individuals based on similar characteristics.
 
-#### Step 5: Exploratory Visualization
-- Visualize distributions and relationships between variables.
-- Use plots like histograms, box plots, scatter plots, and correlation matrices to understand the data better.
+### Step 5: Data Transformation
+- **Scale Numerical Features**: Normalize numerical data to bring all features onto a comparable scale.
+- **Encode Categorical Features**: Convert categorical data into a numerical format suitable for machine learning models.
 
-### Example
+### Step 6: Uncover Patterns and Insights
+- **Visualizations**: Use graphs and plots to identify trends, distributions, and relationships within the data.
+  - **Histograms**: Understand the distribution of numerical features.
+  - **Box Plots**: Identify outliers and visualize the spread of the data.
+  - **Scatter Plots**: Examine relationships between pairs of numerical variables.
+  - **Bar Charts**: Analyze the frequency distribution of categorical variables.
+
+### Conclusion
+This structured approach to EDA ensures a comprehensive understanding of the dataset, laying the foundation for building robust predictive models in the "Incometric" project. The combination of data cleaning, feature engineering, and visualization provides critical insights necessary for informed decision-making.
+
+For a detailed walkthrough of the EDA process, please refer to the [EDA Notebook](https://github.com/Shubham235Chandra/Incometric/blob/main/EDA/data/EDA.ipynb).
+
+### Project Outcome
 After running the application, users can input their personal and demographic details such as age, gender, education level, occupation, and more. The application will then predict their potential income range and provide personalized financial advice.
 
 ## Contributing
