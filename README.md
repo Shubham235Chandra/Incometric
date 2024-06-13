@@ -19,16 +19,30 @@ Incometric is a data-driven application designed to predict potential income bas
 2. **Advanced Model**: This is a full-fledged advanced model where data science is integrated with Generative AI. It not only predicts income but also provides personalized recommendations from a Personal Financial Advisor.
    - [Incometric Advanced Model](https://huggingface.co/spaces/Shubham235/Incometric)
 
-## Installation
-
 ### Prerequisites
 
 - `Python 3.7` or `higher`
-- Install required packages:
 
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Incometric.git
+   cd Incometric
+   ```
+
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Running the Application
+
+To start the Streamlit app, run:
 ```bash
-pip install -r requirements.txt
+streamlit run HomeScope.py
 ```
+The application will be accessible at `http://localhost:8501`.
 
 ## Required Python Packages
 
