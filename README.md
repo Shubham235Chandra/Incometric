@@ -53,6 +53,7 @@ To run the Incometric application, ensure the following Python packages are inst
 3. Run the Streamlit application using the following command:
 ```bash
 streamlit run app.py
+```
 
 # Incometric
 
