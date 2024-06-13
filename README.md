@@ -35,34 +35,34 @@ pip install -r requirements.txt
 To effectively set up the environment for your "Incometric" project, here's a more detailed guide on the required Python packages and their roles:
 
 #### 1. **`pandas`** 
-		- Essential for data manipulation and analysis. Provides data structures and operations to manipulate numerical tables and time series.
+- Essential for data manipulation and analysis. Provides data structures and operations to manipulate numerical tables and time series.
 
 #### 2. **`numpy`** 
-		- Adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+- Adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 #### 3. **`seaborn`** 
-		- An advanced visualization library based on `matplotlib`. It provides a high-level interface for drawing attractive and informative statistical graphics.
+- An advanced visualization library based on `matplotlib`. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
 #### 4. **`matplotlib`** 
-		- A plotting library for creating static, interactive, and animated visualizations in Python. It serves as the foundational graphical library for `seaborn`.
+- A plotting library for creating static, interactive, and animated visualizations in Python. It serves as the foundational graphical library for `seaborn`.
 
 #### 5. **`scikit-learn`** 
-		- Offers simple and efficient tools for predictive data analysis. It's integral for machine learning, providing methods for classification, regression, clustering, and model evaluation.
+- Offers simple and efficient tools for predictive data analysis. It's integral for machine learning, providing methods for classification, regression, clustering, and model evaluation.
 
 #### 6. **`Flask`** 
-		- A micro web framework for Python. It's utilized to create a web server for your application, allowing for the deployment of your model as a web service.
+- A micro web framework for Python. It's utilized to create a web server for your application, allowing for the deployment of your model as a web service.
 
 #### 7. **`dill`** 
-		- Extends Python's `pickle` module. It's particularly useful for serializing and deserializing Python objects, especially those that are not supported by `pickle`.
+- Extends Python's `pickle` module. It's particularly useful for serializing and deserializing Python objects, especially those that are not supported by `pickle`.
 
 #### 8. **`streamlit`** 
-		- Facilitates the creation of apps for machine machine learning and data science. It enables rapid development of data applications with minimal coding.
+- Facilitates the creation of apps for machine machine learning and data science. It enables rapid development of data applications with minimal coding.
 
 #### 9. **`python-dotboost`** 
-		- Reads key-value pairs from a `.env` file and sets them as environment variables. This helps in managing application secrets and configurations without hard coding them.
+- Reads key-value pairs from a `.env` file and sets them as environment variables. This helps in managing application secrets and configurations without hard coding them.
 
 #### 10. **`google.generativeai`** 
-		- A package likely related to utilizing Google's Generative AI capabilities, such as those from the TensorFlow ecosystem or specific Google APIs focused on generative models.
+- A package likely related to utilizing Google's Generative AI capabilities, such as those from the TensorFlow ecosystem or specific Google APIs focused on generative models.
 
 
 ## Usage
@@ -85,34 +85,34 @@ streamlit run app.py
 The Incometric application is organized into several key files, each serving a specific function within the project architecture:
 
 #### 1. **`app.py`** 
-		- **Purpose:** Main Streamlit application file. Manages the user interface and integrates the entire prediction pipeline for user interactions.
+- **Purpose:** Main Streamlit application file. Manages the user interface and integrates the entire prediction pipeline for user interactions.
 
 #### 2. **`data_ingestion.py`** 
-		- **Purpose:** Manages the ingestion of data sources. Responsible for loading, cleaning, and splitting the data into training and testing sets.
+- **Purpose:** Manages the ingestion of data sources. Responsible for loading, cleaning, and splitting the data into training and testing sets.
 
 #### 3. **`data_transformation.py`** 
-		- **Purpose:** Contains all data preprocessing and transformation functions. Essential for feature engineering and preparing data for modeling.
+- **Purpose:** Contains all data preprocessing and transformation functions. Essential for feature engineering and preparing data for modeling.
 
 #### 4. **`model_trainer.py`** 
-		- **Purpose:** Handles the training and evaluation of machine learning models. Includes functionality for parameter tuning and cross-validation.
+- **Purpose:** Handles the training and evaluation of machine learning models. Includes functionality for parameter tuning and cross-validation.
 
 #### 5. **`kmeans_clustering.py`** 
-		- **Purpose:** Manages loading and prediction operations for the K-means clustering model. Useful for segmenting data or reducing dimensionality.
+- **Purpose:** Manages loading and prediction operations for the K-means clustering model. Useful for segmenting data or reducing dimensionality.
 
 #### 6. **`predict_pipeline.py`** 
-		- **Purpose:** Includes the definition of the prediction pipeline class. Manages the flow from data input through to model prediction output.
+- **Purpose:** Includes the definition of the prediction pipeline class. Manages the flow from data input through to model prediction output.
 
 #### 7. **`logger.py`** 
-		- **Purpose:** Sets up the logging configurations. Captures and logs runtime events and errors, aiding in debugging and monitoring.
+- **Purpose:** Sets up the logging configurations. Captures and logs runtime events and errors, aiding in debugging and monitoring.
 
 #### 8. **`exception.py`** 
-		- **Purpose:** Manages custom exception handling. Enhances error management and control flow within the application.
+- **Purpose:** Manages custom exception handling. Enhances error management and control flow within the application.
 
 #### 9. **`utils.py`** 
-		- **Purpose:** Contains utility functions for the application. Functions include object serialization/deserialization and additional model evaluation metrics.
+- **Purpose:** Contains utility functions for the application. Functions include object serialization/deserialization and additional model evaluation metrics.
 
 #### 10. **`requirements.txt`** 
-		- **Purpose:** Lists all the necessary dependencies and their correct versions for the project. Ensures consistent setup across different environments.
+- **Purpose:** Lists all the necessary dependencies and their correct versions for the project. Ensures consistent setup across different environments.
 
 ### Prediction Pipeline
 
