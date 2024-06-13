@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incometric</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .card {
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+        .btn-primary {
+            width: 100%;
+            margin-top: 20px;
+        }
+        h2 {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .prediction-result {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h1 class="card-title text-center">Enter your Information</h1>
+            <form action="{{ url_for('predict_datapoint') }}" method="post" onsubmit="return validateAge()">
+                <fieldset>
+                    <legend>Personal Details</legend>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="gender">Gender</label>
+                                <select class="form-control" id="gender" name="gender" required>
+                                    <option selected disabled value="">Select your Gender</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="primary_mode_of_transportation">Primary Mode of Transportation</label>
+                                <select class="form-control" id="primary_mode_of_transportation" name="primary_mode_of_transportation" required>
+                                    <option selected disabled value="">Select your Mode of Transportation</option>
+                                    <option value="Public transit">Public transit</option>
+                                    <option value="Biking">Biking</option>
+                                    <option value="Car">Car</option>
+                                    <option value="Walking">Walking</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="education_level">Education Level</label>
+                                <select class="form-control" id="education_level" name="education_level" required>
+                                    <option selected disabled value="">Select your Education Level</option>
+                                    <option value="Master's">Master's</option>
+                                    <option value="Bachelor's">Bachelor's</option>
+                                    <option value="High School">High School</option>
+                                    <option value="Doctorate">Doctorate</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="occupation">Occupation</label>
+                                <select class="form-control" id="occupation" name="occupation" required>
+                                    <option selected disabled value="">Select your Occupation</option>
+                                    <option value="Technology">Technology</option>
+                                    <option value="Finance">Finance</option>
+                                    <option value="Education">Education</option>
+                                    <option value="Healthcare">Healthcare</option>
+                                    <option value="Others">Others</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="marital_status">Marital Status</label>
+                                <select class="form-control" id="marital_status" name="marital_status" required>
+                                    <option selected disabled value="">Select your Marital Status</option>
+                                    <option value="Married">Married</option>
+                                    <option value="Single">Single</option>
+                                    <option value="Divorced">Divorced</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="living_standards">Living Standards</label>
+                                <select class="form-control" id="living_standards" name="living_standards" required>
+                                    <option selected disabled value="">Select your Living Standards</option>
+                                    <option value="High">High</option>
+                                    <option value="Medium">Medium</option>
+                                    <option value="Low">Low</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="homeownership_status">Homeownership Status</label>
+                                <select class="form-control" id="homeownership_status" name="homeownership_status" required>
+                                    <option selected disabled value="">Select your Homeownership Status</option>
+                                    <option value="Own">Own</option>
+                                    <option value="Rent">Rent</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="location">Location</label>
+                                <select class="form-control" id="location" name="location" required>
+                                    <option selected disabled value="">Select your Location</option>
+                                    <option value="Urban">Urban</option>
+                                    <option value="Suburban">Suburban</option>
+                                    <option value="Rural">Rural</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="type_of_housing">Type of Housing</label>
+                                <select class="form-control" id="type_of_housing" name="type_of_housing" required>
+                                    <option selected disabled value="">Select your Type of Housing</option>
+                                    <option value="Apartment">Apartment</option>
+                                    <option value="Single-family home">Single-family home</option>
+                                    <option value="Townhouse">Townhouse</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="employment_status">Employment Status</label>
+                                <select class="form-control" id="employment_status" name="employment_status" required>
+                                    <option selected disabled value="">Select your Employment Status</option>
+                                    <option value="Full-time">Full-time</option>
+                                    <option value="Self-employed">Self-employed</option>
+                                    <option value="Part-time">Part-time</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="work_experience">Work Experience (in years)</label>
+                                <input class="form-control" id="work_experience" type="number" name="work_experience" min="0" required placeholder="Enter your Work Experience" />
+                            </div>
+                            <div class="form-group">
+                                <label for="number_of_dependents">Number of Dependents</label>
+                                <input class="form-control" id="number_of_dependents" type="number" name="number_of_dependents" min="0" required placeholder="Enter number of Dependents" />
+                            </div>
+                            <div class="form-group">
+                                <label for="household_size">Household Size</label>
+                                <input class="form-control" id="household_size" type="number" name="household_size" min="1" required placeholder="Enter your Household Size" />
+                            </div>
+                            <div class="form-group">
+                                <label for="age">Age</label>
+                                <input class="form-control" id="age" type="number" name="age" min="18" required placeholder="Enter your Age" />
+                            </div>
+                            <div class="form-group">
+                                <label for="current_income">Your Current Yearly Income</label>
+                                <input class="form-control" id="current_income" type="number" name="current_income" min="0" required placeholder="Enter your Current Income" />
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </fieldset>
+            </form>
+            {% if results %}
+                <div class="prediction-result text-center">
+                    <h2>The prediction is:</h2>
+                    <p class="lead">{{ results }}</p>
+                </div>
+            {% endif %}
+            {% if suggestions %}
+                <div class="prediction-result text-center">
+                    <h2>Personalized Financial Suggestions:</h2>
+                    <p class="lead">{{ suggestions }}</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        function validateAge() {
+            var age = document.getElementById('age').value;
+            if (age < 18) {
+                alert('Age must be 18 or older.');
+                return false;
+            }
+            return true;
+        }
+    </script>
+</body>
+</html>

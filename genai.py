@@ -40,6 +40,11 @@ def advice(current_income, predicted_income, gender, primary_mode_of_transportat
 
 
 '''
+prompt = advice(current_income, predicted_income, gender, primary_mode_of_transportation, education_level, 
+                occupation, marital_status, living_standards, homeownership_status, location, type_of_housing, 
+                employment_status, work_experience, number_of_dependents, household_size)
+
+
 
 input_prompt = """
             Hey, simulate a personal financial advisor equipped with expertise in economic forecasting and demographic analysis. 
