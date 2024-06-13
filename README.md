@@ -14,10 +14,10 @@ Incometric is a data-driven application designed to predict potential income bas
 ## Project Live 
 
 1. **Basic Model**: This version runs the data science model to suggest your income based on the provided data. The suggestions are hard coded.
-   - [Incometric Basic Model](https://incometric.streamlit.app/){:target="_blank"}
+   - [Incometric Basic Model](https://incometric.streamlit.app/)
 
 2. **Advanced Model**: This is a full-fledged advanced model where data science is integrated with Generative AI. It not only predicts income but also provides personalized recommendations from a Personal Financial Advisor.
-   - [Incometric Advanced Model](https://huggingface.co/spaces/Shubham235/Incometric){:target="_blank"}
+   - [Incometric Advanced Model](https://huggingface.co/spaces/Shubham235/Incometric)
 
 ## Installation
 
@@ -143,7 +143,7 @@ Feature engineering played a critical role in improving the accuracy of the inco
 
 ## Dataset Overview
 
-The original dataset used in this project is sourced from Kaggle: [Regression Dataset for Household Income Analysis](https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis){:target="_blank"}. The dataset provides various demographic, socio-economic, and lifestyle factors that can influence household income.
+The original dataset used in this project is sourced from Kaggle: [Regression Dataset for Household Income Analysis](https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis). The dataset provides various demographic, socio-economic, and lifestyle factors that can influence household income.
 
 ### Original Dataset (`data.csv`)
 
@@ -321,7 +321,7 @@ Incometric aims to predict individuals' income based on various demographic, soc
 ### Conclusion
 This structured approach to EDA ensures a comprehensive understanding of the dataset, laying the foundation for building robust predictive models in the "Incometric" project. The combination of data cleaning, feature engineering, and visualization provides critical insights necessary for informed decision-making.
 
-For a detailed walkthrough of the EDA process, please refer to the [EDA Notebook](https://github.com/Shubham235Chandra/Incometric/blob/main/EDA/data/EDA.ipynb){:target="_blank"}.
+For a detailed walkthrough of the EDA process, please refer to the [EDA Notebook](https://github.com/Shubham235Chandra/Incometric/blob/main/EDA/data/EDA.ipynb).
 
 ### Project Outcome
 After running the application, users can input their personal and demographic details such as age, gender, education level, occupation, and more. The application will then predict their potential income range and provide personalized financial advice.
