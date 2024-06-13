@@ -1,36 +1,141 @@
 # Incometric: The Future of Income Prediction
 
-## Project Idea
-Incometric is an advanced machine learning model designed to predict an individual's income based on a comprehensive analysis of various demographic and socio-economic factors. The project harnesses the power of data science to provide accurate and insightful income predictions, making it a valuable tool for financial planning, policy-making, and economic research.
+## Project Overview
 
-## Components
+Incometric is a data-driven application designed to predict potential income based on various personal and demographic factors. This project utilizes machine learning models and clustering techniques to provide users with an estimated income range and personalized financial advice. The application is built using Flask, Streamlit, and integrates Google Generative AI for advanced recommendations.
 
-### 1. Data Preprocessing
-- **Missing Values:** Implement strategies to handle missing data, ensuring the dataset's integrity.
-- **Categorical Encoding:** Convert categorical variables into a suitable numerical format using techniques like one-hot encoding or ordinal encoding.
-- **Normalization:** Scale numerical features to ensure consistent data ranges, improving model performance and convergence.
+## Features
 
-### 2. Feature Engineering
-- **New Features:** Develop innovative features that enhance predictive power, such as interaction terms or aggregated socio-economic metrics.
-- **Domain Expertise:** Incorporate expert knowledge to create meaningful and relevant features.
+- **Income Prediction**: Predicts user's potential income based on their profile.
+- **Clustering**: Uses K-means clustering to categorize users into different groups.
+- **Personalized Financial Advice**: Provides actionable recommendations to improve financial stability and increase income.
+- **User-Friendly Interface**: Streamlit-based UI for easy input and output visualization.
 
-### 3. Model Selection and Training
-- **Regression Models:** Experiment with a variety of regression models, including linear regression, decision trees, random forests, and XGBoost.
-- **Hyperparameter Tuning:** Optimize model parameters to achieve the best performance.
-- **Training:** Train models on the preprocessed and feature-engineered dataset to learn the complex patterns influencing income.
+## Live Demos
 
-### 4. Model Evaluation
-- **Performance Metrics:** Use Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R² to assess model accuracy and effectiveness.
-- **Cross-Validation:** Perform cross-validation to ensure the model's robustness and generalizability across different data subsets.
+1. **Basic Model**: This version runs the data science model to suggest your income based on the provided data. The suggestions are hard coded.
+   - [Incometric Basic Model](https://incometric.streamlit.app/)
 
-### 5. Visualization
-- **Feature Importances:** Plot and interpret the significance of each feature in predicting income.
-- **Prediction Errors:** Visualize discrepancies between actual and predicted incomes to identify areas of improvement.
-- **Comparative Analysis:** Compare actual versus predicted values to evaluate the model's predictive accuracy.
+2. **Advanced Model**: This is a full-fledged advanced model where data science is integrated with Generative AI. It not only predicts income but also provides personalized recommendations from a Personal Financial Advisor.
+   - [Incometric Advanced Model](https://huggingface.co/spaces/Shubham235/Incometric)
 
-### 6. Deployment
-- **Web Application:** Develop a user-friendly web application where users can input their details and receive real-time income predictions.
-- **API Endpoint:** Create a scalable API endpoint for seamless integration with other applications and services.
+## Installation
 
-## Conclusion
-**Incometric** combines state-of-the-art machine learning techniques with rigorous data preprocessing and feature engineering to deliver precise and actionable income predictions. Whether for personal financial planning, academic research, or governmental policy development, Incometric is your go-to tool for understanding and forecasting income dynamics in today's complex economic landscape.
+### Prerequisites
+
+- Python 3.7 or higher
+- Install required packages:
+
+```bash
+pip install -r requirements.txt
+
+## Required Packages
+To run the Incometric application, ensure the following Python packages are installed:
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
+- catboost
+- xgboost
+- Flask
+- dill
+- streamlit
+- python-dotenv
+- google.generativeai
+
+## Usage
+
+### Running the Application
+1. Ensure all required dependencies are installed.
+2. Set up the `GOOGLE_API_KEY` in your environment variables.
+3. Run the Streamlit application using the following command:
+```bash
+streamlit run app.py
+
+# Incometric
+
+## Project Structure
+
+### Files
+- `app.py`: Main Streamlit application file for the user interface and integrating the prediction pipeline.
+- `data_ingestion.py`: Manages data ingestion, including splitting into training and testing sets.
+- `data_transformation.py`: Contains data preprocessing and transformation functions.
+- `model_trainer.py`: Handles training and evaluating machine learning models.
+- `kmeans_clustering.py`: Manages loading and prediction using the K-means clustering model.
+- `predict_pipeline.py`: Includes the prediction pipeline class and data handling.
+- `logger.py`: Sets up logging configurations for the project.
+- `exception.py`: Manages custom exception handling for the project.
+- `utils.py`: Contains utility functions for object saving/loading and model evaluation.
+- `requirements.txt`: Lists all necessary project dependencies.
+
+### Prediction Pipeline
+
+- **CustomData Class**: Formats user input data.
+- **PredictPipeline Class**: Loads models, preprocesses data, and makes predictions.
+- **Clustering**: Enhances predictions by incorporating cluster information based on user data.
+
+## Feature Engineering
+
+Important engineered features improving model accuracy:
+
+- **Living Standards**: Categorizes income into Low, Medium, and High, helping the model assess financial situations.
+- **Age Group**: Groups individuals into age ranges, providing insights correlating with income levels.
+- **Cluster**: Uses K-means clustering to group similar demographic and socio-economic characteristics.
+
+## Dataset Overview
+
+### Original Dataset (`data.csv`)
+
+Columns:
+- Age
+- Number_of_Dependents
+- Work_Experience
+- Household_Size
+- Income
+- Education_Level
+- Occupation
+- Location
+- Marital_Status
+- Employment_Status
+- Homeownership_Status
+- Type_of_Housing
+- Gender
+- Primary_Mode_of_Transportation
+
+### Processed Dataset (`data_modified.csv`)
+
+Transformations:
+- Data Cleaning: Removes duplicates and handles missing values.
+- Feature Engineering: Adds new features like Living Standards, Age Group, and Cluster.
+- Data Transformation: Scales numerical features and encodes categorical features.
+
+## Exploratory Data Analysis (EDA)
+
+### Steps
+
+1. **Understand the Dataset**
+   - Acquire and infer context from the data.
+   - Define objectives like data cleaning and understanding structure.
+
+2. **Data Cleaning**
+   - Check and confirm no missing values or duplicate rows.
+
+3. **Data Profiling**
+   - Confirm data types.
+   - Analyze distributions of numerical and categorical variables.
+
+4. **Exploratory Visualization**
+   - Visualize distributions and relationships using histograms, box plots, scatter plots, and correlation matrices.
+
+## Example Usage
+
+Users input personal details like age, gender, and occupation. The application predicts potential income ranges and offers personalized financial advice.
+
+## Contributing
+
+Feel free to submit issues or pull requests. For major changes, open an issue first to discuss proposed changes.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
