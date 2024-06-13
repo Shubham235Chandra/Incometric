@@ -331,3 +331,10 @@ Feel free to submit issues or pull requests. For major changes, please open an i
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact Me
+
+If you have any questions or would like to discuss further, feel free to reach out:
+
+- **Email**: [shubhamchandrawork@gmail.com](mailto:shubhamchandrawork@gmail.com)
+- **LinkedIn**: [Shubham Chandra](https://www.linkedin.com/in/schandra235)
