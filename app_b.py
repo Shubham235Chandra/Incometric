@@ -1,10 +1,104 @@
 import streamlit as st
-import os 
+import os
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 from src.logger import logging
 
-
 logging.basicConfig(level=logging.INFO)
+
+# Adding custom CSS to enhance the appearance of the app
+st.markdown(
+    """
+    <style>
+    /* General app styling */
+    body {
+        background-color: #f7f9fc;
+        color: #333;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .main {
+        padding: 20px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+    }
+
+    /* Title styling */
+    .css-1d391kg {
+        text-align: center;
+        color: #2c3e50;
+        font-size: 2.5em;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    /* Sidebar styling */
+    .css-12oz5g7 {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 1.5em;
+        color: #ffffff;
+        background-color: #2c3e50;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    /* Input fields styling */
+    .st-af, .st-ag {
+        background-color: #ffffff;
+        color: #333;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    /* Button styling */
+    .stButton button {
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 1.2em;
+        border: none;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+
+    .stButton button:hover {
+        background-color: #0056b3;
+    }
+
+    /* Success message styling */
+    .stAlert {
+        background-color: #28a745;
+        color: white;
+        border-radius: 5px;
+        padding: 20px;
+        font-size: 1.2em;
+    }
+
+    /* Error message styling */
+    .stError {
+        background-color: #dc3545;
+        color: white;
+        border-radius: 5px;
+        padding: 20px;
+        font-size: 1.2em;
+    }
+
+    /* Markdown text styling */
+    .css-17xtpcr {
+        font-size: 1.2em;
+        line-height: 1.6;
+        color: #333;
+    }
+
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 st.title('Incometric')
 
@@ -13,7 +107,6 @@ def validate_age(age):
         st.error('Age must be 18 or older.')
         return False
     return True
-
 
 def main():
     show_basic_info = True
@@ -32,11 +125,7 @@ def main():
             living_standards = st.selectbox('Living Standards', ['Select your Living Standards', 'High', 'Medium', 'Low'])
             homeownership_status = st.selectbox('Homeownership Status', ['Select your Homeownership Status', 'Own', 'Rent'])
 
-        st.write("###")  # Adding space between the columns and the new input
-
         current_income = st.number_input('Your Current Yearly Income', min_value=0.0)
-
-        st.write("###")  # Adding space between the new input and the next column
 
         with col2:
             location = st.selectbox('Location', ['Select your Location', 'Urban', 'Suburban', 'Rural'])
@@ -78,7 +167,6 @@ def main():
             predict_pipeline = PredictPipeline()
             results = predict_pipeline.predicts(pred_df)
 
-
             # Calculate the rounded result
             rounded_result = round(results[0])
 
@@ -90,10 +178,10 @@ def main():
             upper_bound = round((rounded_result + interval_range) / 1000) * 100
 
             # Display the result in the specified format
-            st.success(f'Based on your Profile, your Income Range should be in between {int(lower_bound):,} and {int(upper_bound):,}.')
+            st.success(f'Based on the provided data, the predicted income range is between {int(lower_bound):,} and {int(upper_bound):,}.')
 
         except Exception as e:
-            pass
+            st.error(f"An error occurred: {e}")
 
     if show_basic_info:
         st.markdown("""
