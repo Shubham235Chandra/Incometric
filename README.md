@@ -27,7 +27,7 @@ Incometric is a data-driven application designed to predict potential income bas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Incometric.git
+   git clone https://github.com/Shubham235Chandra/Incometric.git
    cd Incometric
    ```
 
